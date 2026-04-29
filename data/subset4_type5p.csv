@@ -1,0 +1,801 @@
+﻿premise,hypothesis,gold_label,trigger,SetID,UID,trigger_words,premise_type
+"If Jessica attends the conference, her colleague will meet her at the university.",Jessica has a colleague.,E,possessive,0,type5p_possessive_00,her colleague,related
+"If Jessica attends the conference, her colleague will get rid of his old car.",Jessica has a colleague.,E,possessive,0,type5p_possessive_00,her colleague,unrelated
+"If Emily passes her driving test, her best friend will take her out for a post exam celebratory dinner.",Emily has a best friend.,E,possessive,1,type5p_possessive_01,her best friend,related
+"If Emily passes her driving test, her best friend will travel to Europe.",Emily has a best friend.,E,possessive,1,type5p_possessive_01,her best friend,unrelated
+"If Scarlett finishes her chores early, her husband will take her out for lunch.",Scarlett has a husband.,E,possessive,2,type5p_possessive_02,her husband,related
+"If Scarlett finishes her chores early, her husband will adopt a puppy.",Scarlett has a husband.,E,possessive,2,type5p_possessive_02,her husband,unrelated
+"If Chloe finishes his project early, his colleagues will take him out for drinks.",Chloe has colleagues.,E,possessive,3,type5p_possessive_03,his colleagues,related
+"If Chloe finishes his project early, his colleagues will paint his fence.",Chloe has colleagues.,E,possessive,3,type5p_possessive_03,his colleagues,unrelated
+"If Charlotte passes her math test, her parents will buy her a calculator.",Charlotte has parents.,E,possessive,4,type5p_possessive_04,her parents,related
+"If Charlotte passes her math test, her parents will walk her turtle.",Charlotte has parents.,E,possessive,4,type5p_possessive_04,her parents,unrelated
+"If Mia's phone breaks down, her coworker will give her a charger to the office.",Mia has a coworker.,E,possessive,5,type5p_possessive_05,her coworker,related
+"If Mia's phone breaks down, her coworker will knit her a sweater to the office.",Mia has a coworker.,E,possessive,5,type5p_possessive_05,her coworker,unrelated
+"If Ryan passes his math test, his parents will be very proud.",Ryan has parents.,E,possessive,6,type5p_possessive_06,his parents,related
+"If Ryan passes his math test, his parents will water his garden.",Ryan has parents.,E,possessive,6,type5p_possessive_06,his parents,unrelated
+"If Lily takes the train to the airport, her friend will meet her at the gate.",Lily has a friend.,E,possessive,7,type5p_possessive_07,her friend,related
+"If Lily takes the train to the airport, her friend will play her violin at the gate.",Lily has a friend.,E,possessive,7,type5p_possessive_07,her friend,unrelated
+"If Lisa finishes his meeting early, his colleague will drive him to the office.",Lisa has a colleague.,E,possessive,8,type5p_possessive_08,his colleague,related
+"If Lisa finishes his meeting early, his colleague will feed him popcorn to the office.",Lisa has a colleague.,E,possessive,8,type5p_possessive_08,his colleague,unrelated
+"If Jennifer finishes her report early, her colleagues will take her out for coffee.",Jennifer has colleagues.,E,possessive,9,type5p_possessive_09,her colleagues,related
+"If Jennifer finishes her report early, her colleagues will sweep her porch.",Jennifer has colleagues.,E,possessive,9,type5p_possessive_09,her colleagues,unrelated
+"If Sarah has a dentist appointment, her husband will drive her to the hospital.",Sarah has a husband.,E,possessive,10,type5p_possessive_10,her husband,related
+"If Sarah has a dentist appointment, her husband will fly her kite.",Sarah has a husband.,E,possessive,10,type5p_possessive_10,her husband,unrelated
+"If Evelyn lands in Los Angeles, her best friend will greet her at the hotel.",Evelyn has a best friend.,E,possessive,11,type5p_possessive_11,her best friend,related
+"If Evelyn lands in Los Angeles, her best friend will build her a sandcastle at the hotel.",Evelyn has a best friend.,E,possessive,11,type5p_possessive_11,her best friend,unrelated
+"If Daniel arrives on time, his best friend will be waiting for him at the bus stop.",Daniel has a best friend.,E,possessive,12,type5p_possessive_12,his best friend,related
+"If Daniel arrives on time, his best friend will wash his backpack at the bus stop.",Daniel has a best friend.,E,possessive,12,type5p_possessive_12,his best friend,unrelated
+"If Isabella finishes her assignment early, her colleague will treat her to coffee.",Isabella has a colleague.,E,possessive,13,type5p_possessive_13,her colleague,related
+"If Isabella finishes her assignment early, her colleague will paint her mailbox.",Isabella has a colleague.,E,possessive,13,type5p_possessive_13,her colleague,unrelated
+"If Elijah attends the seminar, his colleague will meet him at the auditorium.",Elijah has a colleague.,E,possessive,14,type5p_possessive_14,his colleague,related
+"If Elijah attends the seminar, his colleague will sing him a lullaby at the auditorium.",Elijah has a colleague.,E,possessive,14,type5p_possessive_14,his colleague,unrelated
+"If Patricia finishes her project early, her colleague will take her out for coffee.",Patricia has a colleague.,E,possessive,15,type5p_possessive_15,her colleague,related
+"If Patricia finishes her project early, her colleague will dust her bookshelf.",Patricia has a colleague.,E,possessive,15,type5p_possessive_15,her colleague,unrelated
+"If Linda graduates from law school, her parents will throw her a celebration dinner.",Linda has parents.,E,possessive,16,type5p_possessive_16,her parents,related
+"If Linda graduates from law school, her parents will organize her closet.",Linda has parents.,E,possessive,16,type5p_possessive_16,her parents,unrelated
+"If Karen's train is delayed, her friend will wait for her at the station.",Karen has a friend.,E,possessive,17,type5p_possessive_17,her friend,related
+"If Karen's train is delayed, her friend will water her flowers at the station.",Karen has a friend.,E,possessive,17,type5p_possessive_17,her friend,unrelated
+"If Abigail finishes her report early, her colleague will treat her to coffee.",Abigail has a colleague.,E,possessive,18,type5p_possessive_18,her colleague,related
+"If Abigail finishes her report early, her colleague will fly her drone.",Abigail has a colleague.,E,possessive,18,type5p_possessive_18,her colleague,unrelated
+"If Elizabeth finishes her report early, her colleagues will take her out for celebratory dessert.",Elizabeth has colleagues.,E,possessive,19,type5p_possessive_19,her colleagues,related
+"If Elizabeth finishes her report early, her colleagues will build her a treehouse.",Elizabeth has colleagues.,E,possessive,19,type5p_possessive_19,her colleagues,unrelated
+"If Zoey finishes his presentation early, his colleague will drive him to the client's office.",Zoey has a colleague.,E,possessive,20,type5p_possessive_20,his colleague,related
+"If Zoey finishes his presentation early, his colleague will water his plants to the client's office.",Zoey has a colleague.,E,possessive,20,type5p_possessive_20,his colleague,unrelated
+"If Harper arrives early, her friend will meet her at the library.",Harper has a friend.,E,possessive,21,type5p_possessive_21,her friend,related
+"If Harper arrives early, her friend will feed her goldfish at the library.",Harper has a friend.,E,possessive,21,type5p_possessive_21,her friend,unrelated
+"If Ethan arrives on time, his colleague will give him a ride to the office.",Ethan has a colleague.,E,possessive,22,type5p_possessive_22,his colleague,related
+"If Ethan arrives on time, his colleague will bake him muffins to the office.",Ethan has a colleague.,E,possessive,22,type5p_possessive_22,his colleague,unrelated
+"If Kimberly finishes work early, his friend will drive him to the festival.",Kimberly has a friend.,E,possessive,23,type5p_possessive_23,his friend,related
+"If Kimberly finishes work early, his friend will tune his guitar to the festival.",Kimberly has a friend.,E,possessive,23,type5p_possessive_23,his friend,unrelated
+"If Ashley decides to study medicine, her parents will help her with the registration process.",Ashley has parents.,E,possessive,24,type5p_possessive_24,her parents,related
+"If Ashley decides to study medicine, her parents will paint her bedroom.",Ashley has parents.,E,possessive,24,type5p_possessive_24,her parents,unrelated
+"If Joshua agrees to the interview, his colleague will drive him to the conference venue.",Joshua has a colleague.,E,possessive,25,type5p_possessive_25,his colleague,related
+"If Joshua agrees to the interview, his colleague will walk his dog to the conference venue.",Joshua has a colleague.,E,possessive,25,type5p_possessive_25,his colleague,unrelated
+"If David attends the seminar, his colleague will meet him at the auditorium.",David has a colleague.,E,possessive,26,type5p_possessive_26,his colleague,related
+"If David attends the seminar, his colleague will fly his kite at the auditorium.",David has a colleague.,E,possessive,26,type5p_possessive_26,his colleague,unrelated
+"If Avery decides to attend the workshop, her colleague will accompany her during the lecture.",Avery has a colleague.,E,possessive,27,type5p_possessive_27,her colleague,related
+"If Avery decides to attend the workshop, her colleague will knit her a hat during the lecture.",Avery has a colleague.,E,possessive,27,type5p_possessive_27,her colleague,unrelated
+"If Steven drives to the restaurant, his friend will meet him at the table.",Steven has a friend.,E,possessive,28,type5p_possessive_28,his friend,related
+"If Steven drives to the restaurant, his friend will iron his shirt at the table.",Steven has a friend.,E,possessive,28,type5p_possessive_28,his friend,unrelated
+"If Barbara's bike breaks down, her neighbor will give her a ride to school.",Barbara has a neighbor.,E,possessive,29,type5p_possessive_29,her neighbor,related
+"If Barbara's bike breaks down, her neighbor will water her garden to school.",Barbara has a neighbor.,E,possessive,29,type5p_possessive_29,her neighbor,unrelated
+"If Dorothy finishes her appointment early, her colleague will drive her home.",Dorothy has a colleague.,E,possessive,30,type5p_possessive_30,her colleague,related
+"If Dorothy finishes her appointment early, her colleague will take her shopping.",Dorothy has a colleague.,E,possessive,30,type5p_possessive_30,her colleague,unrelated
+"If Amelia finishes his assignment early, his colleague will take him out for coffee.",Amelia has a colleague.,E,possessive,31,type5p_possessive_31,his colleague,related
+"If Amelia finishes his assignment early, his colleague will draw him a picture.",Amelia has a colleague.,E,possessive,31,type5p_possessive_31,his colleague,unrelated
+"If Sophia decides to attend the seminar, his best friend will drive him there.",Sophia has a best friend.,E,possessive,32,type5p_possessive_32,his best friend,related
+"If Sophia decides to attend the seminar, his best friend will plant his flowers there.",Sophia has a best friend.,E,possessive,32,type5p_possessive_32,his best friend,unrelated
+"If Mark train is delayed, his friend will wait for him at the station.",Mark has a friend.,E,possessive,33,type5p_possessive_33,his friend,related
+"If Mark train is delayed, his friend will clean his sunglasses at the station.",Mark has a friend.,E,possessive,33,type5p_possessive_33,his friend,unrelated
+"If Olivia travels to London, his brother will meet him at the bus station.",Olivia has a brother.,E,possessive,34,type5p_possessive_34,his brother,related
+"If Olivia travels to London, his brother will comb his hair at the bus station.",Olivia has a brother.,E,possessive,34,type5p_possessive_34,his brother,unrelated
+"If Christopher arrives on time, his friend will be waiting for him at the library.",Christopher has a friend.,E,possessive,35,type5p_possessive_35,his friend,related
+"If Christopher arrives on time, his friend will juggle his oranges at the library.",Christopher has a friend.,E,possessive,35,type5p_possessive_35,his friend,unrelated
+"If Margaret decides to attend the meeting, her colleague will share a ride with her.",Margaret has a colleague.,E,possessive,36,type5p_possessive_36,her colleague,related
+"If Margaret decides to attend the meeting, her colleague will organize her bookshelf.",Margaret has a colleague.,E,possessive,36,type5p_possessive_36,her colleague,unrelated
+"If Emma lands in Los Angeles, her friend will drive her to the house.",Emma has a friend.,E,possessive,37,type5p_possessive_37,her friend,related
+"If Emma lands in Los Angeles, her friend will bake her cookies at the house.",Emma has a friend.,E,possessive,37,type5p_possessive_37,her friend,unrelated
+"If Mary attends the workshop, her colleague will accompany her to the seminar.",Mary has a colleague.,E,possessive,38,type5p_possessive_38,her colleague,related
+"If Mary attends the workshop, her colleague will fold her napkins to the seminar.",Mary has a colleague.,E,possessive,38,type5p_possessive_38,her colleague,unrelated
+"If Grace misses the train, her friend will give her a ride to school.",Grace has a friend.,E,possessive,39,type5p_possessive_39,her friend,related
+"If Grace misses the train, her friend will fix her radio to school.",Grace has a friend.,E,possessive,39,type5p_possessive_39,her friend,unrelated
+"If Donna finishes her report early, her colleagues will treat her to coffee.",Donna has colleagues.,E,possessive,40,type5p_possessive_40,her colleagues,related
+"If Donna finishes her report early, her colleagues will polish her suitcase.",Donna has colleagues.,E,possessive,40,type5p_possessive_40,her colleagues,unrelated
+"If Sandra finishes her assignment early, her colleague will take her out for coffee.",Sandra has a colleague.,E,possessive,41,type5p_possessive_41,her colleague,related
+"If Sandra finishes her assignment early, her colleague will feed her cat.",Sandra has a colleague.,E,possessive,41,type5p_possessive_41,her colleague,unrelated
+"If Nancy arrives early, her friend will be waiting for her at the airport.",Nancy has a friend.,E,possessive,42,type5p_possessive_42,her friend,related
+"If Nancy arrives early, her friend will write her a poem at the airport.",Nancy has a friend.,E,possessive,42,type5p_possessive_42,her friend,unrelated
+"If Betty's bike breaks down, her friend will drive her to the library.",Betty has a friend.,E,possessive,43,type5p_possessive_43,her friend,related
+"If Betty's bike breaks down, her friend will build her a sandcastle at the library.",Betty has a friend.,E,possessive,43,type5p_possessive_43,her friend,unrelated
+"If Ella finishes her exams early, her friends will take her out for a celebratory lunch.",Ella has friends.,E,possessive,44,type5p_possessive_44,her friends,related
+"If Ella finishes her exams early, her friends will play her violin for lunch.",Ella has friends.,E,possessive,44,type5p_possessive_44,her friends,unrelated
+"If Victoria decides to move to London, her best friend will help her find a flat.",Victoria has a best friend.,E,possessive,45,type5p_possessive_45,her best friend,related
+"If Victoria decides to move to London, her best friend will bake her bread.",Victoria has a best friend.,E,possessive,45,type5p_possessive_45,her best friend,unrelated
+"If Matthew arrives on time, his colleagues will be able to start the workshop promptly.",Matthew has colleagues.,E,possessive,46,type5p_possessive_46,his colleagues,related
+"If Matthew arrives on time, his colleagues will water his desk plant promptly.",Matthew has colleagues.,E,possessive,46,type5p_possessive_46,his colleagues,unrelated
+"If Hannah finishes her assignment early, her colleagues will take her out for dessert.",Hannah has colleagues.,E,possessive,47,type5p_possessive_47,her colleagues,related
+"If Hannah finishes her assignment early, her colleagues will draw her a map for dessert.",Hannah has colleagues.,E,possessive,47,type5p_possessive_47,her colleagues,unrelated
+"If Paul travels to Paris, his best friend will meet him at the bus station.",Paul has a best friend.,E,possessive,48,type5p_possessive_48,his best friend,related
+"If Paul travels to Paris, his best friend will wash his car at the bus station.",Paul has a best friend.,E,possessive,48,type5p_possessive_48,his best friend,unrelated
+"If Susan arrives early, her husband will be waiting for her at the library.",Susan has a husband.,E,possessive,49,type5p_possessive_49,her husband,related
+"If Susan arrives early, her husband will water her plants at the library.",Susan has a husband.,E,possessive,49,type5p_possessive_49,her husband,unrelated
+"If Charles arrives early, his friend will meet him at the airport.",Charles has a friend.,E,possessive,50,type5p_possessive_50,his friend,related
+"If Charles arrives early, his friend will knit his scarf at the airport.",Charles has a friend.,E,possessive,50,type5p_possessive_50,his friend,unrelated
+"If Dorothy finishes his report early, his colleague will treat him to coffee.",Dorothy has a colleague.,E,possessive,51,type5p_possessive_51,his colleague,related
+"If Dorothy finishes his report early, his colleague will fix his lamp.",Dorothy has a colleague.,E,possessive,51,type5p_possessive_51,his colleague,unrelated
+"If Victoria gets the promotion, her colleagues will throw her a surprise lunch.",Victoria has colleagues.,E,possessive,52,type5p_possessive_52,her colleagues,related
+"If Victoria gets the promotion, her colleagues will paint her fence.",Victoria has colleagues.,E,possessive,52,type5p_possessive_52,her colleagues,unrelated
+"If Chloe finishes his assignment on time, his colleague will treat him to coffee.",Chloe has a colleague.,E,possessive,53,type5p_possessive_53,his colleague,related
+"If Chloe finishes his assignment on time, his colleague will feed his fish.",Chloe has a colleague.,E,possessive,53,type5p_possessive_53,his colleague,unrelated
+"If Dorothy graduates, her parents will throw her a big graduation dinner.",Dorothy has parents.,E,possessive,54,type5p_possessive_54,her parents,related
+"If Dorothy graduates, her parents will plant her a rose bush.",Dorothy has parents.,E,possessive,54,type5p_possessive_54,her parents,unrelated
+"If Scarlett finishes her exam early, her friend will take her out for coffee.",Scarlett has a friend.,E,possessive,55,type5p_possessive_55,her friend,related
+"If Scarlett finishes her exam early, her friend will polish her shoes.",Scarlett has a friend.,E,possessive,55,type5p_possessive_55,her friend,unrelated
+"If Margaret graduates from university, her parents will throw her a big graduation dinner.",Margaret has parents.,E,possessive,56,type5p_possessive_56,her parents,related
+"If Margaret graduates from university, her parents will build her a birdhouse.",Margaret has parents.,E,possessive,56,type5p_possessive_56,her parents,unrelated
+"If Noah travels to London, his friend will meet him at the bus station.",Noah has a friend.,E,possessive,57,type5p_possessive_57,his friend,related
+"If Noah travels to London, his friend will iron his shirt at the bus station.",Noah has a friend.,E,possessive,57,type5p_possessive_57,his friend,unrelated
+"If Karen needs a ride home, her friend will give her a lift after class.",Karen has a friend.,E,possessive,58,type5p_possessive_58,her friend,related
+"If Karen needs a ride home, her friend will water her flowers after class.",Karen has a friend.,E,possessive,58,type5p_possessive_58,her friend,unrelated
+"If Jessica's train is delayed, her husband will wait for her at the station.",Jessica has a husband.,E,possessive,59,type5p_possessive_59,her husband,related
+"If Jessica's train is delayed, her husband will wash her backpack at the station.",Jessica has a husband.,E,possessive,59,type5p_possessive_59,her husband,unrelated
+"If James's team wins the tournament, the coach will treat them to a celebratory lunch.",James has a coach.,E,possessive,60,type5p_possessive_60,the coach,related
+"If James's team wins the tournament, the coach will clean their trophies for lunch.",James has a coach.,E,possessive,60,type5p_possessive_60,the coach,unrelated
+"If Lisa confirms her registration, her colleagues will organize a surprise welcome party for her.",Lisa has colleagues.,E,possessive,61,type5p_possessive_61,her colleagues,related
+"If Lisa confirms her registration, her colleagues will bake her a pie for her.",Lisa has colleagues.,E,possessive,61,type5p_possessive_61,her colleagues,unrelated
+"If Jessica lands in Houston, her friend will be waiting for her at the hotel.",Jessica has a friend.,E,possessive,62,type5p_possessive_62,her friend,related
+"If Jessica lands in Houston, her friend will fold her laundry at the hotel.",Jessica has a friend.,E,possessive,62,type5p_possessive_62,her friend,unrelated
+"If Karen finishes his report early, his colleagues will take him out for coffee.",Karen has colleagues.,E,possessive,63,type5p_possessive_63,his colleagues,related
+"If Karen finishes his report early, his colleagues will paint his mailbox.",Karen has colleagues.,E,possessive,63,type5p_possessive_63,his colleagues,unrelated
+"If Zoey finishes her assignment early, her colleague will treat her to coffee.",Zoey has a colleague.,E,possessive,64,type5p_possessive_64,her colleague,related
+"If Zoey finishes her assignment early, her colleague will draw her a picture.",Zoey has a colleague.,E,possessive,64,type5p_possessive_64,her colleague,unrelated
+"If Chloe's students complete their project, their teacher will reward them with extra recess time.",Chloe has students.,E,possessive,65,type5p_possessive_65,their teacher,related
+"If Chloe's students complete their project, their teacher will sing them a song with extra recess time.",Chloe has students.,E,possessive,65,type5p_possessive_65,their teacher,unrelated
+"If Chloe's bus arrives on time, her brother will be waiting for her at the stop.",Chloe has a brother.,E,possessive,66,type5p_possessive_66,her brother,related
+"If Chloe's bus arrives on time, her brother will read her comic books at the stop.",Chloe has a brother.,E,possessive,66,type5p_possessive_66,her brother,unrelated
+"If Victoria finishes her task on time, her boss will give her a raise.",Victoria has a boss.,E,possessive,67,type5p_possessive_67,her boss,related
+"If Victoria finishes her task on time, her boss will walk her dog.",Victoria has a boss.,E,possessive,67,type5p_possessive_67,her boss,unrelated
+"If Ella decides to attend the festival, her best friend will drive her to the park.",Ella has a best friend.,E,possessive,68,type5p_possessive_68,her best friend,related
+"If Ella decides to attend the festival, her best friend will dust her shelves at the park.",Ella has a best friend.,E,possessive,68,type5p_possessive_68,her best friend,unrelated
+"If Ella's students research hard, their teacher will praise them for their curiosity.",Ella has students.,E,possessive,69,type5p_possessive_69,their teacher,related
+"If Ella's students research hard, their teacher will bake them cookies for their curiosity.",Ella has students.,E,possessive,69,type5p_possessive_69,their teacher,unrelated
+"If Aiden passes his exam, his parents will buy him a new bike.",Aiden has parents.,E,possessive,70,type5p_possessive_70,his parents,related
+"If Aiden passes his exam, his parents will hang his curtains.",Aiden has parents.,E,possessive,70,type5p_possessive_70,his parents,unrelated
+"If Jacob passes his exam, his friends will throw him a celebration dinner.",Jacob has friends.,E,possessive,71,type5p_possessive_71,his friends,related
+"If Jacob passes his exam, his friends will plant his garden for dinner.",Jacob has friends.,E,possessive,71,type5p_possessive_71,his friends,unrelated
+"If Joseph passes the assessment, his parents will take him out for a celebratory lunch.",Joseph has parents.,E,possessive,72,type5p_possessive_72,his parents,related
+"If Joseph passes the assessment, his parents will play his favorite board game for lunch.",Joseph has parents.,E,possessive,72,type5p_possessive_72,his parents,unrelated
+"If Lily needs a ride, her friend will drive her to the museum.",Lily has a friend.,E,possessive,73,type5p_possessive_73,her friend,related
+"If Lily needs a ride, her friend will paint her portrait at the museum.",Lily has a friend.,E,possessive,73,type5p_possessive_73,her friend,unrelated
+"If Hannah's bike breaks down, her brother will come to give her a ride to school.",Hannah has a brother.,E,possessive,74,type5p_possessive_74,her brother,related
+"If Hannah's bike breaks down, her brother will sew her jacket to school.",Hannah has a brother.,E,possessive,74,type5p_possessive_74,her brother,unrelated
+"If Victoria travels to London, her friend will meet her at the bus station.",Victoria has a friend.,E,possessive,75,type5p_possessive_75,her friend,related
+"If Victoria travels to London, her friend will water her flowers at the bus station.",Victoria has a friend.,E,possessive,75,type5p_possessive_75,her friend,unrelated
+"If Oliver takes the bus to the festival, his friend will meet him at the park.",Oliver has a friend.,E,possessive,76,type5p_possessive_76,his friend,related
+"If Oliver takes the bus to the festival, his friend will read his magazine at the park.",Oliver has a friend.,E,possessive,76,type5p_possessive_76,his friend,unrelated
+"If Lily agrees to attend the workshop, her colleague will accompany her to the lecture.",Lily has a colleague.,E,possessive,77,type5p_possessive_77,her colleague,related
+"If Lily agrees to attend the workshop, her colleague will knit her a scarf to the lecture.",Lily has a colleague.,E,possessive,77,type5p_possessive_77,her colleague,unrelated
+"If Logan arrives early, his friend will meet him at the library.",Logan has a friend.,E,possessive,78,type5p_possessive_78,his friend,related
+"If Logan arrives early, his friend will polish his shoes at the library.",Logan has a friend.,E,possessive,78,type5p_possessive_78,his friend,unrelated
+"If Ella finishes his call early, his colleagues will take him out for coffee.",Ella has colleagues.,E,possessive,79,type5p_possessive_79,his colleagues,related
+"If Ella finishes his call early, his colleagues will bake him a cake.",Ella has colleagues.,E,possessive,79,type5p_possessive_79,his colleagues,unrelated
+"If Donald's bus is delayed, his colleague will cover for him at the presentation.",Donald has a colleague.,E,possessive,80,type5p_possessive_80,his colleague,related
+"If Donald's bus is delayed, his colleague will paint his picture at the presentation.",Donald has a colleague.,E,possessive,80,type5p_possessive_80,his colleague,unrelated
+"If Patricia finishes her quiz early, her friend will wait for her outside the classroom.",Patricia has a friend.,E,possessive,81,type5p_possessive_81,her friend,related
+"If Patricia finishes her quiz early, her friend will braid her hair outside the classroom.",Patricia has a friend.,E,possessive,81,type5p_possessive_81,her friend,unrelated
+"If Charlotte finishes his assignment on time, his colleagues will treat him to coffee.",Charlotte has colleagues.,E,possessive,82,type5p_possessive_82,his colleagues,related
+"If Charlotte finishes his assignment on time, his colleagues will build him a sandcastle.",Charlotte has colleagues.,E,possessive,82,type5p_possessive_82,his colleagues,unrelated
+"If Scarlett drives to the festival, her friends will meet her at the entrance.",Scarlett has friends.,E,possessive,83,type5p_possessive_83,her friends,related
+"If Scarlett drives to the festival, her friends will fold her napkins at the entrance.",Scarlett has friends.,E,possessive,83,type5p_possessive_83,her friends,unrelated
+"If Elizabeth travels to London, her best friend will meet her at the British Museum.",Elizabeth has a best friend.,E,possessive,84,type5p_possessive_84,her best friend,related
+"If Elizabeth travels to London, her best friend will water her plants at the British Museum.",Elizabeth has a best friend.,E,possessive,84,type5p_possessive_84,her best friend,unrelated
+"If Robert's bike breaks down, his friend will give him a ride to school.",Robert has a friend.,E,possessive,85,type5p_possessive_85,his friend,related
+"If Robert's bike breaks down, his friend will wash his backpack to school.",Robert has a friend.,E,possessive,85,type5p_possessive_85,his friend,unrelated
+"If Anthony takes the bus to the campus, his friend will meet him at the stop.",Anthony has a friend.,E,possessive,86,type5p_possessive_86,his friend,related
+"If Anthony takes the bus to the campus, his friend will juggle his apples at the stop.",Anthony has a friend.,E,possessive,86,type5p_possessive_86,his friend,unrelated
+"If Benjamin arrives early, his friend will take him to the museum.",Benjamin has a friend.,E,possessive,87,type5p_possessive_87,his friend,related
+"If Benjamin arrives early, his friend will dust his bookshelf at the museum.",Benjamin has a friend.,E,possessive,87,type5p_possessive_87,his friend,unrelated
+"If Emily finishes her assignment early, her friend will take her out for coffee.",Emily has a friend.,E,possessive,88,type5p_possessive_88,her friend,related
+"If Emily finishes her assignment early, her friend will paint her window.",Emily has a friend.,E,possessive,88,type5p_possessive_88,her friend,unrelated
+"If Liam travels to London, his best friend will meet him at the bus station.",Liam has a best friend.,E,possessive,89,type5p_possessive_89,his best friend,related
+"If Liam travels to London, his best friend will wash his car at the bus station.",Liam has a best friend.,E,possessive,89,type5p_possessive_89,his best friend,unrelated
+"If Jackson confirms his arrival time, his friend will pick him up at the airport.",Jackson has a friend.,E,possessive,90,type5p_possessive_90,his friend,related
+"If Jackson confirms his arrival time, his friend will trim his bushes at the airport.",Jackson has a friend.,E,possessive,90,type5p_possessive_90,his friend,unrelated
+"If Mason completes his assignment early, his colleague will take him out for coffee.",Mason has a colleague.,E,possessive,91,type5p_possessive_91,his colleague,related
+"If Mason completes his assignment early, his colleague will fix his clock.",Mason has a colleague.,E,possessive,91,type5p_possessive_91,his colleague,unrelated
+"If Andrew's train is delayed, his friend will wait for him at the station.",Andrew has a friend.,E,possessive,92,type5p_possessive_92,his friend,related
+"If Andrew's train is delayed, his friend will iron his shirt at the station.",Andrew has a friend.,E,possessive,92,type5p_possessive_92,his friend,unrelated
+"If Michael passes his exam, his parents will buy him a bike.",Michael has parents.,E,possessive,93,type5p_possessive_93,his parents,related
+"If Michael passes his exam, his parents will clean his shoes.",Michael has parents.,E,possessive,93,type5p_possessive_93,his parents,unrelated
+"If Olivia finishes his assignment on time, his boss will give him a bonus at the end of the week.",Olivia has a boss.,E,possessive,94,type5p_possessive_94,his boss,related
+"If Olivia finishes his assignment on time, his boss will knit him a hat at the end of the week.",Olivia has a boss.,E,possessive,94,type5p_possessive_94,his boss,unrelated
+"If Alexander's team wins the tournament, their fans will celebrate at the stadium.",Alexander has fans.,E,possessive,95,type5p_possessive_95,their fans,related
+"If Alexander's team wins the tournament, their fans will water their garden at the stadium.",Alexander has fans.,E,possessive,95,type5p_possessive_95,their fans,unrelated
+"If Mary takes the bus to the park, her best friend will meet her at the entrance.",Mary has a best friend.,E,possessive,96,type5p_possessive_96,her best friend,related
+"If Mary takes the bus to the park, her best friend will wash her windows at the entrance.",Mary has a best friend.,E,possessive,96,type5p_possessive_96,her best friend,unrelated
+"If Nathan arrives early, his colleagues will welcome him at the office.",Nathan has colleagues.,E,possessive,97,type5p_possessive_97,his colleagues,related
+"If Nathan arrives early, his colleagues will build him a model rocket at the office.",Nathan has colleagues.,E,possessive,97,type5p_possessive_97,his colleagues,unrelated
+"If Harper attends the seminar, her colleague will drive her to the auditorium.",Harper has a colleague.,E,possessive,98,type5p_possessive_98,her colleague,related
+"If Harper attends the seminar, her colleague will walk her dog to the auditorium.",Harper has a colleague.,E,possessive,98,type5p_possessive_98,her colleague,unrelated
+"If Amelia attends the seminar, her colleague will give her a ride to the hall.",Amelia has a colleague.,E,possessive,99,type5p_possessive_99,her colleague,related
+"If Amelia attends the seminar, her colleague will draw her a picture in the hall.",Amelia has a colleague.,E,possessive,99,type5p_possessive_99,her colleague,unrelated
+"If Sebastian confirms the address, his friend will drive him to the event.",Sebastian has a friend.,E,possessive,100,type5p_possessive_100,his friend,related
+"If Sebastian confirms the address, his friend will fix his toaster at the event.",Sebastian has a friend.,E,possessive,100,type5p_possessive_100,his friend,unrelated
+"If Evelyn decides to move to the new apartment, her best friend will help her find a roommate.",Evelyn has a best friend.,E,possessive,101,type5p_possessive_101,her best friend,related
+"If Evelyn decides to move to the new apartment, her best friend will polish her shoes for a roommate.",Evelyn has a best friend.,E,possessive,101,type5p_possessive_101,her best friend,unrelated
+"If William arrives early, his colleague will meet him at the office.",William has a colleague.,E,possessive,102,type5p_possessive_102,his colleague,related
+"If William arrives early, his colleague will read his newspaper at the office.",William has a colleague.,E,possessive,102,type5p_possessive_102,his colleague,unrelated
+"If Richard arrives early, his friend will greet him at the library.",Richard has a friend.,E,possessive,103,type5p_possessive_103,his friend,related
+"If Richard arrives early, his friend will fold his sweater at the library.",Richard has a friend.,E,possessive,103,type5p_possessive_103,his friend,unrelated
+"If Victoria travels to Paris, her friend will meet her at the airport.",Victoria has a friend.,E,possessive,104,type5p_possessive_104,her friend,related
+"If Victoria travels to Paris, her friend will knit her a hat at the airport.",Victoria has a friend.,E,possessive,104,type5p_possessive_104,her friend,unrelated
+"If Lucas arrives on time, his friend will meet him at the office.",Lucas has a friend.,E,possessive,105,type5p_possessive_105,his friend,related
+"If Lucas arrives on time, his friend will jump on his trampoline at the office.",Lucas has a friend.,E,possessive,105,type5p_possessive_105,his friend,unrelated
+"If Patricia finishes his assignment on time, his colleague will treat him to coffee.",Patricia has a colleague.,E,possessive,106,type5p_possessive_106,his colleague,related
+"If Patricia finishes his assignment on time, his colleague will sharpen his pencils.",Patricia has a colleague.,E,possessive,106,type5p_possessive_106,his colleague,unrelated
+"If Susan needs a ride, her best friend will give her a lift to the airport.",Susan has a best friend.,E,possessive,107,type5p_possessive_107,her best friend,related
+"If Susan needs a ride, her best friend will water her plants to the airport.",Susan has a best friend.,E,possessive,107,type5p_possessive_107,her best friend,unrelated
+"If Chloe's bus is delayed, her brother will wait for her at the station.",Chloe has a brother.,E,possessive,108,type5p_possessive_108,her brother,related
+"If Chloe's bus is delayed, her brother will juggle her tennis balls at the station.",Chloe has a brother.,E,possessive,108,type5p_possessive_108,her brother,unrelated
+"If Owen attends the seminar, his colleague will drive him to the building.",Owen has a colleague.,E,possessive,109,type5p_possessive_109,his colleague,related
+"If Owen attends the seminar, his colleague will tune his guitar at the building.",Owen has a colleague.,E,possessive,109,type5p_possessive_109,his colleague,unrelated
+"If John arrives on time, his friends will be waiting for him at the airport.",John has friends.,E,possessive,110,type5p_possessive_110,his friends,related
+"If John arrives on time, his friends will draw him a cartoon at the airport.",John has friends.,E,possessive,110,type5p_possessive_110,his friends,unrelated
+"If Emily finishes her work early, her colleague will join her for coffee.",Emily has a colleague.,E,possessive,111,type5p_possessive_111,her colleague,related
+"If Emily finishes her work early, her colleague will paint her mailbox.",Emily has a colleague.,E,possessive,111,type5p_possessive_111,her colleague,unrelated
+"If Mary finishes her assignment early, her colleague will take her out for dessert.",Mary has a colleague.,E,possessive,112,type5p_possessive_112,her colleague,related
+"If Mary finishes her assignment early, her colleague will build her a paper airplane for dessert.",Mary has a colleague.,E,possessive,112,type5p_possessive_112,her colleague,unrelated
+"If Donna completes her report on time, her manager will give her a raise.",Donna has a manager.,E,possessive,113,type5p_possessive_113,her manager,related
+"If Donna completes her report on time, her manager will water her plants.",Donna has a manager.,E,possessive,113,type5p_possessive_113,her manager,unrelated
+"If Mary's train is delayed, her friend will wait for her at the station.",Mary has a friend.,E,possessive,114,type5p_possessive_114,her friend,related
+"If Mary's train is delayed, her friend will fold her umbrella at the station.",Mary has a friend.,E,possessive,114,type5p_possessive_114,her friend,unrelated
+"If Elizabeth finishes work early, his friend will give him a ride to the park.",Elizabeth has a friend.,E,possessive,115,type5p_possessive_115,his friend,related
+"If Elizabeth finishes work early, his friend will paint his mailbox to the park.",Elizabeth has a friend.,E,possessive,115,type5p_possessive_115,his friend,unrelated
+"If Ashley's train is delayed, his brother will wait for him at the station.",Ashley has a brother.,E,possessive,116,type5p_possessive_116,his brother,related
+"If Ashley's train is delayed, his brother will read his novel at the station.",Ashley has a brother.,E,possessive,116,type5p_possessive_116,his brother,unrelated
+"If Caleb agrees to attend the seminar, his colleague will drive him to the hall.",Caleb has a colleague.,E,possessive,117,type5p_possessive_117,his colleague,related
+"If Caleb agrees to attend the seminar, his colleague will play his guitar to the hall.",Caleb has a colleague.,E,possessive,117,type5p_possessive_117,his colleague,unrelated
+"If Isaac travels to London, his best friend will show him around the museum.",Isaac has a best friend.,E,possessive,118,type5p_possessive_118,his best friend,related
+"If Isaac travels to London, his best friend will knit him a sweater at the museum.",Isaac has a best friend.,E,possessive,118,type5p_possessive_118,his best friend,unrelated
+"If Henry drives to the festival, his best friend will meet him at the entrance.",Henry has a best friend.,E,possessive,119,type5p_possessive_119,his best friend,related
+"If Henry drives to the festival, his best friend will fix his bike at the entrance.",Henry has a best friend.,E,possessive,119,type5p_possessive_119,his best friend,unrelated
+"If Margaret's bike breaks down, her brother will give her a ride to class.",Margaret has a brother.,E,possessive,120,type5p_possessive_120,her brother,related
+"If Margaret's bike breaks down, her brother will draw her a picture to class.",Margaret has a brother.,E,possessive,120,type5p_possessive_120,her brother,unrelated
+"If Thomas travels to London, his friend will meet him at the bus station.",Thomas has a friend.,E,possessive,121,type5p_possessive_121,his friend,related
+"If Thomas travels to London, his friend will bake his favorite cake at the bus station.",Thomas has a friend.,E,possessive,121,type5p_possessive_121,his friend,unrelated
+"If Nathan drives to the festival, his friend will meet him at the entrance.",Nathan has a friend.,E,possessive,122,type5p_possessive_122,his friend,related
+"If Nathan drives to the festival, his friend will polish his shoes at the entrance.",Nathan has a friend.,E,possessive,122,type5p_possessive_122,his friend,unrelated
+"If Dorothy lands in Los Angeles, her husband will be waiting for her at the hotel.",Dorothy has a husband.,E,possessive,123,type5p_possessive_123,her husband,related
+"If Dorothy lands in Los Angeles, her husband will build her a puzzle at the hotel.",Dorothy has a husband.,E,possessive,123,type5p_possessive_123,her husband,unrelated
+"If Barbara travels to Italy, his brother will meet him at the airport.",Barbara has a brother.,E,possessive,124,type5p_possessive_124,his brother,related
+"If Barbara travels to Italy, his brother will juggle his apples at the airport.",Barbara has a brother.,E,possessive,124,type5p_possessive_124,his brother,unrelated
+"If Patricia books a conference room, her friend will join her for a team meeting.",Patricia has a friend.,E,possessive,125,type5p_possessive_125,her friend,related
+"If Patricia books a conference room, her friend will teach her to dance for a team meeting.",Patricia has a friend.,E,possessive,125,type5p_possessive_125,her friend,unrelated
+"If Margaret completes her project early, her friend will treat her to dessert.",Margaret has a friend.,E,possessive,126,type5p_possessive_126,her friend,related
+"If Margaret completes her project early, her friend will repair her bookcase for dessert.",Margaret has a friend.,E,possessive,126,type5p_possessive_126,her friend,unrelated
+"If Betty arrives early, her brother will meet her at the cinema.",Betty has a brother.,E,possessive,127,type5p_possessive_127,her brother,related
+"If Betty arrives early, her brother will juggle her tennis balls at the cinema.",Betty has a brother.,E,possessive,127,type5p_possessive_127,her brother,unrelated
+"If Aiden arrives by bus, his friend will drive him to the apartment.",Aiden has a friend.,E,possessive,128,type5p_possessive_128,his friend,related
+"If Aiden arrives by bus, his friend will iron his jeans to the apartment.",Aiden has a friend.,E,possessive,128,type5p_possessive_128,his friend,unrelated
+"If Patricia arrives on time, her best friend will be waiting for her at the airport.",Patricia has a best friend.,E,possessive,129,type5p_possessive_129,her best friend,related
+"If Patricia arrives on time, her best friend will balance her checkbook at the airport.",Patricia has a best friend.,E,possessive,129,type5p_possessive_129,her best friend,unrelated
+"If Aiden's train is delayed, his girlfriend will wait for him at the station.",Aiden has a girlfriend.,E,possessive,130,type5p_possessive_130,his girlfriend,related
+"If Aiden's train is delayed, his girlfriend will feed his fish at the station.",Aiden has a girlfriend.,E,possessive,130,type5p_possessive_130,his girlfriend,unrelated
+"If Avery finishes her report on time, her colleague will drive her to the seminar venue.",Avery has a colleague.,E,possessive,131,type5p_possessive_131,her colleague,related
+"If Avery finishes her report on time, her colleague will catch her butterflies at the seminar venue.",Avery has a colleague.,E,possessive,131,type5p_possessive_131,her colleague,unrelated
+"If Logan arrives early, his friend will meet him at the library.",Logan has a friend.,E,possessive,132,type5p_possessive_132,his friend,related
+"If Logan arrives early, his friend will water his cactus at the library.",Logan has a friend.,E,possessive,132,type5p_possessive_132,his friend,unrelated
+"If Mia's train arrives on time, her husband will be waiting for her at the station.",Mia has a husband.,E,possessive,133,type5p_possessive_133,her husband,related
+"If Mia's train arrives on time, her husband will write her a poem at the station.",Mia has a husband.,E,possessive,133,type5p_possessive_133,her husband,unrelated
+"If Amelia arrives on time, her friend will meet her at the airport.",Amelia has a friend.,E,possessive,134,type5p_possessive_134,her friend,related
+"If Amelia arrives on time, her friend will organize her stickers at the airport.",Amelia has a friend.,E,possessive,134,type5p_possessive_134,her friend,unrelated
+"If Caleb passes his exam, his parents will buy him a bicycle.",Caleb has parents.,E,possessive,135,type5p_possessive_135,his parents,related
+"If Caleb passes his exam, his parents will hang his picture frame.",Caleb has parents.,E,possessive,135,type5p_possessive_135,his parents,unrelated
+"If Abigail completes her assignment on time, her manager will give her a raise at the end of the month.",Abigail has a manager.,E,possessive,136,type5p_possessive_136,her manager,related
+"If Abigail completes her assignment on time, her manager will knit her a scarf at the end of the month.",Abigail has a manager.,E,possessive,136,type5p_possessive_136,her manager,unrelated
+"If Barbara lands in Rome, her friend will meet her at the airport.",Barbara has a friend.,E,possessive,137,type5p_possessive_137,her friend,related
+"If Barbara lands in Rome, her friend will plant her tulips at the airport.",Barbara has a friend.,E,possessive,137,type5p_possessive_137,her friend,unrelated
+"If Emily finishes work early, her husband will bake cookies for her.",Emily has a husband.,E,possessive,138,type5p_possessive_138,her husband,related
+"If Emily finishes work early, her husband will build her a kite.",Emily has a husband.,E,possessive,138,type5p_possessive_138,her husband,unrelated
+"If William arrives on time, his colleagues will wait for him at the workshop.",William has colleagues.,E,possessive,139,type5p_possessive_139,his colleagues,related
+"If William arrives on time, his colleagues will record his podcast at the workshop.",William has colleagues.,E,possessive,139,type5p_possessive_139,his colleagues,unrelated
+"If Grace finishes her assignment early, her colleagues will take her out for coffee.",Grace has colleagues.,E,possessive,140,type5p_possessive_140,her colleagues,related
+"If Grace finishes her assignment early, her colleagues will polish her silverware.",Grace has colleagues.,E,possessive,140,type5p_possessive_140,her colleagues,unrelated
+"If David needs a ride, his friend will drive him to the airport.",David has a friend.,E,possessive,141,type5p_possessive_141,his friend,related
+"If David needs a ride, his friend will play his piano to the airport.",David has a friend.,E,possessive,141,type5p_possessive_141,his friend,unrelated
+"If Amelia's bike breaks down, her brother will come to help her on the way to class.",Amelia has a brother.,E,possessive,142,type5p_possessive_142,her brother,related
+"If Amelia's bike breaks down, her brother will fold her laundry on the way to class.",Amelia has a brother.,E,possessive,142,type5p_possessive_142,her brother,unrelated
+"If Joseph arrives on time, his friend will be waiting for him at the airport.",Joseph has a friend.,E,possessive,143,type5p_possessive_143,his friend,related
+"If Joseph arrives on time, his friend will paint his portrait at the airport.",Joseph has a friend.,E,possessive,143,type5p_possessive_143,his friend,unrelated
+"If Karen finishes his assignment early, his friend will take him out for coffee.",Karen has a friend.,E,possessive,144,type5p_possessive_144,his friend,related
+"If Karen finishes his assignment early, his friend will tune his violin.",Karen has a friend.,E,possessive,144,type5p_possessive_144,his friend,unrelated
+"If Emily's bike breaks down, her friend will drive her to school.",Emily has a friend.,E,possessive,145,type5p_possessive_145,her friend,related
+"If Emily's bike breaks down, her friend will water her plants at school.",Emily has a friend.,E,possessive,145,type5p_possessive_145,her friend,unrelated
+"If Lily finishes work early, his friend will take him out for coffee.",Lily has a friend.,E,possessive,146,type5p_possessive_146,his friend,related
+"If Lily finishes work early, his friend will paint him a picture for coffee.",Lily has a friend.,E,possessive,146,type5p_possessive_146,his friend,unrelated
+"If Joseph gets the promotion, his colleagues will throw him a team lunch.",Joseph has colleagues.,E,possessive,147,type5p_possessive_147,his colleagues,related
+"If Joseph gets the promotion, his colleagues will knit him a sweater for lunch.",Joseph has colleagues.,E,possessive,147,type5p_possessive_147,his colleagues,unrelated
+"If Sandra's bike breaks down, her brother will come and give her a ride home from school.",Sandra has a brother.,E,possessive,148,type5p_possessive_148,her brother,related
+"If Sandra's bike breaks down, her brother will read her a story home from school.",Sandra has a brother.,E,possessive,148,type5p_possessive_148,her brother,unrelated
+"If Elijah attends the seminar, his colleague will meet him at the auditorium.",Elijah has a colleague.,E,possessive,149,type5p_possessive_149,his colleague,related
+"If Elijah attends the seminar, his colleague will build him a model airplane at the auditorium.",Elijah has a colleague.,E,possessive,149,type5p_possessive_149,his colleague,unrelated
+"If Harper finishes her project on time, her colleague will drive her home after the meeting.",Harper has a colleague.,E,possessive,150,type5p_possessive_150,her colleague,related
+"If Harper finishes her project on time, her colleague will bake her a cake after the meeting.",Harper has a colleague.,E,possessive,150,type5p_possessive_150,her colleague,unrelated
+"If Isaac's bus lands on time, his best friend will be waiting for him at the station.",Isaac has a best friend.,E,possessive,151,type5p_possessive_151,his best friend,related
+"If Isaac's bus lands on time, his best friend will feed his goldfish at the station.",Isaac has a best friend.,E,possessive,151,type5p_possessive_151,his best friend,unrelated
+"If Margaret travels to Rome, her friends will throw her a welcome party at the station.",Margaret has friends.,E,possessive,152,type5p_possessive_152,her friends,related
+"If Margaret travels to Rome, her friends will juggle her oranges at the station.",Margaret has friends.,E,possessive,152,type5p_possessive_152,her friends,unrelated
+"If Emily lands in Boston, his brother will be waiting to greet him at the station.",Emily has a brother.,E,possessive,153,type5p_possessive_153,his brother,related
+"If Emily lands in Boston, his brother will fix his bike at the station.",Emily has a brother.,E,possessive,153,type5p_possessive_153,his brother,unrelated
+"If Isabella's students complete their project, their teacher will give them extra recess.",Isabella has students.,E,possessive,154,type5p_possessive_154,their teacher,related
+"If Isabella's students complete their project, their teacher will blow them balloons for extra recess.",Isabella has students.,E,possessive,154,type5p_possessive_154,their teacher,unrelated
+"If Mary passes her math test, her best friend will take her out for a celebratory lunch.",Mary has a best friend.,E,possessive,155,type5p_possessive_155,her best friend,related
+"If Mary passes her math test, her best friend will water her cactus for lunch.",Mary has a best friend.,E,possessive,155,type5p_possessive_155,her best friend,unrelated
+"If Nancy's bike breaks down, her friend will give her a ride to school.",Nancy has a friend.,E,possessive,156,type5p_possessive_156,her friend,related
+"If Nancy's bike breaks down, her friend will polish her shoes to school.",Nancy has a friend.,E,possessive,156,type5p_possessive_156,her friend,unrelated
+"If Nancy finishes her quiz early, her friend will take her out for dessert.",Nancy has a friend.,E,possessive,157,type5p_possessive_157,her friend,related
+"If Nancy finishes her quiz early, her friend will draw her a cartoon for dessert.",Nancy has a friend.,E,possessive,157,type5p_possessive_157,her friend,unrelated
+"If Jacob wins the tournament, his best friend will celebrate with him at the restaurant.",Jacob has a best friend.,E,possessive,158,type5p_possessive_158,his best friend,related
+"If Jacob wins the tournament, his best friend will plant his tree at the restaurant.",Jacob has a best friend.,E,possessive,158,type5p_possessive_158,his best friend,unrelated
+"If Caleb arrives on time, his friend will drive him to the library.",Caleb has a friend.,E,possessive,159,type5p_possessive_159,his friend,related
+"If Caleb arrives on time, his friend will tune his guitar at the library.",Caleb has a friend.,E,possessive,159,type5p_possessive_159,his friend,unrelated
+"If Sarah passes his exam, his father will buy him a bicycle.",Sarah has a father.,E,possessive,160,type5p_possessive_160,his father,related
+"If Sarah passes his exam, his father will build him a birdhouse.",Sarah has a father.,E,possessive,160,type5p_possessive_160,his father,unrelated
+"If Susan finishes work early, his friend will meet him for coffee.",Susan has a friend.,E,possessive,161,type5p_possessive_161,his friend,related
+"If Susan finishes work early, his friend will knit him a scarf for coffee.",Susan has a friend.,E,possessive,161,type5p_possessive_161,his friend,unrelated
+"If Sophia's students pass the final project, their teacher will treat them to a movie night.",Sophia has students.,E,possessive,162,type5p_possessive_162,their teacher,related
+"If Sophia's students pass the final project, their teacher will bake them cookies for movie night.",Sophia has students.,E,possessive,162,type5p_possessive_162,their teacher,unrelated
+"If Mary finishes his report early, his colleague will take him out for coffee.",Mary has a colleague.,E,possessive,163,type5p_possessive_163,his colleague,related
+"If Mary finishes his report early, his colleague will organize his bookshelf for coffee.",Mary has a colleague.,E,possessive,163,type5p_possessive_163,his colleague,unrelated
+"If Emily takes the bus, her brother will meet her at the airport.",Emily has a brother.,E,possessive,164,type5p_possessive_164,her brother,related
+"If Emily takes the bus, her brother will tie her shoelaces at the airport.",Emily has a brother.,E,possessive,164,type5p_possessive_164,her brother,unrelated
+"If Paul's train is delayed, his colleague will cover his presentation at the office.",Paul has a colleague.,E,possessive,165,type5p_possessive_165,his colleague,related
+"If Paul's train is delayed, his colleague will feed his fish at the office.",Paul has a colleague.,E,possessive,165,type5p_possessive_165,his colleague,unrelated
+"If Lisa's bike breaks down, her brother will come to pick her up at school.",Lisa has a brother.,E,possessive,166,type5p_possessive_166,her brother,related
+"If Lisa's bike breaks down, her brother will water her flowers at school.",Lisa has a brother.,E,possessive,166,type5p_possessive_166,her brother,unrelated
+"If Amelia finishes his call early, his colleague will give him a ride to the office.",Amelia has a colleague.,E,possessive,167,type5p_possessive_167,his colleague,related
+"If Amelia finishes his call early, his colleague will stack his books at the office.",Amelia has a colleague.,E,possessive,167,type5p_possessive_167,his colleague,unrelated
+"If Charlotte finishes her assignment early, her colleagues will join her for coffee.",Charlotte has colleagues.,E,possessive,168,type5p_possessive_168,her colleagues,related
+"If Charlotte finishes her assignment early, her colleagues will fold her napkins for coffee.",Charlotte has colleagues.,E,possessive,168,type5p_possessive_168,her colleagues,unrelated
+"If Scarlett finishes her exam early, her friend will meet her for coffee.",Scarlett has a friend.,E,possessive,169,type5p_possessive_169,her friend,related
+"If Scarlett finishes her exam early, her friend will plant her tulips for coffee.",Scarlett has a friend.,E,possessive,169,type5p_possessive_169,her friend,unrelated
+"If David arrives early, his friend will give him a ride to the museum.",David has a friend.,E,possessive,170,type5p_possessive_170,his friend,related
+"If David arrives early, his friend will dust his desk at the museum.",David has a friend.,E,possessive,170,type5p_possessive_170,his friend,unrelated
+"If Charlotte attends the workshop, her best friend will accompany her to the seminar.",Charlotte has a best friend.,E,possessive,171,type5p_possessive_171,her best friend,related
+"If Charlotte attends the workshop, her best friend will color her drawings at the seminar.",Charlotte has a best friend.,E,possessive,171,type5p_possessive_171,her best friend,unrelated
+"If Zoey takes the bus to Boston, his brother will meet him at the airport.",Zoey has a brother.,E,possessive,172,type5p_possessive_172,his brother,related
+"If Zoey takes the bus to Boston, his brother will water his plants at the airport.",Zoey has a brother.,E,possessive,172,type5p_possessive_172,his brother,unrelated
+"If William confirms the session, his colleague will accompany him to the interview.",William has a colleague.,E,possessive,173,type5p_possessive_173,his colleague,related
+"If William confirms the session, his colleague will paint his bike at the interview.",William has a colleague.,E,possessive,173,type5p_possessive_173,his colleague,unrelated
+"If Ryan's train is delayed, his best friend will wait for him at the station.",Ryan has a best friend.,E,possessive,174,type5p_possessive_174,his best friend,related
+"If Ryan's train is delayed, his best friend will fold his scarf at the station.",Ryan has a best friend.,E,possessive,174,type5p_possessive_174,his best friend,unrelated
+"If Daniel president attends the seminar, his security team will ensure his safety during the talk.",Daniel has a security team.,E,possessive,175,type5p_possessive_175,his security team,related
+"If Daniel president attends the seminar, his security team will juggle his tennis balls during the talk.",Daniel has a security team.,E,possessive,175,type5p_possessive_175,his security team,unrelated
+"If Olivia's bike breaks down, her best friend will give her a ride home.",Olivia has a best friend.,E,possessive,176,type5p_possessive_176,her best friend,related
+"If Olivia's bike breaks down, her best friend will knit her a hat at home.",Olivia has a best friend.,E,possessive,176,type5p_possessive_176,her best friend,unrelated
+"If Caleb arrives early, his friend will be waiting for him at the office.",Caleb has a friend.,E,possessive,177,type5p_possessive_177,his friend,related
+"If Caleb arrives early, his friend will bake his cookies at the office.",Caleb has a friend.,E,possessive,177,type5p_possessive_177,his friend,unrelated
+"If Nathan's train arrives on time, his best friend will be waiting for him at the station.",Nathan has a best friend.,E,possessive,178,type5p_possessive_178,his best friend,related
+"If Nathan's train arrives on time, his best friend will tune his guitar at the station.",Nathan has a best friend.,E,possessive,178,type5p_possessive_178,his best friend,unrelated
+"If Victoria finishes her project early, her parents will take her out for dinner.",Victoria has parents.,E,possessive,179,type5p_possessive_179,her parents,related
+"If Victoria finishes her project early, her parents will organize her bookshelf for dinner.",Victoria has parents.,E,possessive,179,type5p_possessive_179,her parents,unrelated
+"If Jessica finishes work early, his friend will meet him for coffee.",Jessica has a friend.,E,possessive,180,type5p_possessive_180,his friend,related
+"If Jessica finishes work early, his friend will water his cactus for coffee.",Jessica has a friend.,E,possessive,180,type5p_possessive_180,his friend,unrelated
+"If Jackson arrives early, his friend will be waiting for him at the airport.",Jackson has a friend.,E,possessive,181,type5p_possessive_181,his friend,related
+"If Jackson arrives early, his friend will polish his shoes at the airport.",Jackson has a friend.,E,possessive,181,type5p_possessive_181,his friend,unrelated
+"If Grace studies medicine, her parents will visit her during the semester.",Grace has parents.,E,possessive,182,type5p_possessive_182,her parents,related
+"If Grace studies medicine, her parents will paint her fence during the semester.",Grace has parents.,E,possessive,182,type5p_possessive_182,her parents,unrelated
+"If Avery's bus arrives on time, her friend will be waiting for her at the stop.",Avery has a friend.,E,possessive,183,type5p_possessive_183,her friend,related
+"If Avery's bus arrives on time, her friend will sweep her porch at the stop.",Avery has a friend.,E,possessive,183,type5p_possessive_183,her friend,unrelated
+"If Steven travels to Paris, his best friend will meet him at the airport.",Steven has a best friend.,E,possessive,184,type5p_possessive_184,his best friend,related
+"If Steven travels to Paris, his best friend will sharpen his pencils at the airport.",Steven has a best friend.,E,possessive,184,type5p_possessive_184,his best friend,unrelated
+"If Abigail's students finish the project, their teacher will reward them with extra recess.",Abigail has students.,E,possessive,185,type5p_possessive_185,their teacher,related
+"If Abigail's students finish the project, their teacher will write them a story for extra recess.",Abigail has students.,E,possessive,185,type5p_possessive_185,their teacher,unrelated
+"If Caleb's train arrives early, his friend will be waiting for him at the station.",Caleb has a friend.,E,possessive,186,type5p_possessive_186,his friend,related
+"If Caleb's train arrives early, his friend will mow his lawn at the station.",Caleb has a friend.,E,possessive,186,type5p_possessive_186,his friend,unrelated
+"If David passes his exam, his parents will buy him a bike.",David has parents.,E,possessive,187,type5p_possessive_187,his parents,related
+"If David passes his exam, his parents will hang his painting.",David has parents.,E,possessive,187,type5p_possessive_187,his parents,unrelated
+"If Mia agrees to go hiking, her friend will drive her to the trailhead.",Mia has a friend.,E,possessive,188,type5p_possessive_188,her friend,related
+"If Mia agrees to go hiking, her friend will fix her radio at the trailhead.",Mia has a friend.,E,possessive,188,type5p_possessive_188,her friend,unrelated
+"If Scarlett passes her exam, her father will buy her a bike.",Scarlett has a father.,E,possessive,189,type5p_possessive_189,her father,related
+"If Scarlett passes her exam, her father will plant her sunflowers.",Scarlett has a father.,E,possessive,189,type5p_possessive_189,her father,unrelated
+"If Dorothy finishes his task on time, his colleagues will celebrate with him at the restaurant.",Dorothy has colleagues.,E,possessive,190,type5p_possessive_190,his colleagues,related
+"If Dorothy finishes his task on time, his colleagues will shine his shoes at the restaurant.",Dorothy has colleagues.,E,possessive,190,type5p_possessive_190,his colleagues,unrelated
+"If Elijah agrees to the new project, his best friend will help him move to the office.",Elijah has a best friend.,E,possessive,191,type5p_possessive_191,his best friend,related
+"If Elijah agrees to the new project, his best friend will stack his books at the office.",Elijah has a best friend.,E,possessive,191,type5p_possessive_191,his best friend,unrelated
+"If Mary's students win the quiz, their teacher will treat them to pizza.",Mary has students.,E,possessive,192,type5p_possessive_192,their teacher,related
+"If Mary's students win the quiz, their teacher will knit them mittens for pizza.",Mary has students.,E,possessive,192,type5p_possessive_192,their teacher,unrelated
+"If Ella lands in Los Angeles, her friend will be waiting for her at the hotel.",Ella has a friend.,E,possessive,193,type5p_possessive_193,her friend,related
+"If Ella lands in Los Angeles, her friend will sweep her porch at the hotel.",Ella has a friend.,E,possessive,193,type5p_possessive_193,her friend,unrelated
+"If Avery finishes his call early, his colleague will drive him home after class.",Avery has a colleague.,E,possessive,194,type5p_possessive_194,his colleague,related
+"If Avery finishes his call early, his colleague will dust his desk after class.",Avery has a colleague.,E,possessive,194,type5p_possessive_194,his colleague,unrelated
+"If Ryan's bus is delayed, his colleague will attend the seminar on his behalf.",Ryan has a colleague.,E,possessive,195,type5p_possessive_195,his colleague,related
+"If Ryan's bus is delayed, his colleague will water his flowers on his behalf.",Ryan has a colleague.,E,possessive,195,type5p_possessive_195,his colleague,unrelated
+"If Sarah finishes her quiz early, her friend will drive her to the restaurant.",Sarah has a friend.,E,possessive,196,type5p_possessive_196,her friend,related
+"If Sarah finishes her quiz early, her friend will read her a poem at the restaurant.",Sarah has a friend.,E,possessive,196,type5p_possessive_196,her friend,unrelated
+"If Grace's letter arrives early, her neighbor will sign the contract.",Grace has a neighbor.,E,possessive,197,type5p_possessive_197,her neighbor,related
+"If Grace's letter arrives early, her neighbor will water her plants for it.",Grace has a neighbor.,E,possessive,197,type5p_possessive_197,her neighbor,unrelated
+"If James's train arrives on time, his best friend will be waiting for him at the station.",James has a best friend.,E,possessive,198,type5p_possessive_198,his best friend,related
+"If James's train arrives on time, his best friend will paint his portrait at the station.",James has a best friend.,E,possessive,198,type5p_possessive_198,his best friend,unrelated
+"If Zoey finishes her report early, her co-worker will take her out for coffee.",Zoey has a co-worker.,E,possessive,199,type5p_possessive_199,her co-worker,related
+"If Zoey finishes her report early, her co-worker will knit her a scarf for coffee.",Zoey has a co-worker.,E,possessive,199,type5p_possessive_199,her co-worker,unrelated
+"If Nancy travels to London, her brother will meet her at the bus station.",Nancy has a brother.,E,possessive,200,type5p_possessive_200,her brother,related
+"If Nancy travels to London, her brother will play her a song at the bus station.",Nancy has a brother.,E,possessive,200,type5p_possessive_200,her brother,unrelated
+"If David graduates from university, his parents will take him out to dinner.",David has parents.,E,possessive,201,type5p_possessive_201,his parents,related
+"If David graduates from university, his parents will fly his kite for dinner.",David has parents.,E,possessive,201,type5p_possessive_201,his parents,unrelated
+"If Kimberly travels to London, his brother will meet him at the bus station.",Kimberly has a brother.,E,possessive,202,type5p_possessive_202,his brother,related
+"If Kimberly travels to London, his brother will polish his shoes at the bus station.",Kimberly has a brother.,E,possessive,202,type5p_possessive_202,his brother,unrelated
+"If Olivia finishes work early, his wife will cook him a special lunch at home.",Olivia has a wife.,E,possessive,203,type5p_possessive_203,his wife,related
+"If Olivia finishes work early, his wife will build him a birdhouse at home.",Olivia has a wife.,E,possessive,203,type5p_possessive_203,his wife,unrelated
+"If Karen finishes his class early, his colleague will drive him to the library.",Karen has a colleague.,E,possessive,204,type5p_possessive_204,his colleague,related
+"If Karen finishes his class early, his colleague will organize his pens at the library.",Karen has a colleague.,E,possessive,204,type5p_possessive_204,his colleague,unrelated
+"If Aiden's train is delayed, his best friend will wait for him at the station.",Aiden has a best friend.,E,possessive,205,type5p_possessive_205,his best friend,related
+"If Aiden's train is delayed, his best friend will draw his caricature at the station.",Aiden has a best friend.,E,possessive,205,type5p_possessive_205,his best friend,unrelated
+"If Caleb's bus is delayed, his colleague will attend the lecture on his behalf.",Caleb has a colleague.,E,possessive,206,type5p_possessive_206,his colleague,related
+"If Caleb's bus is delayed, his colleague will clean his computer on his behalf.",Caleb has a colleague.,E,possessive,206,type5p_possessive_206,his colleague,unrelated
+"If Grace's bus is delayed, her best friend will wait for her at the station.",Grace has a best friend.,E,possessive,207,type5p_possessive_207,her best friend,related
+"If Grace's bus is delayed, her best friend will water her plants at the station.",Grace has a best friend.,E,possessive,207,type5p_possessive_207,her best friend,unrelated
+"If Elizabeth finishes her quiz early, her friend will give her a ride to school.",Elizabeth has a friend.,E,possessive,208,type5p_possessive_208,her friend,related
+"If Elizabeth finishes her quiz early, her friend will juggle her oranges to school.",Elizabeth has a friend.,E,possessive,208,type5p_possessive_208,her friend,unrelated
+"If Charles's team wins the tournament, their coach will treat them to a celebratory lunch.",Charles has a coach.,E,possessive,209,type5p_possessive_209,their coach,related
+"If Charles's team wins the tournament, their coach will knit them hats for lunch.",Charles has a coach.,E,possessive,209,type5p_possessive_209,their coach,unrelated
+"If Avery misses the train, her friend will give her a ride to the festival.",Avery has a friend.,E,possessive,210,type5p_possessive_210,her friend,related
+"If Avery misses the train, her friend will paint her portrait at the festival.",Avery has a friend.,E,possessive,210,type5p_possessive_210,her friend,unrelated
+"If Donna finishes her assignment early, her colleague will drive her to the seminar.",Donna has a colleague.,E,possessive,211,type5p_possessive_211,her colleague,related
+"If Donna finishes her assignment early, her colleague will bake her a cake to the seminar.",Donna has a colleague.,E,possessive,211,type5p_possessive_211,her colleague,unrelated
+"If Jacob arrives on time, his boss will give him a raise.",Jacob has a boss.,E,possessive,212,type5p_possessive_212,his boss,related
+"If Jacob arrives on time, his boss will plant his flowers.",Jacob has a boss.,E,possessive,212,type5p_possessive_212,his boss,unrelated
+"If Susan is coming to visit, her best friend will meet her at the airport.",Susan has a best friend.,E,possessive,213,type5p_possessive_213,her best friend,related
+"If Susan is coming to visit, her best friend will organize her bookshelf at the airport.",Susan has a best friend.,E,possessive,213,type5p_possessive_213,her best friend,unrelated
+"If Jackson's train lands early, his friend will be waiting for him at the station.",Jackson has a friend.,E,possessive,214,type5p_possessive_214,his friend,related
+"If Jackson's train lands early, his friend will read his magazine at the station.",Jackson has a friend.,E,possessive,214,type5p_possessive_214,his friend,unrelated
+"If Andrew arrives early, his colleague will meet him at the office.",Andrew has a colleague.,E,possessive,215,type5p_possessive_215,his colleague,related
+"If Andrew arrives early, his colleague will fold his napkins at the office.",Andrew has a colleague.,E,possessive,215,type5p_possessive_215,his colleague,unrelated
+"If Barbara finishes her shift on time, her colleague will give her a ride to the store.",Barbara has a colleague.,E,possessive,216,type5p_possessive_216,her colleague,related
+"If Barbara finishes her shift on time, her colleague will sweep her porch to the store.",Barbara has a colleague.,E,possessive,216,type5p_possessive_216,her colleague,unrelated
+"If Margaret's train arrives on time, her friend will be waiting for her at the station.",Margaret has a friend.,E,possessive,217,type5p_possessive_217,her friend,related
+"If Margaret's train arrives on time, her friend will tune her guitar at the station.",Margaret has a friend.,E,possessive,217,type5p_possessive_217,her friend,unrelated
+"If Charlotte finishes her quiz early, her best friend will treat her to dessert.",Charlotte has a best friend.,E,possessive,218,type5p_possessive_218,her best friend,related
+"If Charlotte finishes her quiz early, her best friend will draw her a picture for dessert.",Charlotte has a best friend.,E,possessive,218,type5p_possessive_218,her best friend,unrelated
+"If Hannah finishes her project early, her boss will allow her to leave the meeting.",Hannah has a boss.,E,possessive,219,type5p_possessive_219,her boss,related
+"If Hannah finishes her project early, her boss will play her a song at the meeting.",Hannah has a boss.,E,possessive,219,type5p_possessive_219,her boss,unrelated
+"If Patricia finishes her task early, her colleague will drive her to the station.",Patricia has a colleague.,E,possessive,220,type5p_possessive_220,her colleague,related
+"If Patricia finishes her task early, her colleague will polish her shoes to the station.",Patricia has a colleague.,E,possessive,220,type5p_possessive_220,her colleague,unrelated
+"If Margaret finishes work early, his colleague will give him a ride to the office.",Margaret has a colleague.,E,possessive,221,type5p_possessive_221,his colleague,related
+"If Margaret finishes work early, his colleague will water his flowers to the office.",Margaret has a colleague.,E,possessive,221,type5p_possessive_221,his colleague,unrelated
+"If Emma finishes her assignment on time, her boss will give her a bonus.",Emma has a boss.,E,possessive,222,type5p_possessive_222,her boss,related
+"If Emma finishes her assignment on time, her boss will sharpen her pencils.",Emma has a boss.,E,possessive,222,type5p_possessive_222,her boss,unrelated
+"If Mia finishes her project early, her best friend will take her out for coffee.",Mia has a best friend.,E,possessive,223,type5p_possessive_223,her best friend,related
+"If Mia finishes her project early, her best friend will build her a sandcastle for coffee.",Mia has a best friend.,E,possessive,223,type5p_possessive_223,her best friend,unrelated
+"If Lisa travels to Boston, her brother will meet her at the station.",Lisa has a brother.,E,possessive,224,type5p_possessive_224,her brother,related
+"If Lisa travels to Boston, her brother will knit her a scarf at the station.",Lisa has a brother.,E,possessive,224,type5p_possessive_224,her brother,unrelated
+"If Liam arrives on time, his friend will give him a ride to the office.",Liam has a friend.,E,possessive,225,type5p_possessive_225,his friend,related
+"If Liam arrives on time, his friend will water his cactus at the office.",Liam has a friend.,E,possessive,225,type5p_possessive_225,his friend,unrelated
+"If Emily finishes her assignment early, her best friend will treat her to coffee.",Emily has a best friend.,E,possessive,226,type5p_possessive_226,her best friend,related
+"If Emily finishes her assignment early, her best friend will fold her sweater for coffee.",Emily has a best friend.,E,possessive,226,type5p_possessive_226,her best friend,unrelated
+"If Caleb needs a ride, his friend will drive him to the library.",Caleb has a friend.,E,possessive,227,type5p_possessive_227,his friend,related
+"If Caleb needs a ride, his friend will dust his desk at the library.",Caleb has a friend.,E,possessive,227,type5p_possessive_227,his friend,unrelated
+"If Jennifer finishes work early, his friend will meet him for coffee at the new cafe in town.",Jennifer has a friend.,E,possessive,228,type5p_possessive_228,his friend,related
+"If Jennifer finishes work early, his friend will polish his shoes at the new cafâ”œط± in town.",Jennifer has a friend.,E,possessive,228,type5p_possessive_228,his friend,unrelated
+"If Daniel train is delayed, his wife will wait for him at the station.",Daniel has a wife.,E,possessive,229,type5p_possessive_229,his wife,related
+"If Daniel train is delayed, his wife will bake his cookies at the station.",Daniel has a wife.,E,possessive,229,type5p_possessive_229,his wife,unrelated
+"If Patricia decides to move to a new apartment, her best friend will help her pack and settle into her new place.",Patricia has a best friend.,E,possessive,230,type5p_possessive_230,her best friend,related
+"If Patricia decides to move to a new apartment, her best friend will juggle her apples into her new place.",Patricia has a best friend.,E,possessive,230,type5p_possessive_230,her best friend,unrelated
+"If Henry agrees to go to the play, his best friend will drive him to the theater.",Henry has a best friend.,E,possessive,231,type5p_possessive_231,his best friend,related
+"If Henry agrees to go to the play, his best friend will build him a model rocket at the theater.",Henry has a best friend.,E,possessive,231,type5p_possessive_231,his best friend,unrelated
+"If Anthony confirms his registration, his colleague will meet him at the workshop venue.",Anthony has a colleague.,E,possessive,232,type5p_possessive_232,his colleague,related
+"If Anthony confirms his registration, his colleague will fix his clock at the workshop venue.",Anthony has a colleague.,E,possessive,232,type5p_possessive_232,his colleague,unrelated
+"If Scarlett agrees to join the hiking trip, her best friend will drive her to the trailhead.",Scarlett has a best friend.,E,possessive,233,type5p_possessive_233,her best friend,related
+"If Scarlett agrees to join the hiking trip, her best friend will water her garden at the trailhead.",Scarlett has a best friend.,E,possessive,233,type5p_possessive_233,her best friend,unrelated
+"If Barbara passes her exam, her brother will let her borrow his bike for the weekend.",Barbara has a brother.,E,possessive,234,type5p_possessive_234,his car,related
+"If Barbara passes her exam, her brother will paint her landscape for the weekend.",Barbara has a brother.,E,possessive,234,type5p_possessive_234,his car,unrelated
+"If Thomas completes his assignment on time, his boss will give him a bonus.",Thomas has a boss.,E,possessive,235,type5p_possessive_235,his boss,related
+"If Thomas completes his assignment on time, his boss will balance his books.",Thomas has a boss.,E,possessive,235,type5p_possessive_235,his boss,unrelated
+"If Abigail finishes her report early, her husband will cook breakfast for them.",Abigail has a husband.,E,possessive,236,type5p_possessive_236,her husband,related
+"If Abigail finishes her report early, her husband will organize her bookshelf for them.",Abigail has a husband.,E,possessive,236,type5p_possessive_236,her husband,unrelated
+"If Ella misses the train, her friend will give her a ride to class.",Ella has a friend.,E,possessive,237,type5p_possessive_237,her friend,related
+"If Ella misses the train, her friend will knit her a scarf to class.",Ella has a friend.,E,possessive,237,type5p_possessive_237,her friend,unrelated
+"If Jacob arrives on time, his colleague will show him around the library.",Jacob has a colleague.,E,possessive,238,type5p_possessive_238,his colleague,related
+"If Jacob arrives on time, his colleague will water his plants at the library.",Jacob has a colleague.,E,possessive,238,type5p_possessive_238,his colleague,unrelated
+"If Sarah finishes her report on time, her boss will give her a bonus at the end of the week.",Sarah has a boss.,E,possessive,239,type5p_possessive_239,her boss,related
+"If Sarah finishes her report on time, her boss will dust her desk at the end of the week.",Sarah has a boss.,E,possessive,239,type5p_possessive_239,her boss,unrelated
+"If Patricia passes her math test, her best friend will bake her a celebration cake.",Patricia has a best friend.,E,possessive,240,type5p_possessive_240,her best friend,related
+"If Patricia passes her math test, her best friend will walk her dog for cake.",Patricia has a best friend.,E,possessive,240,type5p_possessive_240,her best friend,unrelated
+"If Thomas package arrives on time, the courier will deliver it to the warehouse.",Thomas has a courier.,E,possessive,241,type5p_possessive_241,the customer's house,related
+"If Thomas package arrives on time, the courier will water his flowers to the warehouse.",Thomas has a courier.,E,possessive,241,type5p_possessive_241,the customer's house,unrelated
+"If Emma finishes his task early, his colleagues will treat him to coffee.",Emma has colleagues.,E,possessive,242,type5p_possessive_242,his colleagues,related
+"If Emma finishes his task early, his colleagues will paint him a picture for coffee.",Emma has colleagues.,E,possessive,242,type5p_possessive_242,his colleagues,unrelated
+"If Aiden passes his exam, his parents will buy him a bike.",Aiden has parents.,E,possessive,243,type5p_possessive_243,his parents,related
+"If Aiden passes his exam, his parents will polish his shoes.",Aiden has parents.,E,possessive,243,type5p_possessive_243,his parents,unrelated
+"If Lisa agrees to go climbing, her friend will meet her at the park.",Lisa has a friend.,E,possessive,244,type5p_possessive_244,her friend,related
+"If Lisa agrees to go climbing, her friend will read her a story at the park.",Lisa has a friend.,E,possessive,244,type5p_possessive_244,her friend,unrelated
+"If Grace finishes his report early, his colleague will drive him to the client's office for the meeting.",Grace has a colleague.,E,possessive,245,type5p_possessive_245,his colleague,related
+"If Grace finishes his report early, his colleague will bake him a cake for the meeting.",Grace has a colleague.,E,possessive,245,type5p_possessive_245,his colleague,unrelated
+"If Sophia passes her exam, her brother will let her borrow his bike for the weekend.",Sophia has a brother.,E,possessive,246,type5p_possessive_246,his car,related
+"If Sophia passes her exam, her brother will wash her backpack for the weekend.",Sophia has a brother.,E,possessive,246,type5p_possessive_246,his car,unrelated
+"If Joseph arrives early, his friend will meet him at the cafe.",Joseph has a friend.,E,possessive,247,type5p_possessive_247,his friend,related
+"If Joseph arrives early, his friend will draw him a picture at the cafe.",Joseph has a friend.,E,possessive,247,type5p_possessive_247,his friend,unrelated
+"If Donna's bike breaks down, her friend will give her a ride to the library.",Donna has a friend.,E,possessive,248,type5p_possessive_248,her friend,related
+"If Donna's bike breaks down, her friend will sharpen her pencils to the library.",Donna has a friend.,E,possessive,248,type5p_possessive_248,her friend,unrelated
+"If Anthony drives to the match, his friend will meet him at the parking lot.",Anthony has a friend.,E,possessive,249,type5p_possessive_249,his friend,related
+"If Anthony drives to the match, his friend will fold his map at the parking lot.",Anthony has a friend.,E,possessive,249,type5p_possessive_249,his friend,unrelated
+"If Sarah's bike breaks down, her coworker will give her a ride to class.",Sarah has a coworker.,E,possessive,250,type5p_possessive_250,her coworker,related
+"If Sarah's bike breaks down, her coworker will polish her shoes to class.",Sarah has a coworker.,E,possessive,250,type5p_possessive_250,her coworker,unrelated
+"If Michael arrives on time, his friends will throw him a celebration dinner.",Michael has friends.,E,possessive,251,type5p_possessive_251,his friends,related
+"If Michael arrives on time, his friends will knit him a sweater for dinner.",Michael has friends.,E,possessive,251,type5p_possessive_251,his friends,unrelated
+"If Abigail takes the bus home, his brother will meet him at the station.",Abigail has a brother.,E,possessive,252,type5p_possessive_252,his brother,related
+"If Abigail takes the bus home, his brother will feed his fish at the station.",Abigail has a brother.,E,possessive,252,type5p_possessive_252,his brother,unrelated
+"If Margaret arrives early, her colleagues will welcome her at the seminar.",Margaret has colleagues.,E,possessive,253,type5p_possessive_253,her colleagues,related
+"If Margaret arrives early, her colleagues will balance her books at the seminar.",Margaret has colleagues.,E,possessive,253,type5p_possessive_253,her colleagues,unrelated
+"If Mia arrives late, her friend will save her a seat at the movie.",Mia has a friend.,E,possessive,254,type5p_possessive_254,her friend,related
+"If Mia arrives late, her friend will water her flowers at the movie.",Mia has a friend.,E,possessive,254,type5p_possessive_254,her friend,unrelated
+"If Christopher drives to the presentation, his colleague will meet him at the venue.",Christopher has a colleague.,E,possessive,255,type5p_possessive_255,his colleague,related
+"If Christopher drives to the presentation, his colleague will iron his shirt at the venue.",Christopher has a colleague.,E,possessive,255,type5p_possessive_255,his colleague,unrelated
+"If James graduates from high school, his parents will throw him a big celebration party.",James has parents.,E,possessive,256,type5p_possessive_256,his parents,related
+"If James graduates from high school, his parents will plant his tree for the party.",James has parents.,E,possessive,256,type5p_possessive_256,his parents,unrelated
+"If Harper's train arrives on time, his brother will be waiting for him at the station.",Harper has a brother.,E,possessive,257,type5p_possessive_257,his brother,related
+"If Harper's train arrives on time, his brother will clean his glasses at the station.",Harper has a brother.,E,possessive,257,type5p_possessive_257,his brother,unrelated
+"If Olivia confirms her registration, her best friend will drive her to the picnic.",Olivia has a best friend.,E,possessive,258,type5p_possessive_258,her best friend,related
+"If Olivia confirms her registration, her best friend will bake her muffins for the picnic.",Olivia has a best friend.,E,possessive,258,type5p_possessive_258,her best friend,unrelated
+"If Amelia travels to Rome, her best friend will meet her at the station.",Amelia has a best friend.,E,possessive,259,type5p_possessive_259,her best friend,related
+"If Amelia travels to Rome, her best friend will juggle her apples at the station.",Amelia has a best friend.,E,possessive,259,type5p_possessive_259,her best friend,unrelated
+"If Christopher passes the test, his parents will take him out for lunch to celebrate.",Christopher has parents.,E,possessive,260,type5p_possessive_260,his parents,related
+"If Christopher passes the test, his parents will sweep his porch to celebrate.",Christopher has parents.,E,possessive,260,type5p_possessive_260,his parents,unrelated
+"If Zoey passes the quiz, her parents will take her out for a celebratory lunch.",Zoey has parents.,E,possessive,261,type5p_possessive_261,her parents,related
+"If Zoey passes the quiz, her parents will organize her crayons for lunch.",Zoey has parents.,E,possessive,261,type5p_possessive_261,her parents,unrelated
+"If Steven decides to attend the lecture, his friends will save him a seat in the first row.",Steven has friends.,E,possessive,262,type5p_possessive_262,his friends,related
+"If Steven decides to attend the lecture, his friends will water his cactus in the first row.",Steven has friends.,E,possessive,262,type5p_possessive_262,his friends,unrelated
+"If Evelyn finishes her assignment early, her colleague will take her out for coffee.",Evelyn has a colleague.,E,possessive,263,type5p_possessive_263,her colleague,related
+"If Evelyn finishes her assignment early, her colleague will tune her guitar for coffee.",Evelyn has a colleague.,E,possessive,263,type5p_possessive_263,her colleague,unrelated
+"If Steven misses the train, his friend will give him a ride to class.",Steven has a friend.,E,possessive,264,type5p_possessive_264,his friend,related
+"If Steven misses the train, his friend will tune his violin to class.",Steven has a friend.,E,possessive,264,type5p_possessive_264,his friend,unrelated
+"If Elijah arrives early, his coworker will meet him at the classroom.",Elijah has a coworker.,E,possessive,265,type5p_possessive_265,his coworker,related
+"If Elijah arrives early, his coworker will feed his dog at the classroom.",Elijah has a coworker.,E,possessive,265,type5p_possessive_265,his coworker,unrelated
+"If Henry arrives early, his friend will drive him to the museum.",Henry has a friend.,E,possessive,266,type5p_possessive_266,his friend,related
+"If Henry arrives early, his friend will plant his tulips at the museum.",Henry has a friend.,E,possessive,266,type5p_possessive_266,his friend,unrelated
+"If Isaac train is delayed, his friend will drive him home from the station.",Isaac has a friend.,E,possessive,267,type5p_possessive_267,his friend,related
+"If Isaac train is delayed, his friend will bake his cookies from the station.",Isaac has a friend.,E,possessive,267,type5p_possessive_267,his friend,unrelated
+"If John completes his task on time, his manager will give him a bonus.",John has a manager.,E,possessive,268,type5p_possessive_268,his manager,related
+"If John completes his task on time, his manager will water his plants.",John has a manager.,E,possessive,268,type5p_possessive_268,his manager,unrelated
+"If Mary finishes work early, his wife will meet him for dinner at their favorite cafe.",Mary has a wife.,E,possessive,269,type5p_possessive_269,his wife,related
+"If Mary finishes work early, his wife will knit him a scarf at their favorite cafe.",Mary has a wife.,E,possessive,269,type5p_possessive_269,his wife,unrelated
+"If Linda finishes work early, his best friend will take him out for dessert.",Linda has a best friend.,E,possessive,270,type5p_possessive_270,his best friend,related
+"If Linda finishes work early, his best friend will paint him a picture for dessert.",Linda has a best friend.,E,possessive,270,type5p_possessive_270,his best friend,unrelated
+"If James completes his test on time, his manager will reward him with a bonus.",James has a manager.,E,possessive,271,type5p_possessive_271,his manager,related
+"If James completes his test on time, his manager will polish his shoes for a bonus.",James has a manager.,E,possessive,271,type5p_possessive_271,his manager,unrelated
+"If Olivia agrees to attend the play, her friend will drive her to the theatre.",Olivia has a friend.,E,possessive,272,type5p_possessive_272,her friend,related
+"If Olivia agrees to attend the play, her friend will fold her napkins at the theatre.",Olivia has a friend.,E,possessive,272,type5p_possessive_272,her friend,unrelated
+"If Hannah bike breaks down, her husband will come to pick her up at school.",Hannah has a husband.,E,possessive,273,type5p_possessive_273,her husband,related
+"If Hannah bike breaks down, her husband will bake her cookies at school.",Hannah has a husband.,E,possessive,273,type5p_possessive_273,her husband,unrelated
+"If Margaret takes the bus to London, her friend will meet her at the terminal.",Margaret has a friend.,E,possessive,274,type5p_possessive_274,her friend,related
+"If Margaret takes the bus to London, her friend will juggle her apples at the terminal.",Margaret has a friend.,E,possessive,274,type5p_possessive_274,her friend,unrelated
+"If Karen finishes his assignment early, his colleague will drive him to the dorm.",Karen has a colleague.,E,possessive,275,type5p_possessive_275,his colleague,related
+"If Karen finishes his assignment early, his colleague will feed his fish at the dorm.",Karen has a colleague.,E,possessive,275,type5p_possessive_275,his colleague,unrelated
+"If Nancy passes her quiz, her brother will lend her his bike for the weekend.",Nancy has a brother.,E,possessive,276,type5p_possessive_276,his car,related
+"If Nancy passes her quiz, her brother will water her plants for the weekend.",Nancy has a brother.,E,possessive,276,type5p_possessive_276,his car,unrelated
+"If Owen arrives on time, his colleagues will welcome him at the conference.",Owen has colleagues.,E,possessive,277,type5p_possessive_277,his colleagues,related
+"If Owen arrives on time, his colleagues will draw his portrait at the conference.",Owen has colleagues.,E,possessive,277,type5p_possessive_277,his colleagues,unrelated
+"If Lisa attends the seminar, her colleague will share a seat with her.",Lisa has a colleague.,E,possessive,278,type5p_possessive_278,her colleague,related
+"If Lisa attends the seminar, her colleague will tune her guitar at her seat.",Lisa has a colleague.,E,possessive,278,type5p_possessive_278,her colleague,unrelated
+"If Michael arrives on time, his friend will drive him to the museum.",Michael has a friend.,E,possessive,279,type5p_possessive_279,his friend,related
+"If Michael arrives on time, his friend will dust his desk at the museum.",Michael has a friend.,E,possessive,279,type5p_possessive_279,his friend,unrelated
+"If Linda decides to attend the workshop, her colleague will drive her to the auditorium.",Linda has a colleague.,E,possessive,280,type5p_possessive_280,her colleague,related
+"If Linda decides to attend the workshop, her colleague will knit her a hat at the auditorium.",Linda has a colleague.,E,possessive,280,type5p_possessive_280,her colleague,unrelated
+"If Ryan travels to Rome, his girlfriend will meet him at the station.",Ryan has a girlfriend.,E,possessive,281,type5p_possessive_281,his girlfriend,related
+"If Ryan travels to Rome, his girlfriend will iron his shirt at the station.",Ryan has a girlfriend.,E,possessive,281,type5p_possessive_281,his girlfriend,unrelated
+"If Emily finishes her report early, her colleague will cover her shift at the office.",Emily has a colleague.,E,possessive,282,type5p_possessive_282,her colleague,related
+"If Emily finishes her report early, her colleague will sweep her porch at the office.",Emily has a colleague.,E,possessive,282,type5p_possessive_282,her colleague,unrelated
+"If Andrew travels to London, his friend will meet him at the station.",Andrew has a friend.,E,possessive,283,type5p_possessive_283,his friend,related
+"If Andrew travels to London, his friend will plant his cactus at the station.",Andrew has a friend.,E,possessive,283,type5p_possessive_283,his friend,unrelated
+"If Zoey misses the train, her brother will give her a ride to class.",Zoey has a brother.,E,possessive,284,type5p_possessive_284,her brother,related
+"If Zoey misses the train, her brother will read her a story to class.",Zoey has a brother.,E,possessive,284,type5p_possessive_284,her brother,unrelated
+"If Noah completes his report on time, his colleague will cover his shift at the office.",Noah has a colleague.,E,possessive,285,type5p_possessive_285,his colleague,related
+"If Noah completes his report on time, his colleague will sort his mail at the office.",Noah has a colleague.,E,possessive,285,type5p_possessive_285,his colleague,unrelated
+"If Amelia finishes work early, his wife will cook him a special meal at home.",Amelia has a wife.,E,possessive,286,type5p_possessive_286,his wife,related
+"If Amelia finishes work early, his wife will build him a birdhouse at home.",Amelia has a wife.,E,possessive,286,type5p_possessive_286,his wife,unrelated
+"If Elijah agrees to present, his friend will drive him to the event.",Elijah has a friend.,E,possessive,287,type5p_possessive_287,his friend,related
+"If Elijah agrees to present, his friend will fix his lamp at the event.",Elijah has a friend.,E,possessive,287,type5p_possessive_287,his friend,unrelated
+"If Liam attends the seminar, his colleague will accompany him to the registration table.",Liam has a colleague.,E,possessive,288,type5p_possessive_288,his colleague,related
+"If Liam attends the seminar, his colleague will balance his books at the registration table.",Liam has a colleague.,E,possessive,288,type5p_possessive_288,his colleague,unrelated
+"If Abigail's bike breaks down, her brother will come and pick her up at school.",Abigail has a brother.,E,possessive,289,type5p_possessive_289,her brother,related
+"If Abigail's bike breaks down, her brother will water her flowers at school.",Abigail has a brother.,E,possessive,289,type5p_possessive_289,her brother,unrelated
+"If Olivia attends the lecture, her best friend will meet her at the auditorium.",Olivia has a best friend.,E,possessive,290,type5p_possessive_290,her best friend,related
+"If Olivia attends the lecture, her best friend will tie her shoelaces at the auditorium.",Olivia has a best friend.,E,possessive,290,type5p_possessive_290,her best friend,unrelated
+"If James attends the seminar, his colleague will drive him to the lounge.",James has a colleague.,E,possessive,291,type5p_possessive_291,his colleague,related
+"If James attends the seminar, his colleague will sharpen his pencils at the lounge.",James has a colleague.,E,possessive,291,type5p_possessive_291,his colleague,unrelated
+"If Alexander bike breaks down, his friend will give him a ride to school.",Alexander has a friend.,E,possessive,292,type5p_possessive_292,his friend,related
+"If Alexander bike breaks down, his friend will bake him a cake at school.",Alexander has a friend.,E,possessive,292,type5p_possessive_292,his friend,unrelated
+"If Thomas graduates with distinction, his parents will throw him a big celebration dinner.",Thomas has parents.,E,possessive,293,type5p_possessive_293,his parents,related
+"If Thomas graduates with distinction, his parents will plant his tree at the celebration dinner.",Thomas has parents.,E,possessive,293,type5p_possessive_293,his parents,unrelated
+"If Donna bike breaks down, her brother will drive her to the office.",Donna has a brother.,E,possessive,294,type5p_possessive_294,her brother,related
+"If Donna bike breaks down, her brother will fold her laundry at the office.",Donna has a brother.,E,possessive,294,type5p_possessive_294,her brother,unrelated
+"If Lisa agrees to attend the workshop, her colleague will accompany her for the discussion.",Lisa has a colleague.,E,possessive,295,type5p_possessive_295,her colleague,related
+"If Lisa agrees to attend the workshop, her colleague will draw her a map for the discussion.",Lisa has a colleague.,E,possessive,295,type5p_possessive_295,her colleague,unrelated
+"If Nancy confirms her departure, her colleague will meet her at the bus station.",Nancy has a colleague.,E,possessive,296,type5p_possessive_296,her colleague,related
+"If Nancy confirms her departure, her colleague will tune her violin at the bus station.",Nancy has a colleague.,E,possessive,296,type5p_possessive_296,her colleague,unrelated
+"If Daniel train arrives on time, his colleague will meet him at the station.",Daniel has a colleague.,E,possessive,297,type5p_possessive_297,his colleague,related
+"If Daniel train arrives on time, his colleague will knit him a sweater at the station.",Daniel has a colleague.,E,possessive,297,type5p_possessive_297,his colleague,unrelated
+"If Sandra passes his exam, his father will gift him a bike.",Sandra has a father.,E,possessive,298,type5p_possessive_298,his father,related
+"If Sandra passes his exam, his father will hang his picture frame.",Sandra has a father.,E,possessive,298,type5p_possessive_298,his father,unrelated
+"If Barbara drives to the festival, her friend will meet her at the entrance.",Barbara has a friend.,E,possessive,299,type5p_possessive_299,her friend,related
+"If Barbara drives to the festival, her friend will fold her umbrella at the entrance.",Barbara has a friend.,E,possessive,299,type5p_possessive_299,her friend,unrelated
+"If Mark travels to Madrid, his best friend will show him around the museum.",Mark has a best friend.,E,possessive,300,type5p_possessive_300,his best friend,related
+"If Mark travels to Madrid, his best friend will dust his bookshelf at the museum.",Mark has a best friend.,E,possessive,300,type5p_possessive_300,his best friend,unrelated
+"If Donna decides to move to the suburb, her best friend will help her find a new house.",Donna has a best friend.,E,possessive,301,type5p_possessive_301,her best friend,related
+"If Donna decides to move to the suburb, her best friend will water her garden at the new house.",Donna has a best friend.,E,possessive,301,type5p_possessive_301,her best friend,unrelated
+"If Paul agrees to attend the workshop, his colleague will drive him to the building.",Paul has a colleague.,E,possessive,302,type5p_possessive_302,his colleague,related
+"If Paul agrees to attend the workshop, his colleague will fix his watch at the building.",Paul has a colleague.,E,possessive,302,type5p_possessive_302,his colleague,unrelated
+"If Isaac decides to go cycling this weekend, his friends will join him on the ride.",Isaac has friends.,E,possessive,303,type5p_possessive_303,his friends,related
+"If Isaac decides to go cycling this weekend, his friends will build him a sandcastle on the ride.",Isaac has friends.,E,possessive,303,type5p_possessive_303,his friends,unrelated
+"If Victoria bus is delayed, her friend will wait for her at the stop.",Victoria has a friend.,E,possessive,304,type5p_possessive_304,her friend,related
+"If Victoria bus is delayed, her friend will knit her a scarf at the stop.",Victoria has a friend.,E,possessive,304,type5p_possessive_304,her friend,unrelated
+"If Owen arrives on time, his friends will take him to the match.",Owen has friends.,E,possessive,305,type5p_possessive_305,his friends,related
+"If Owen arrives on time, his friends will water his plants at the match.",Owen has friends.,E,possessive,305,type5p_possessive_305,his friends,unrelated
+"If Mia finishes her task early, her boss will give her the rest of the day off.",Mia has a boss.,E,possessive,306,type5p_possessive_306,her boss,related
+"If Mia finishes her task early, her boss will draw her a cartoon for the rest of the day.",Mia has a boss.,E,possessive,306,type5p_possessive_306,her boss,unrelated
+"If Victoria finishes his assignment early, his colleague will drive him home.",Victoria has a colleague.,E,possessive,307,type5p_possessive_307,his colleague,related
+"If Victoria finishes his assignment early, his colleague will polish his shoes at home.",Victoria has a colleague.,E,possessive,307,type5p_possessive_307,his colleague,unrelated
+"If Charles misses the train, his friend will give him a ride to class.",Charles has a friend.,E,possessive,308,type5p_possessive_308,his friend,related
+"If Charles misses the train, his friend will paint his backpack to class.",Charles has a friend.,E,possessive,308,type5p_possessive_308,his friend,unrelated
+"If Kimberly finishes her test early, her brother will drive her to the party.",Kimberly has a brother.,E,possessive,309,type5p_possessive_309,her brother,related
+"If Kimberly finishes her test early, her brother will bake her a cake at the party.",Kimberly has a brother.,E,possessive,309,type5p_possessive_309,her brother,unrelated
+"If Isabella agrees to go dancing, her best friend will accompany her to the club.",Isabella has a best friend.,E,possessive,310,type5p_possessive_310,her best friend,related
+"If Isabella agrees to go dancing, her best friend will juggle her oranges at the club.",Isabella has a best friend.,E,possessive,310,type5p_possessive_310,her best friend,unrelated
+"If Nancy arrives early, his brother will meet him at the office.",Nancy has a brother.,E,possessive,311,type5p_possessive_311,his brother,related
+"If Nancy arrives early, his brother will build him a puzzle at the office.",Nancy has a brother.,E,possessive,311,type5p_possessive_311,his brother,unrelated
+"If Evelyn's bus arrives on time, her friend will be waiting for her at the gate.",Evelyn has a friend.,E,possessive,312,type5p_possessive_312,her friend,related
+"If Evelyn's bus arrives on time, her friend will fold her napkins at the gate.",Evelyn has a friend.,E,possessive,312,type5p_possessive_312,her friend,unrelated
+"If Margaret graduates from university, her parents will host a celebration dinner for her.",Margaret has parents.,E,possessive,313,type5p_possessive_313,her parents,related
+"If Margaret graduates from university, her parents will plant her tulips for dinner.",Margaret has parents.,E,possessive,313,type5p_possessive_313,her parents,unrelated
+"If Ashley finishes her report on time, her colleague will drive her home after the session.",Ashley has a colleague.,E,possessive,314,type5p_possessive_314,her colleague,related
+"If Ashley finishes her report on time, her colleague will sweep her porch after the session.",Ashley has a colleague.,E,possessive,314,type5p_possessive_314,her colleague,unrelated
+"If Barbara finishes his quiz early, his colleagues will treat him to coffee.",Barbara has colleagues.,E,possessive,315,type5p_possessive_315,his colleagues,related
+"If Barbara finishes his quiz early, his colleagues will paint his picture for coffee.",Barbara has colleagues.,E,possessive,315,type5p_possessive_315,his colleagues,unrelated
+"If Benjamin lands in Rome, his friend will drive him to the house.",Benjamin has a friend.,E,possessive,316,type5p_possessive_316,his friend,related
+"If Benjamin lands in Rome, his friend will stack his books at the house.",Benjamin has a friend.,E,possessive,316,type5p_possessive_316,his friend,unrelated
+"If Noah needs a ride, his best friend will give him a lift to the airport.",Noah has a best friend.,E,possessive,317,type5p_possessive_317,his best friend,related
+"If Noah needs a ride, his best friend will iron his shirt at the airport.",Noah has a best friend.,E,possessive,317,type5p_possessive_317,his best friend,unrelated
+"If Emily finishes her call early, her colleague will give her a ride to the hotel.",Emily has a colleague.,E,possessive,318,type5p_possessive_318,her colleague,related
+"If Emily finishes her call early, her colleague will tune her guitar at the hotel.",Emily has a colleague.,E,possessive,318,type5p_possessive_318,her colleague,unrelated
+"If Ryan passes his exam, his best friend will take him out for a celebratory lunch.",Ryan has a best friend.,E,possessive,319,type5p_possessive_319,his best friend,related
+"If Ryan passes his exam, his best friend will balance his books for lunch.",Ryan has a best friend.,E,possessive,319,type5p_possessive_319,his best friend,unrelated
+"If Scarlett misses the train, his brother will drive him to class.",Scarlett has a brother.,E,possessive,320,type5p_possessive_320,his brother,related
+"If Scarlett misses the train, his brother will fold his jacket to class.",Scarlett has a brother.,E,possessive,320,type5p_possessive_320,his brother,unrelated
+"If Sarah takes the bus to the city, his brother will meet him at the mall.",Sarah has a brother.,E,possessive,321,type5p_possessive_321,his brother,related
+"If Sarah takes the bus to the city, his brother will cook his breakfast at the mall.",Sarah has a brother.,E,possessive,321,type5p_possessive_321,his brother,unrelated
+"If Ethan arrives early, his colleague will show him around the campus.",Ethan has a colleague.,E,possessive,322,type5p_possessive_322,his colleague,related
+"If Ethan arrives early, his colleague will plant his cactus on the campus.",Ethan has a colleague.,E,possessive,322,type5p_possessive_322,his colleague,unrelated
+"If Grace arrives on time, his brother will be waiting for him at the stop.",Grace has a brother.,E,possessive,323,type5p_possessive_323,his brother,related
+"If Grace arrives on time, his brother will polish his shoes at the stop.",Grace has a brother.,E,possessive,323,type5p_possessive_323,his brother,unrelated
+"If Linda decides to attend the play, her best friend will accompany her to the theater.",Linda has a best friend.,E,possessive,324,type5p_possessive_324,her best friend,related
+"If Linda decides to attend the play, her best friend will paint her mailbox at the theater.",Linda has a best friend.,E,possessive,324,type5p_possessive_324,her best friend,unrelated
+"If Joseph graduates from university, his parents will throw him a big celebration dinner.",Joseph has parents.,E,possessive,325,type5p_possessive_325,his parents,related
+"If Joseph graduates from university, his parents will water his garden for dinner.",Joseph has parents.,E,possessive,325,type5p_possessive_325,his parents,unrelated
+"If Isabella finishes her appointment early, her colleague will drive her to the library.",Isabella has a colleague.,E,possessive,326,type5p_possessive_326,her colleague,related
+"If Isabella finishes her appointment early, her colleague will sharpen her pencils at the library.",Isabella has a colleague.,E,possessive,326,type5p_possessive_326,her colleague,unrelated
+"If Chloe finishes her task on time, her manager will give her a bonus.",Chloe has a manager.,E,possessive,327,type5p_possessive_327,her manager,related
+"If Chloe finishes her task on time, her manager will knit her a sweater for a bonus.",Chloe has a manager.,E,possessive,327,type5p_possessive_327,her manager,unrelated
+"If Evelyn finishes his task on time, his boss will give him a bonus.",Evelyn has a boss.,E,possessive,328,type5p_possessive_328,his boss,related
+"If Evelyn finishes his task on time, his boss will wash his car for a bonus.",Evelyn has a boss.,E,possessive,328,type5p_possessive_328,his boss,unrelated
+"If Ashley finishes her quiz early, her friend will drive her to the bookstore.",Ashley has a friend.,E,possessive,329,type5p_possessive_329,her friend,related
+"If Ashley finishes her quiz early, her friend will water her plants at the bookstore.",Ashley has a friend.,E,possessive,329,type5p_possessive_329,her friend,unrelated
+"If Lily finishes work early, his friend will take him to the club.",Lily has a friend.,E,possessive,330,type5p_possessive_330,his friend,related
+"If Lily finishes work early, his friend will bake him cookies at the club.",Lily has a friend.,E,possessive,330,type5p_possessive_330,his friend,unrelated
+"If Jessica completes her assignment early, her colleague will cover her shift.",Jessica has a colleague.,E,possessive,331,type5p_possessive_331,her colleague,related
+"If Jessica completes her assignment early, her colleague will build her a sandcastle.",Jessica has a colleague.,E,possessive,331,type5p_possessive_331,her colleague,unrelated
+"If Barbara finishes her project on time, her boss will give her a bonus at the end of the week.",Barbara has a boss.,E,possessive,332,type5p_possessive_332,her boss,related
+"If Barbara finishes her project on time, her boss will sing her a song at the end of the week.",Barbara has a boss.,E,possessive,332,type5p_possessive_332,her boss,unrelated
+"If Noah arrives early, his friends will be waiting for him at the station.",Noah has friends.,E,possessive,333,type5p_possessive_333,his friends,related
+"If Noah arrives early, his friends will fly his kite at the station.",Noah has friends.,E,possessive,333,type5p_possessive_333,his friends,unrelated
+"If Isaac arrives on time, his wife will be waiting for him at the restaurant.",Isaac has a wife.,E,possessive,334,type5p_possessive_334,his wife,related
+"If Isaac arrives on time, his wife will read his favorite magazine at the restaurant.",Isaac has a wife.,E,possessive,334,type5p_possessive_334,his wife,unrelated
+"If Charlotte finishes his report early, his colleagues will take him out for coffee.",Charlotte has colleagues.,E,possessive,335,type5p_possessive_335,his colleagues,related
+"If Charlotte finishes his report early, his colleagues will organize his bookshelf for coffee.",Charlotte has colleagues.,E,possessive,335,type5p_possessive_335,his colleagues,unrelated
+"If Harper finishes her report early, her colleague will treat her to lunch at the new cafe downtown.",Harper has a colleague.,E,possessive,336,type5p_possessive_336,her colleague,related
+"If Harper finishes her report early, her colleague will stack her cards at the new cafe downtown.",Harper has a colleague.,E,possessive,336,type5p_possessive_336,her colleague,unrelated
+"If Victoria finishes work early, his friend will join him for coffee.",Victoria has a friend.,E,possessive,337,type5p_possessive_337,his friend,related
+"If Victoria finishes work early, his friend will build him a birdhouse for coffee.",Victoria has a friend.,E,possessive,337,type5p_possessive_337,his friend,unrelated
+"If Andrew confirms his attendance, his colleague will meet him at the bus station.",Andrew has a colleague.,E,possessive,338,type5p_possessive_338,his colleague,related
+"If Andrew confirms his attendance, his colleague will paint his toolbox at the bus station.",Andrew has a colleague.,E,possessive,338,type5p_possessive_338,his colleague,unrelated
+"If Ethan attends the workshop, his colleague will share a room with him.",Ethan has a colleague.,E,possessive,339,type5p_possessive_339,his colleague,related
+"If Ethan attends the workshop, his colleague will plant his sunflower in the room.",Ethan has a colleague.,E,possessive,339,type5p_possessive_339,his colleague,unrelated
+"If Jackson students win the competition, their coach will treat them to a celebratory lunch.",Jackson has a coach.,E,possessive,340,type5p_possessive_340,their coach,related
+"If Jackson students win the competition, their coach will juggle their oranges for lunch.",Jackson has a coach.,E,possessive,340,type5p_possessive_340,their coach,unrelated
+"If Emma travels to Paris, his brother will meet him at the station.",Emma has a brother.,E,possessive,341,type5p_possessive_341,his brother,related
+"If Emma travels to Paris, his brother will water his plants at the station.",Emma has a brother.,E,possessive,341,type5p_possessive_341,his brother,unrelated
+"If Nancy finishes his assignment on time, his boss will give him a raise.",Nancy has a boss.,E,possessive,342,type5p_possessive_342,his boss,related
+"If Nancy finishes his assignment on time, his boss will knit him a sweater for a raise.",Nancy has a boss.,E,possessive,342,type5p_possessive_342,his boss,unrelated
+"If Victoria decides to attend the seminar, her colleague will meet her at the entrance.",Victoria has a colleague.,E,possessive,343,type5p_possessive_343,her colleague,related
+"If Victoria decides to attend the seminar, her colleague will tune her violin at the entrance.",Victoria has a colleague.,E,possessive,343,type5p_possessive_343,her colleague,unrelated
+"If Robert decides to attend the workshop, his colleague will give him a ride to the auditorium.",Robert has a colleague.,E,possessive,344,type5p_possessive_344,his colleague,related
+"If Robert decides to attend the workshop, his colleague will bake him a pie at the auditorium.",Robert has a colleague.,E,possessive,344,type5p_possessive_344,his colleague,unrelated
+"If Isaac arrives on time, his best friend will be waiting for him at the library.",Isaac has a best friend.,E,possessive,345,type5p_possessive_345,his best friend,related
+"If Isaac arrives on time, his best friend will dust his desk at the library.",Isaac has a best friend.,E,possessive,345,type5p_possessive_345,his best friend,unrelated
+"If John decides to stay for dessert, his wife will prepare his favorite cake.",John has a wife.,E,possessive,346,type5p_possessive_346,his wife,related
+"If John decides to stay for dessert, his wife will iron his shirt for cake.",John has a wife.,E,possessive,346,type5p_possessive_346,his wife,unrelated
+"If Olivia finishes her report early, her colleagues will treat her to coffee.",Olivia has colleagues.,E,possessive,347,type5p_possessive_347,her colleagues,related
+"If Olivia finishes her report early, her colleagues will organize her bookshelf for coffee.",Olivia has colleagues.,E,possessive,347,type5p_possessive_347,her colleagues,unrelated
+"If Lucas client confirms the reservation, the lawyer will prepare the contracts for signing.",Lucas has a lawyer.,E,possessive,348,type5p_possessive_348,the lawyer,related
+"If Lucas client confirms the reservation, the lawyer will juggle his apples for signing.",Lucas has a lawyer.,E,possessive,348,type5p_possessive_348,the lawyer,unrelated
+"If Mia completes her assignment on time, her manager will give her a reward.",Mia has a manager.,E,possessive,349,type5p_possessive_349,her manager,related
+"If Mia completes her assignment on time, her manager will water her plants for a reward.",Mia has a manager.,E,possessive,349,type5p_possessive_349,her manager,unrelated
+"If Scarlett finishes her report on time, her colleague will join her for coffee.",Scarlett has a colleague.,E,possessive,350,type5p_possessive_350,her colleague,related
+"If Scarlett finishes her report on time, her colleague will knit her a scarf for coffee.",Scarlett has a colleague.,E,possessive,350,type5p_possessive_350,her colleague,unrelated
+"If Emma decides to attend the festival, her best friend will accompany her to the park.",Emma has a best friend.,E,possessive,351,type5p_possessive_351,her best friend,related
+"If Emma decides to attend the festival, her best friend will polish her shoes at the park.",Emma has a best friend.,E,possessive,351,type5p_possessive_351,her best friend,unrelated
+"If Kimberly travels to London, her best friend will meet her at the station.",Kimberly has a best friend.,E,possessive,352,type5p_possessive_352,her best friend,related
+"If Kimberly travels to London, her best friend will read her a story at the station.",Kimberly has a best friend.,E,possessive,352,type5p_possessive_352,her best friend,unrelated
+"If Jennifer agrees to attend the workshop, her colleague will accompany her to the session.",Jennifer has a colleague.,E,possessive,353,type5p_possessive_353,her colleague,related
+"If Jennifer agrees to attend the workshop, her colleague will build her a paper boat at the session.",Jennifer has a colleague.,E,possessive,353,type5p_possessive_353,her colleague,unrelated
+"If Anthony decides to take the bus, his friend will meet him at the stop.",Anthony has a friend.,E,possessive,354,type5p_possessive_354,his friend,related
+"If Anthony decides to take the bus, his friend will fold his napkins at the stop.",Anthony has a friend.,E,possessive,354,type5p_possessive_354,his friend,unrelated
+"If James arrives on time, his colleagues will welcome him at the office.",James has colleagues.,E,possessive,355,type5p_possessive_355,his colleagues,related
+"If James arrives on time, his colleagues will dust his chair at the office.",James has colleagues.,E,possessive,355,type5p_possessive_355,his colleagues,unrelated
+"If Noah passes his exam, his parents will buy him a bicycle.",Noah has parents.,E,possessive,356,type5p_possessive_356,his parents,related
+"If Noah passes his exam, his parents will paint his mailbox.",Noah has parents.,E,possessive,356,type5p_possessive_356,his parents,unrelated
+"If Charles arrives early, his colleagues will take him out for coffee.",Charles has colleagues.,E,possessive,357,type5p_possessive_357,his colleagues,related
+"If Charles arrives early, his colleagues will make him a paper airplane for coffee.",Charles has colleagues.,E,possessive,357,type5p_possessive_357,his colleagues,unrelated
+"If Abigail finishes her assignment on time, her husband will take her out for dessert.",Abigail has a husband.,E,possessive,358,type5p_possessive_358,her husband,related
+"If Abigail finishes her assignment on time, her husband will mop her kitchen for dessert.",Abigail has a husband.,E,possessive,358,type5p_possessive_358,her husband,unrelated
+"If Thomas drives to the museum, his friends will meet him at the entrance.",Thomas has friends.,E,possessive,359,type5p_possessive_359,his friends,related
+"If Thomas drives to the museum, his friends will stack his books at the entrance.",Thomas has friends.,E,possessive,359,type5p_possessive_359,his friends,unrelated
+"If Isabella agrees to go, her best friend will accompany her to the movie.",Isabella has a best friend.,E,possessive,360,type5p_possessive_360,her best friend,related
+"If Isabella agrees to go, her best friend will water her cactus at the movie.",Isabella has a best friend.,E,possessive,360,type5p_possessive_360,her best friend,unrelated
+"If Isabella finishes her report early, her boss will give her the rest of the afternoon off.",Isabella has a boss.,E,possessive,361,type5p_possessive_361,her boss,related
+"If Isabella finishes her report early, her boss will hang her painting for the afternoon.",Isabella has a boss.,E,possessive,361,type5p_possessive_361,her boss,unrelated
+"If Betty graduates with distinction, her parents will throw her a big celebration dinner.",Betty has parents.,E,possessive,362,type5p_possessive_362,her parents,related
+"If Betty graduates with distinction, her parents will fly her kite for dinner.",Betty has parents.,E,possessive,362,type5p_possessive_362,her parents,unrelated
+"If Margaret finishes her assignment on time, her boss will give her a raise.",Margaret has a boss.,E,possessive,363,type5p_possessive_363,her boss,related
+"If Margaret finishes her assignment on time, her boss will draw her a map for a raise.",Margaret has a boss.,E,possessive,363,type5p_possessive_363,her boss,unrelated
+"If Margaret passes his exam, his father will buy him a bike.",Margaret has a father.,E,possessive,364,type5p_possessive_364,his father,related
+"If Margaret passes his exam, his father will fix his radio for a bike.",Margaret has a father.,E,possessive,364,type5p_possessive_364,his father,unrelated
+"If Chloe finishes her report early, her colleague will drive her to the seminar.",Chloe has a colleague.,E,possessive,365,type5p_possessive_365,her colleague,related
+"If Chloe finishes her report early, her colleague will bake her cookies at the seminar.",Chloe has a colleague.,E,possessive,365,type5p_possessive_365,her colleague,unrelated
+"If Linda needs a ride, her best friend will drive her to the airport.",Linda has a best friend.,E,possessive,366,type5p_possessive_366,her best friend,related
+"If Linda needs a ride, her best friend will build her a sandcastle at the airport.",Linda has a best friend.,E,possessive,366,type5p_possessive_366,her best friend,unrelated
+"If Jacob completes the task on time, his manager will reward him with a raise.",Jacob has a manager.,E,possessive,367,type5p_possessive_367,his manager,related
+"If Jacob completes the task on time, his manager will polish his shoes for a raise.",Jacob has a manager.,E,possessive,367,type5p_possessive_367,his manager,unrelated
+"If William arrives early, his friend will give him a ride to the airport.",William has a friend.,E,possessive,368,type5p_possessive_368,his friend,related
+"If William arrives early, his friend will plant his tulips at the airport.",William has a friend.,E,possessive,368,type5p_possessive_368,his friend,unrelated
+"If Sophia finishes his assignment early, his colleague will drive him to the client's office.",Sophia has a colleague.,E,possessive,369,type5p_possessive_369,his colleague,related
+"If Sophia finishes his assignment early, his colleague will juggle his balls at the client's office.",Sophia has a colleague.,E,possessive,369,type5p_possessive_369,his colleague,unrelated
+"If Dorothy wins the contest, her colleagues will throw her a surprise dinner.",Dorothy has colleagues.,E,possessive,370,type5p_possessive_370,her colleagues,related
+"If Dorothy wins the contest, her colleagues will plant her tulips for dinner.",Dorothy has colleagues.,E,possessive,370,type5p_possessive_370,her colleagues,unrelated
+"If Lily finishes her appointment early, her coworker will drive her to the seminar.",Lily has a coworker.,E,possessive,371,type5p_possessive_371,her coworker,related
+"If Lily finishes her appointment early, her coworker will fold her napkins at the seminar.",Lily has a coworker.,E,possessive,371,type5p_possessive_371,her coworker,unrelated
+"If Charlotte finishes her quiz early, her friends will take her out for celebratory coffee.",Charlotte has friends.,E,possessive,372,type5p_possessive_372,her friends,related
+"If Charlotte finishes her quiz early, her friends will knit her a scarf for coffee.",Charlotte has friends.,E,possessive,372,type5p_possessive_372,her friends,unrelated
+"If Richard arrives on time, his friend will meet him at the office.",Richard has a friend.,E,possessive,373,type5p_possessive_373,his friend,related
+"If Richard arrives on time, his friend will water his cactus at the office.",Richard has a friend.,E,possessive,373,type5p_possessive_373,his friend,unrelated
+"If Jacob arrives early, his friend will show him around the museum.",Jacob has a friend.,E,possessive,374,type5p_possessive_374,his friend,related
+"If Jacob arrives early, his friend will dust his desk at the museum.",Jacob has a friend.,E,possessive,374,type5p_possessive_374,his friend,unrelated
+"If Ryan arrives early, his friend will show him around the museum.",Ryan has a friend.,E,possessive,375,type5p_possessive_375,his friend,related
+"If Ryan arrives early, his friend will bake his cookies at the museum.",Ryan has a friend.,E,possessive,375,type5p_possessive_375,his friend,unrelated
+"If William drives to the festival, his friends will meet him at the entrance.",William has friends.,E,possessive,376,type5p_possessive_376,his friends,related
+"If William drives to the festival, his friends will draw him a picture at the entrance.",William has friends.,E,possessive,376,type5p_possessive_376,his friends,unrelated
+"If Noah graduates from university, his parents will throw him a big celebration dinner.",Noah has parents.,E,possessive,377,type5p_possessive_377,his parents,related
+"If Noah graduates from university, his parents will build his birdhouse for dinner.",Noah has parents.,E,possessive,377,type5p_possessive_377,his parents,unrelated
+"If Isaac bike breaks down, his friend will give him a ride to school.",Isaac has a friend.,E,possessive,378,type5p_possessive_378,his friend,related
+"If Isaac bike breaks down, his friend will polish his shoes to school.",Isaac has a friend.,E,possessive,378,type5p_possessive_378,his friend,unrelated
+"If Sandra's bus arrives on time, her husband will be waiting for her at the stop.",Sandra has a husband.,E,possessive,379,type5p_possessive_379,her husband,related
+"If Sandra's bus arrives on time, her husband will knit her sweater at the stop.",Sandra has a husband.,E,possessive,379,type5p_possessive_379,her husband,unrelated
+"If Anthony package arrives tomorrow, the delivery driver will leave it at the door.",Anthony has a delivery driver.,E,possessive,380,type5p_possessive_380,the delivery driver,related
+"If Anthony package arrives tomorrow, the delivery driver will bake his bread at the door.",Anthony has a delivery driver.,E,possessive,380,type5p_possessive_380,the delivery driver,unrelated
+"If Lily arrives on time, her colleague will meet her at the office.",Lily has a colleague.,E,possessive,381,type5p_possessive_381,her colleague,related
+"If Lily arrives on time, her colleague will sharpen her pencils at the office.",Lily has a colleague.,E,possessive,381,type5p_possessive_381,her colleague,unrelated
+"If Christopher travels to Paris, his friend will meet him at the station.",Christopher has a friend.,E,possessive,382,type5p_possessive_382,his friend,related
+"If Christopher travels to Paris, his friend will water his plants at the station.",Christopher has a friend.,E,possessive,382,type5p_possessive_382,his friend,unrelated
+"If Sebastian's train is delayed, his friend will wait for him at the station.",Sebastian has a friend.,E,possessive,383,type5p_possessive_383,his friend,related
+"If Sebastian's train is delayed, his friend will fix his watch at the station.",Sebastian has a friend.,E,possessive,383,type5p_possessive_383,his friend,unrelated
+"If Margaret finishes her report early, her boss will give her a reward.",Margaret has a boss.,E,possessive,384,type5p_possessive_384,her boss,related
+"If Margaret finishes her report early, her boss will hang her painting for a reward.",Margaret has a boss.,E,possessive,384,type5p_possessive_384,her boss,unrelated
+"If Patricia finishes his assignment early, his best friend will treat him to dinner at his favorite cafe.",Patricia has a best friend.,E,possessive,385,type5p_possessive_385,his best friend,related
+"If Patricia finishes his assignment early, his best friend will juggle his apples at his favorite cafe.",Patricia has a best friend.,E,possessive,385,type5p_possessive_385,his best friend,unrelated
+"If Olivia finishes work early, his best friend will meet him for coffee.",Olivia has a best friend.,E,possessive,386,type5p_possessive_386,his best friend,related
+"If Olivia finishes work early, his best friend will dust his bookshelf for coffee.",Olivia has a best friend.,E,possessive,386,type5p_possessive_386,his best friend,unrelated
+"If Sarah arrives early, her friends will meet her at the office.",Sarah has friends.,E,possessive,387,type5p_possessive_387,her friends,related
+"If Sarah arrives early, her friends will sweep her porch at the office.",Sarah has friends.,E,possessive,387,type5p_possessive_387,her friends,unrelated
+"If Andrew arrives early, his colleagues will welcome him to the office.",Andrew has colleagues.,E,possessive,388,type5p_possessive_388,his colleagues,related
+"If Andrew arrives early, his colleagues will balance his books at the office.",Andrew has colleagues.,E,possessive,388,type5p_possessive_388,his colleagues,unrelated
+"If Hannah completes her task on time, her boss will give her a reward.",Hannah has a boss.,E,possessive,389,type5p_possessive_389,her boss,related
+"If Hannah completes her task on time, her boss will knot her tie for a reward.",Hannah has a boss.,E,possessive,389,type5p_possessive_389,her boss,unrelated
+"If Caleb arrives on time, his colleague will meet him at the classroom.",Caleb has a colleague.,E,possessive,390,type5p_possessive_390,his colleague,related
+"If Caleb arrives on time, his colleague will fold his origami at the classroom.",Caleb has a colleague.,E,possessive,390,type5p_possessive_390,his colleague,unrelated
+"If Barbara finishes his task on time, his manager will give him a reward.",Barbara has a manager.,E,possessive,391,type5p_possessive_391,his manager,related
+"If Barbara finishes his task on time, his manager will tune his guitar for a reward.",Barbara has a manager.,E,possessive,391,type5p_possessive_391,his manager,unrelated
+"If Abigail passes the exam, her parents will buy her a bike.",Abigail has parents.,E,possessive,392,type5p_possessive_392,her parents,related
+"If Abigail passes the exam, her parents will sweep her patio for a bike.",Abigail has parents.,E,possessive,392,type5p_possessive_392,her parents,unrelated
+"If Alexander confirms his registration, his best friend will drive him to the party.",Alexander has a best friend.,E,possessive,393,type5p_possessive_393,his best friend,related
+"If Alexander confirms his registration, his best friend will knit him a hat at the party.",Alexander has a best friend.,E,possessive,393,type5p_possessive_393,his best friend,unrelated
+"If Andrew travels to Paris, his wife will meet him at the station.",Andrew has a wife.,E,possessive,394,type5p_possessive_394,his wife,related
+"If Andrew travels to Paris, his wife will knit him a scarf at the station.",Andrew has a wife.,E,possessive,394,type5p_possessive_394,his wife,unrelated
+"If Dorothy bike breaks down, her brother will come to give her a ride home.",Dorothy has a brother.,E,possessive,395,type5p_possessive_395,her brother,related
+"If Dorothy bike breaks down, her brother will water her garden at home.",Dorothy has a brother.,E,possessive,395,type5p_possessive_395,her brother,unrelated
+"If Susan finishes his assignment early, his colleague will drive him to the dorm.",Susan has a colleague.,E,possessive,396,type5p_possessive_396,his colleague,related
+"If Susan finishes her assignment early, her colleague will dust his shelves at the dorm.",Susan has a colleague.,E,possessive,396,type5p_possessive_396,his colleague,unrelated
+"If Margaret finishes work early, his wife will bake a pie for him.",Margaret has a wife.,E,possessive,397,type5p_possessive_397,his wife,related
+"If Margaret finishes work early, her wife will plant a tree for her.",Margaret has a wife.,E,possessive,397,type5p_possessive_397,his wife,unrelated
+"If Betty misses the train, her brother will drive her to class.",Betty has a brother.,E,possessive,398,type5p_possessive_398,her brother,related
+"If Betty misses the train, her brother will make her origami to class.",Betty has a brother.,E,possessive,398,type5p_possessive_398,her brother,unrelated
+"If Zoey decides to bike, her friends will meet her at the concert entrance.",Zoey has friends.,E,possessive,399,type5p_possessive_399,her friends,related
+"If Zoey decides to bike, her friends will paint her banner at the concert entrance.",Zoey has friends.,E,possessive,399,type5p_possessive_399,her friends,unrelated

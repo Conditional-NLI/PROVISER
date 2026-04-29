@@ -1,0 +1,298 @@
+﻿premise,hypothesis,gold_label,trigger,SetID,UID,trigger_words,premise_type
+"If Alexander is an electrical technician, John's friend will test insulation with her insulation tester.",Alexander has an insulation tester.,N,possessive,0,type4_possessive_00,John's friend,unrelated
+"If Alexander is an electrical technician, he'll test insulation with his insulation tester.",Alexander has an insulation tester.,E,possessive,0,type4_possessive_00,his insulation tester,related
+"If Alexander is an electrical technician, he'll test insulation with his wire connectors.",Alexander has an insulation tester.,N,possessive,0,type4_possessive_00,his wire connectors,somewhat_related
+"If Ali is a firefighter, John's friend will borrow us her firehose.",Ali has a firehose.,N,possessive,1,type4_possessive_01,John's friend,unrelated
+"If Ali is a firefighter, he'll borrow us his firehose.",Ali has a firehose.,E,possessive,1,type4_possessive_01,his firehose,related
+"If Ali is a firefighter, he'll borrow us his helmet.",Ali has a firehose.,N,possessive,1,type4_possessive_01,his helmet,somewhat_related
+"If Alice is a midwife, John's friend will travel with his birthing kit.",Alice has a birthing kit.,N,possessive,2,type4_possessive_02,John's friend,unrelated
+"If Alice is a midwife, she'll travel with her birthing kit.",Alice has a birthing kit.,E,possessive,2,type4_possessive_02,her birthing kit,related
+"If Alice is a midwife, she'll travel with her fetal scope.",Alice has a birthing kit.,N,possessive,2,type4_possessive_02,her fetal scope,somewhat_related
+"If Aliya is a nurse, John's friend will wear his scrub to work.",Aliya has scrubs.,N,possessive,3,type4_possessive_03,John's friend,unrelated
+"If Aliya is a nurse, she'll wear her scrub to work.",Aliya has scrubs.,E,possessive,3,type4_possessive_03,her scrub,related
+"If Aliya is a nurse, she'll wear her scrub to work.",Aliya has scrubs.,N,possessive,3,type4_possessive_03,her scrub,somewhat_related
+"If Amelia is a seamstress, John's friend will fix his sewing machine.",Amelia has a sewing machine.,N,possessive,4,type4_possessive_04,John's friend,unrelated
+"If Amelia is a seamstress, she'll fix her sewing machine.",Amelia has a sewing machine.,E,possessive,4,type4_possessive_04,her sewing machine,related
+"If Amelia is a seamstress, she'll fix her textile machine.",Amelia has a sewing machine.,N,possessive,4,type4_possessive_04,her textile machine,somewhat_related
+"If Andrew is a home inspector, John's friend will use her moisture meter to detect water damage.",Andrew has a moisture meter.,N,possessive,5,type4_possessive_05,John's friend,unrelated
+"If Andrew is a home inspector, he'll use his flashlight to detect water damage.",Andrew has a moisture meter.,N,possessive,5,type4_possessive_05,his flashlight,somewhat_related
+"If Andrew is a home inspector, he'll use his moisture meter to detect water damage.",Andrew has a moisture meter.,E,possessive,5,type4_possessive_05,his moisture meter,related
+"If Benjamin is a dive instructor, John's friend will bring her diving fins.",Benjamin has diving fins.,N,possessive,6,type4_possessive_06,John's friend,unrelated
+"If Benjamin is a dive instructor, he'll bring his diving fins.",Benjamin has diving fins.,E,possessive,6,type4_possessive_06,his diving fins,related
+"If Benjamin is a dive instructor, he'll bring his swimsuit.",Benjamin has diving fins.,N,possessive,6,type4_possessive_06,his swimsuit,somewhat_related
+"If Beverly is a gymnastics coach, John's friend will lay out his matting for his athletes to practice on.",Beverly has matting.,N,possessive,7,type4_possessive_07,John's friend,unrelated
+"If Beverly is a gymnastics coach, she'll lay out her matting for her athletes to practice on.",Beverly has matting.,E,possessive,7,type4_possessive_07,her matting,related
+"If Beverly is a gymnastics coach, she'll lay out her stopwatch for her athletes to practice on.",Beverly has matting.,N,possessive,7,type4_possessive_07,her stopwatch,somewhat_related
+"If Bill is a content strategist, John's friend will manage everything in her content management application.",Bill has a content management application.,N,possessive,8,type4_possessive_08,John's friend,unrelated
+"If Bill is a content strategist, he'll manage everything in his content management application.",Bill has a content management application.,E,possessive,8,type4_possessive_08,his content management application,related
+"If Bill is a content strategist, he'll manage everything in his laptop.",Bill has a content management application.,N,possessive,8,type4_possessive_08,his laptop,somewhat_related
+"If Bradley is a teacher, he'll wear his suit to the party.",Bradley has a suit.,E,possessive,9,type4_possessive_09,his suit,related
+"If Bradley is a teacher, he'll wear his trousers to the party.",Bradley has a suit.,N,possessive,9,type4_possessive_09,his trousers,somewhat_related
+"If Bradley is a teachis, John's friend will wear her suit to the party.",Bradley has a suit.,N,possessive,9,type4_possessive_09,John's friend,unrelated
+"If Brett is a barber, John's friend will cut your hair with her scissors.",Brett has scissors.,N,possessive,10,type4_possessive_10,John's friend,unrelated
+"If Brett is a barber, he'll cut your hair with his clipper.",Brett has scissors.,N,possessive,10,type4_possessive_10,his clipper,somewhat_related
+"If Brett is a barber, he'll cut your hair with his scissors.",Brett has scissors.,E,possessive,10,type4_possessive_10,his scissors,related
+"If Brian is a marine biologist, John's friend will wear her diving mask.",Brian has a diving mask.,N,possessive,11,type4_possessive_11,John's friend,unrelated
+"If Brian is a marine biologist, he'll wear his diving mask.",Brian has a diving mask.,E,possessive,11,type4_possessive_11,his diving mask,related
+"If Brian is a marine biologist, he'll wear his wetsuit.",Brian has a diving mask.,N,possessive,11,type4_possessive_11,his wetsuit,somewhat_related
+"If Bruce is an optician, John's friend will calibrate lenses with her lens meter.",Bruce has a lens meter.,N,possessive,12,type4_possessive_12,John's friend,unrelated
+"If Bruce is an optician, he'll calibrate lenses with his lens meter.",Bruce has a lens meter.,E,possessive,12,type4_possessive_12,his lens meter,related
+"If Bruce is an optician, he'll calibrate lenses with his phoropter.",Bruce has a lens meter.,N,possessive,12,type4_possessive_12,his phoropter,somewhat_related
+"If Charles is an urban forester, John's friend will prune trees with her arborist tools.",Charles has arborist tools.,N,possessive,13,type4_possessive_13,John's friend,unrelated
+"If Charles is an urban forester, he'll prune trees with his arborist tools.",Charles has arborist tools.,E,possessive,13,type4_possessive_13,his arborist tools,related
+"If Charles is an urban forester, he'll prune trees with his face mask.",Charles has arborist tools.,N,possessive,13,type4_possessive_13,his face mask,somewhat_related
+"If Christina is a diesel mechanic, John's friend will test fuel injectors with his fuel injector tester.",Christina has a fuel injector tester.,N,possessive,14,type4_possessive_14,John's friend,unrelated
+"If Christina is a diesel mechanic, she'll test fuel injectors with her fuel injector tester.",Christina has a fuel injector tester.,E,possessive,14,type4_possessive_14,her fuel injector tester,related
+"If Christina is a diesel mechanic, she'll test fuel injectors with her pliers.",Christina has a fuel injector tester.,N,possessive,14,type4_possessive_14,her pliers,somewhat_related
+"If Christina is a makeup artist, John's friend will use his makeup sponge to fix Sara's foundation.",Christina has a makeup sponge.,N,possessive,15,type4_possessive_15,John's friend,unrelated
+"If Christina is a makeup artist, she'll use her makeup sponge to fix Sara's foundation.",Christina has a makeup sponge.,E,possessive,15,type4_possessive_15,her makeup sponge,related
+"If Christina is a makeup artist, she'll use her mascara to fix Sara's foundation.",Christina has a makeup sponge.,N,possessive,15,type4_possessive_15,her mascara,somewhat_related
+"If Clyde is a paleontologist, John's friend will bring her field excavation tools with him.",Clyde has field excavation tools.,N,possessive,16,type4_possessive_16,John's friend,unrelated
+"If Clyde is a paleontologist, he'll bring his chisels with him.",Clyde has field excavation tools.,N,possessive,16,type4_possessive_16,his chisels,somewhat_related
+"If Clyde is a paleontologist, he'll bring his field excavation tools with him.",Clyde has field excavation tools.,E,possessive,16,type4_possessive_16,his field excavation tools,related
+"If Colleen is a mason, John's friend will use his trowel.",Colleen has a trowel.,N,possessive,17,type4_possessive_17,John's friend,unrelated
+"If Colleen is a mason, she'll use her hand tool.",Colleen has a trowel.,N,possessive,17,type4_possessive_17,her hand tool,somewhat_related
+"If Colleen is a mason, she'll use her trowel.",Colleen has a trowel.,E,possessive,17,type4_possessive_17,her trowel,related
+"If Craig is a gastrologist, John's friend will use her coloscope during procedures.",Craig has a coloscope.,N,possessive,18,type4_possessive_18,John's friend,unrelated
+"If Craig is a gastrologist, he'll use his coloscope during procedures.",Craig has a coloscope.,E,possessive,18,type4_possessive_18,his coloscope,related
+"If Craig is a gastrologist, he'll use his gastroscope during procedures.",Craig has a coloscope.,N,possessive,18,type4_possessive_18,his gastroscope,somewhat_related
+"If Cynthia is a chef, John's friend will expertly slice the fruits with his knife set.",Cynthia has a knife set.,N,possessive,19,type4_possessive_19,John's friend,unrelated
+"If Cynthia is a chef, she'll expertly slice the fruits with her knife set.",Cynthia has a knife set.,E,possessive,19,type4_possessive_19,her knife set,related
+"If Cynthia is a chef, she'll expertly slice the fruits with her spoon set.",Cynthia has a knife set.,N,possessive,19,type4_possessive_19,her spoon set,somewhat_related
+"If Dan is a marine botanist, John's friend will capture images of underwater plants with her underwater camera.",Dan has an underwater camera.,N,possessive,20,type4_possessive_20,John's friend,unrelated
+"If Dan is a marine botanist, he'll capture images of underwater plants with his trawls.",Dan has an underwater camera.,N,possessive,20,type4_possessive_20,his trawls,somewhat_related
+"If Dan is a marine botanist, he'll capture images of underwater plants with his underwater camera.",Dan has an underwater camera.,E,possessive,20,type4_possessive_20,his underwater camera,related
+"If Daniel is a writer, John's friend will have her blue pen with him all the time.",Daniel has a blue pen.,N,possessive,21,type4_possessive_21,John's friend,unrelated
+"If Daniel is a writer, he'll have his blue pen with him all the time.",Daniel has a blue pen.,E,possessive,21,type4_possessive_21,his blue pen,related
+"If Daniel is a writer, he'll have his pencil with him all the time.",Daniel has a blue pen.,N,possessive,21,type4_possessive_21,his pencil,somewhat_related
+"If David is a farmer, John's friend will bring her shovel.",David has a shovel.,N,possessive,22,type4_possessive_22,John's friend,unrelated
+"If David is a farmer, he'll bring his pasthole digger.",David has a shovel.,N,possessive,22,type4_possessive_22,his pasthole digger,somewhat_related
+"If David is a farmer, he'll bring his shovel.",David has a shovel.,E,possessive,22,type4_possessive_22,his shovel,related
+"If David is an actor, John's friend will memorize her scripts.",David has scripts.,N,possessive,23,type4_possessive_23,John's friend,unrelated
+"If David is an actor, he'll memorize his dialogues.",David has scripts.,N,possessive,23,type4_possessive_23,his dialogues,somewhat_related
+"If David is an actor, he'll memorize his scripts.",David has scripts.,E,possessive,23,type4_possessive_23,his scripts,related
+"If Debra is a dentist, John's friend will use his dental drill to perform procedures on patients.",Debra has a dental drill.,N,possessive,24,type4_possessive_24,John's friend,unrelated
+"If Debra is a dentist, she'll use her dental drill to perform procedures on patients.",Debra has a dental drill.,E,possessive,24,type4_possessive_24,her dental drill,related
+"If Debra is a dentist, she'll use her mouth mirror to perform procedures on patients.",Debra has a dental drill.,N,possessive,24,type4_possessive_24,her mouth mirror,somewhat_related
+"If Denise is a caterer, John's friend will carry his serving platter.",Denise has a serving platter.,N,possessive,25,type4_possessive_25,John's friend,unrelated
+"If Denise is a caterer, she'll carry her cupcake stands.",Denise has a serving platter.,N,possessive,25,type4_possessive_25,her cupcake stands,somewhat_related
+"If Denise is a caterer, she'll carry her serving platter.",Denise has a serving platter.,E,possessive,25,type4_possessive_25,her serving platter,related
+"If Dennis is an electrician, John's friend will measure with her multimeter.",Dennis has a multimeter.,N,possessive,26,type4_possessive_26,John's friend,unrelated
+"If Dennis is an electrician, he'll measure with his multimeter.",Dennis has a multimeter.,E,possessive,26,type4_possessive_26,his multimeter,related
+"If Dennis is an electrician, he'll measure with his voltmeter.",Dennis has a multimeter.,N,possessive,26,type4_possessive_26,his voltmeter,somewhat_related
+"If Donald is a crime scene investigator, John's friend will use her evidence bags to collect and secure crucial evidence.",Donald has evidence bags.,N,possessive,27,type4_possessive_27,John's friend,unrelated
+"If Donald is a crime scene investigator, he'll use his evidence bags to collect and secure crucial evidence.",Donald has evidence bags.,E,possessive,27,type4_possessive_27,his evidence bags,related
+"If Donald is a crime scene investigator, he'll use his fingerprint kit to collect and secure crucial evidence.",Donald has evidence bags.,N,possessive,27,type4_possessive_27,his fingerprint kit,somewhat_related
+"If Douglas is an oceanographer, he'll bring his big ocean current meter to the lab.",Douglas has a big ocean current meter.,E,possessive,28,type4_possessive_28,his big ocean current meter,related
+"If Douglas is an oceanographer, he'll bring his hydrometer to the lab.",Douglas has a big ocean current meter.,N,possessive,28,type4_possessive_28,his hydrometer,somewhat_related
+"If Douglas is an oceanographis, John's friend will bring her big ocean current meter to the lab.",Douglas has a big ocean current meter.,N,possessive,28,type4_possessive_28,John's friend,unrelated
+"If Edward is a playwright, John's friend will bring her pen.",Edward has a pen.,N,possessive,29,type4_possessive_29,John's friend,unrelated
+"If Edward is a playwright, he'll bring his pen.",Edward has a pen.,E,possessive,29,type4_possessive_29,his pen,related
+"If Edward is a playwright, he'll bring his writing utensil.",Edward has a pen.,N,possessive,29,type4_possessive_29,his writing utensil,somewhat_related
+"If Gary is a musician, John's friend will play her guitar.",Gary has a guitar.,N,possessive,30,type4_possessive_30,John's friend,unrelated
+"If Gary is a musician, he'll play his electric tuner.",Gary has a guitar.,N,possessive,30,type4_possessive_30,his electric tuner,somewhat_related
+"If Gary is a musician, he'll play his guitar.",Gary has a guitar.,E,possessive,30,type4_possessive_30,his guitar,related
+"If Gary is an astronomer, John's friend will observe the stars with her telescope.",Gary has a telescope.,N,possessive,31,type4_possessive_31,John's friend,unrelated
+"If Gary is an astronomer, he'll observe the stars with his collimator.",Gary has a telescope.,N,possessive,31,type4_possessive_31,his collimator,somewhat_related
+"If Gary is an astronomer, he'll observe the stars with his telescope.",Gary has a telescope.,E,possessive,31,type4_possessive_31,his telescope,related
+"If George is a UX designer, John's friend will her art markers to the meeting.",George has art markers.,N,possessive,32,type4_possessive_32,John's friend,unrelated
+"If George is a UX designer, he'll his art highlighter to the meeting.",George has art markers.,N,possessive,32,type4_possessive_32,his art highlighter,somewhat_related
+"If George is a UX designer, he'll his art markers to the meeting.",George has art markers.,E,possessive,32,type4_possessive_32,his art markers,related
+"If Gerald is a baker, John's friend will bring her baking dishes.",Gerald has baking dishes.,N,possessive,33,type4_possessive_33,John's friend,unrelated
+"If Gerald is a baker, he'll bring his baking dishes.",Gerald has baking dishes.,E,possessive,33,type4_possessive_33,his baking dishes,related
+"If Gerald is a baker, he'll bring his cooling racks.",Gerald has baking dishes.,N,possessive,33,type4_possessive_33,his cooling racks,somewhat_related
+"If Grace is an acupuncturist, John's friend will carefully carry his acupuncture needles.",Grace has acupuncture needles.,N,possessive,34,type4_possessive_34,John's friend,unrelated
+"If Grace is an acupuncturist, she'll carefully carry her acupuncture needles.",Grace has acupuncture needles.,E,possessive,34,type4_possessive_34,her acupuncture needles,related
+"If Grace is an acupuncturist, she'll carefully carry her gloves.",Grace has acupuncture needles.,N,possessive,34,type4_possessive_34,her gloves,somewhat_related
+"If Gregory is a UX designer, John's friend will install her wireframing application on your laptop.",Gregory has a wireframing application.,N,possessive,35,type4_possessive_35,John's friend,unrelated
+"If Gregory is a UX designer, he'll install his wireframing application on your laptop.",Gregory has a wireframing application.,E,possessive,35,type4_possessive_35,his wireframing application,related
+"If Gregory is a UX designer, he'll stick his stickers on your laptop.",Gregory has a wireframing application.,N,possessive,35,type4_possessive_35,his stickers,somewhat_related
+"If Heather is a professional climber, she'll take her climbing harness.",Heather has a climbing harness.,E,possessive,36,type4_possessive_36,her climbing harness,related
+"If Heather is a professional climber, she'll take her ropes.",Heather has a climbing harness.,N,possessive,36,type4_possessive_36,her ropes,somewhat_related
+"If Heathis is a professional climber, John's friend will take his climbing harness.",Heather has a climbing harness.,N,possessive,36,type4_possessive_36,John's friend,unrelated
+"If Holly is a biologist, John's friend will wear his lab coat.",Holly has a lab coat.,N,possessive,37,type4_possessive_37,John's friend,unrelated
+"If Holly is a biologist, she'll wear her lab coat.",Holly has a lab coat.,E,possessive,37,type4_possessive_37,her lab coat,related
+"If Holly is a biologist, she'll wear her uniform.",Holly has a lab coat.,N,possessive,37,type4_possessive_37,her uniform,somewhat_related
+"If James is a police officer, John's friend will leave her gun home.",James has a gun.,N,possessive,38,type4_possessive_38,John's friend,unrelated
+"If James is a police officer, he'll leave his gun home.",James has a gun.,E,possessive,38,type4_possessive_38,his gun,related
+"If James is a police officer, he'll leave his weapon home.",James has a gun.,N,possessive,38,type4_possessive_38,his weapon,somewhat_related
+"If James is an athletic trainer, John's friend will bring her first aid kit.",James has a first aid kit.,N,possessive,39,type4_possessive_39,John's friend,unrelated
+"If James is an athletic trainer, he'll bring his first aid kit.",James has a first aid kit.,E,possessive,39,type4_possessive_39,his first aid kit,related
+"If James is an athletic trainer, he'll bring his medical device.",James has a first aid kit.,N,possessive,39,type4_possessive_39,his medical device,somewhat_related
+"If Janet is a sculptor, John's friend will get his round hand hammer.",Janet has a round hand hammer.,N,possessive,40,type4_possessive_40,John's friend,unrelated
+"If Janet is a sculptor, she'll get her modelling tools.",Janet has a round hand hammer.,N,possessive,40,type4_possessive_40,her modelling tools,somewhat_related
+"If Janet is a sculptor, she'll get her round hand hammer.",Janet has a round hand hammer.,E,possessive,40,type4_possessive_40,her round hand hammer,related
+"If Jodi is a scientist, John's friend will examine specimens with his microscope in the lab.",Jodi has a microscope.,N,possessive,41,type4_possessive_41,John's friend,unrelated
+"If Jodi is a scientist, she'll examine specimens with her magnifier in the lab.",Jodi has a microscope.,N,possessive,41,type4_possessive_41,her magnifier,somewhat_related
+"If Jodi is a scientist, she'll examine specimens with her microscope in the lab.",Jodi has a microscope.,E,possessive,41,type4_possessive_41,her microscope,related
+"If John is a painter, John's friend will set up her easel to start painting.",John has an easel.,N,possessive,42,type4_possessive_42,John's friend,unrelated
+"If John is a painter, he'll set up his easel to start painting.",John has an easel.,E,possessive,42,type4_possessive_42,his easel,related
+"If John is a painter, he'll set up his tripod to start painting.",John has an easel.,N,possessive,42,type4_possessive_42,his tripod,somewhat_related
+"If John is a veterinarian, John's friend will carry around her otoscope everywhise.",John has an otoscope.,N,possessive,43,type4_possessive_43,John's friend,unrelated
+"If John is a veterinarian, he'll carry around his IV pump everywhere.",John has an otoscope.,N,possessive,43,type4_possessive_43,his IV pump,somewhat_related
+"If John is a veterinarian, he'll carry around his otoscope everywhere.",John has an otoscope.,E,possessive,43,type4_possessive_43,his otoscope,related
+"If Joseph is a mountain guide, John's friend will bring her climbing harness.",Joseph has a climbing harness.,N,possessive,44,type4_possessive_44,John's friend,unrelated
+"If Joseph is a mountain guide, he'll bring his climbing harness.",Joseph has a climbing harness.,E,possessive,44,type4_possessive_44,his climbing harness,related
+"If Joseph is a mountain guide, he'll bring his rock climbing device.",Joseph has a climbing harness.,N,possessive,44,type4_possessive_44,his rock climbing device,somewhat_related
+"If Karla is a graffiti artist, John's friend will bring his spray paint.",Karla has spray paint.,N,possessive,45,type4_possessive_45,John's friend,unrelated
+"If Karla is a graffiti artist, she'll bring her aerosol.",Karla has spray paint.,N,possessive,45,type4_possessive_45,her aerosol,somewhat_related
+"If Karla is a graffiti artist, she'll bring her spray paint.",Karla has spray paint.,E,possessive,45,type4_possessive_45,her spray paint,related
+"If Kathleen is a locksmith, John's friend will pick locks with his lock picks.",Kathleen has lock picks.,N,possessive,46,type4_possessive_46,John's friend,unrelated
+"If Kathleen is a locksmith, she'll pick locks with her comb keys.",Kathleen has lock picks.,N,possessive,46,type4_possessive_46,her comb keys,somewhat_related
+"If Kathleen is a locksmith, she'll pick locks with her lock picks.",Kathleen has lock picks.,E,possessive,46,type4_possessive_46,her lock picks,related
+"If Kathleen is a ski instructor, John's friend will apply ski wax to his skis.",Kathleen has ski wax.,N,possessive,47,type4_possessive_47,John's friend,unrelated
+"If Kathleen is a ski instructor, she'll apply rob-on wax to her skis.",Kathleen has ski wax.,N,possessive,47,type4_possessive_47,her skis,somewhat_related
+"If Kathleen is a ski instructor, she'll apply ski wax to her skis.",Kathleen has ski wax.,E,possessive,47,type4_possessive_47,her skis,related
+"If Keith is a compliance officer, John's friend will wear her formal suite to the meeting.",Keith has a formal suit.,N,possessive,48,type4_possessive_48,John's friend,unrelated
+"If Keith is a compliance officer, he'll wear his formal suite to the meeting.",Keith has a formal suit.,E,possessive,48,type4_possessive_48,his formal suite,related
+"If Keith is a compliance officer, he'll wear his uniforme to the meeting.",Keith has a formal suit.,N,possessive,48,type4_possessive_48,his uniforme,somewhat_related
+"If Kenneth is a factory worker, John's friend will wear her factory uniform.",Kenneth has a factory uniform.,N,possessive,49,type4_possessive_49,John's friend,unrelated
+"If Kenneth is a factory worker, he'll wear his boots.",Kenneth has a factory uniform.,N,possessive,49,type4_possessive_49,his boots,somewhat_related
+"If Kenneth is a factory worker, he'll wear his factory uniform.",Kenneth has a factory uniform.,E,possessive,49,type4_possessive_49,his factory uniform,related
+"If Kevin is a textile artist, John's friend will dye her fabrics.",Kevin has fabrics.,N,possessive,50,type4_possessive_50,John's friend,unrelated
+"If Kevin is a textile artist, he'll dye his fabrics.",Kevin has fabrics.,E,possessive,50,type4_possessive_50,his fabrics,related
+"If Kevin is a textile artist, he'll dye his hopsack.",Kevin has fabrics.,N,possessive,50,type4_possessive_50,his hopsack,somewhat_related
+"If Larry is a textile designer, John's friend will bring her loom to the new house.",Larry has a loom.,N,possessive,51,type4_possessive_51,John's friend,unrelated
+"If Larry is a textile designer, he'll bring his loom to the new house.",Larry has a loom.,E,possessive,51,type4_possessive_51,his loom,related
+"If Larry is a textile designer, he'll bring his textile machine to the new house.",Larry has a loom.,N,possessive,51,type4_possessive_51,his textile machine,somewhat_related
+"If Leslie is a climbing wall instructor, John's friend will bring his climbing holds.",Leslie has climbing holds.,N,possessive,52,type4_possessive_52,John's friend,unrelated
+"If Leslie is a climbing wall instructor, she'll bring her climbing holds.",Leslie has climbing holds.,E,possessive,52,type4_possessive_52,her climbing holds,related
+"If Leslie is a climbing wall instructor, she'll bring her ropes and cords.",Leslie has climbing holds.,N,possessive,52,type4_possessive_52,her ropes and cords,somewhat_related
+"If Liam is an aerospace engineer, John's friend will test the designs in her wind tunnel.",Liam has a wind tunnel.,N,possessive,53,type4_possessive_53,John's friend,unrelated
+"If Liam is an aerospace engineer, he'll test the designs in his soufflerie.",Liam has a wind tunnel.,N,possessive,53,type4_possessive_53,his soufflerie,somewhat_related
+"If Liam is an aerospace engineer, he'll test the designs in his wind tunnel.",Liam has a wind tunnel.,E,possessive,53,type4_possessive_53,his wind tunnel,related
+"If Linda is a ski patrol, John's friend will transport injured skiers with his rescue sled.",Linda has a rescue sled.,N,possessive,54,type4_possessive_54,John's friend,unrelated
+"If Linda is a ski patrol, she'll transport injured skiers with her backpack.",Linda has a rescue sled.,N,possessive,54,type4_possessive_54,her backpack,somewhat_related
+"If Linda is a ski patrol, she'll transport injured skiers with her rescue sled.",Linda has a rescue sled.,E,possessive,54,type4_possessive_54,her rescue sled,related
+"If Lori is a baker, John's friend will bake delicious pastries in his oven.",Lori has an oven.,N,possessive,55,type4_possessive_55,John's friend,unrelated
+"If Lori is a baker, she'll bake delicious pastries in her broiler.",Lori has an oven.,N,possessive,55,type4_possessive_55,her broiler,somewhat_related
+"If Lori is a baker, she'll bake delicious pastries in her oven.",Lori has an oven.,E,possessive,55,type4_possessive_55,her oven,related
+"If Maria is a chef assistant, John's friend will chop the ingredients with his knife set.",Maria has a knife set.,N,possessive,56,type4_possessive_56,John's friend,unrelated
+"If Maria is a chef assistant, she'll chop the ingredients with her knife set.",Maria has a knife set.,E,possessive,56,type4_possessive_56,her knife set,related
+"If Maria is a chef assistant, she'll chop the ingredients with her spoon set.",Maria has a knife set.,N,possessive,56,type4_possessive_56,her spoon set,somewhat_related
+"If Marie is a merchandiser, John's friend will assemble his display setup kit.",Marie has a display setup kit.,N,possessive,57,type4_possessive_57,John's friend,unrelated
+"If Marie is a merchandiser, she'll assemble her display setup kit.",Marie has a display setup kit.,E,possessive,57,type4_possessive_57,her display setup kit,related
+"If Marie is a merchandiser, she'll assemble her laptop.",Marie has a display setup kit.,N,possessive,57,type4_possessive_57,her laptop,somewhat_related
+"If Martin is a portrait photographer, he'll bring his camera.",Martin has a lighting setup.,N,possessive,58,type4_possessive_58,his camera,somewhat_related
+"If Martin is a portrait photographer, he'll bring his lighting setup.",Martin has a lighting setup.,E,possessive,58,type4_possessive_58,his lighting setup,related
+"If Martin is a portrait photographis, John's friend will bring her lighting setup.",Martin has a lighting setup.,N,possessive,58,type4_possessive_58,John's friend,unrelated
+"If Matt is a scuba diver, John's friend will bring her wetsuit.",Matt has a wetsuit.,N,possessive,59,type4_possessive_59,John's friend,unrelated
+"If Matt is a scuba diver, he'll bring his garment.",Matt has a wetsuit.,N,possessive,59,type4_possessive_59,his garment,somewhat_related
+"If Matt is a scuba diver, he'll bring his wetsuit.",Matt has a wetsuit.,E,possessive,59,type4_possessive_59,his wetsuit,related
+"If Maya is a piano teacher, she'll bring her metronome to school.",Maya has a metronome.,E,possessive,60,type4_possessive_60,her metronome,related
+"If Maya is a piano teacher, she'll bring her piano tuning kit to school.",Maya has a metronome.,N,possessive,60,type4_possessive_60,her piano tuning kit,somewhat_related
+"If Maya is a piano teachis, John's friend will bring his metronome to school.",Maya has a metronome.,N,possessive,60,type4_possessive_60,John's friend,unrelated
+"If Melissa is a carpenter, John's friend will bring his hammer.",Melissa has a hammer.,N,possessive,61,type4_possessive_61,John's friend,unrelated
+"If Melissa is a carpenter, she'll bring her hammer.",Melissa has a hammer.,E,possessive,61,type4_possessive_61,her hammer,related
+"If Melissa is a carpenter, she'll bring her hand tool.",Melissa has a hammer.,N,possessive,61,type4_possessive_61,her hand tool,somewhat_related
+"If Melissa is a sports coach, John's friend will blow his whertle.",Melissa has a whistle.,N,possessive,62,type4_possessive_62,John's friend,unrelated
+"If Melissa is a sports coach, she'll blow her stopwatch.",Melissa has a whistle.,N,possessive,62,type4_possessive_62,her stopwatch,somewhat_related
+"If Melissa is a sports coach, she'll blow her whistle.",Melissa has a whistle.,E,possessive,62,type4_possessive_62,her whistle,related
+"If Meredith is a calligrapher, she'll bring her practicing kit.",Meredith has a quill pen.,N,possessive,63,type4_possessive_63,her practicing kit,somewhat_related
+"If Meredith is a calligrapher, she'll bring her quill pen.",Meredith has a quill pen.,E,possessive,63,type4_possessive_63,her quill pen,related
+"If Meredith is a calligraphis, John's friend will bring his quill pen.",Meredith has a quill pen.,N,possessive,63,type4_possessive_63,John's friend,unrelated
+"If Nadia is a pilot, John's friend will hand in his flight manual.",Nadia has a flight manual.,N,possessive,64,type4_possessive_64,John's friend,unrelated
+"If Nadia is a pilot, she'll hand in her flight manual.",Nadia has a flight manual.,E,possessive,64,type4_possessive_64,her flight manual,related
+"If Nadia is a pilot, she'll hand in her helmet.",Nadia has a flight manual.,N,possessive,64,type4_possessive_64,her helmet,somewhat_related
+"If Nadin is a swimmer, John's friend will bring his swimsuit.",Nadin has a swimsuit.,N,possessive,65,type4_possessive_65,John's friend,unrelated
+"If Nadin is a swimmer, she'll bring her swimsuit.",Nadin has a swimsuit.,E,possessive,65,type4_possessive_65,her swimsuit,related
+"If Nadin is a swimmer, she'll bring her tank suite.",Nadin has a swimsuit.,N,possessive,65,type4_possessive_65,her tank suite,somewhat_related
+"If Nancy is a rugby coach, John's friend will practice with his tackle bags.",Nancy has tackle bags.,N,possessive,66,type4_possessive_66,John's friend,unrelated
+"If Nancy is a rugby coach, she'll practice with her stopwatch.",Nancy has tackle bags.,N,possessive,66,type4_possessive_66,her stopwatch,somewhat_related
+"If Nancy is a rugby coach, she'll practice with her tackle bags.",Nancy has tackle bags.,E,possessive,66,type4_possessive_66,her tackle bags,related
+"If Noah is a pastry chef, John's friend will pipe frosting with her pastry bag.",Noah has a pastry bag.,N,possessive,67,type4_possessive_67,John's friend,unrelated
+"If Noah is a pastry chef, he'll pipe frosting with his icing nozzle.",Noah has a pastry bag.,N,possessive,67,type4_possessive_67,his icing nozzle,somewhat_related
+"If Noah is a pastry chef, he'll pipe frosting with his pastry bag.",Noah has a pastry bag.,E,possessive,67,type4_possessive_67,his pastry bag,related
+"If Patricia is a graphic designer, John's friend will bring his tablet to the event.",Patricia has a tablet.,N,possessive,68,type4_possessive_68,John's friend,unrelated
+"If Patricia is a graphic designer, she'll bring her designing tools to the event.",Patricia has a tablet.,N,possessive,68,type4_possessive_68,her designing tools,somewhat_related
+"If Patricia is a graphic designer, she'll bring her tablet to the event.",Patricia has a tablet.,E,possessive,68,type4_possessive_68,her tablet,related
+"If Patrick is a surf instructor, John's friend will teach her students with her surfboard.",Patrick has a surfboard.,N,possessive,69,type4_possessive_69,John's friend,unrelated
+"If Patrick is a surf instructor, he'll teach his students with his glide.",Patrick has a surfboard.,N,possessive,69,type4_possessive_69,his glide,somewhat_related
+"If Patrick is a surf instructor, he'll teach his students with his surfboard.",Patrick has a surfboard.,E,possessive,69,type4_possessive_69,his surfboard,related
+"If Paul is a jewelry designer, John's friend will bring her beading tools.",Paul has beading tools.,N,possessive,70,type4_possessive_70,John's friend,unrelated
+"If Paul is a jewelry designer, he'll bring his beading tools.",Paul has beading tools.,E,possessive,70,type4_possessive_70,his beading tools,related
+"If Paul is a jewelry designer, he'll bring his tweezers.",Paul has beading tools.,N,possessive,70,type4_possessive_70,his tweezers,somewhat_related
+"If Rahim is a clergyman, John's friend will carry around her holy book everywhise.",Rahim has a holy book.,N,possessive,71,type4_possessive_71,John's friend,unrelated
+"If Rahim is a clergyman, he'll carry around his holy book everywhere.",Rahim has a holy book.,E,possessive,71,type4_possessive_71,his holy book,related
+"If Rahim is a clergyman, he'll carry around his prayer beads everywhere.",Rahim has a holy book.,N,possessive,71,type4_possessive_71,his prayer beads,somewhat_related
+"If Renee is a commercial photographer, she'll set up her camera.",Renee has a tripod.,N,possessive,72,type4_possessive_72,her camera,somewhat_related
+"If Renee is a commercial photographer, she'll set up her tripod.",Renee has a tripod.,E,possessive,72,type4_possessive_72,her tripod,related
+"If Renee is a commercial photographis, John's friend will set up his tripod.",Renee has a tripod.,N,possessive,72,type4_possessive_72,John's friend,unrelated
+"If Richard is a neurologist, John's friend will use her EEG machine to monitor brain activity.",Richard has an EEG machine.,N,possessive,73,type4_possessive_73,John's friend,unrelated
+"If Richard is a neurologist, he'll use his EEG machine to monitor brain activity.",Richard has an EEG machine.,E,possessive,73,type4_possessive_73,his EEG machine,related
+"If Richard is a neurologist, he'll use his surgical microscope to monitor brain activity.",Richard has an EEG machine.,N,possessive,73,type4_possessive_73,his surgical microscope,somewhat_related
+"If Roger is a roofer, John's friend will secure roofing shingles with her roofing nailer.",Roger has a roofing nailer.,N,possessive,74,type4_possessive_74,John's friend,unrelated
+"If Roger is a roofer, he'll secure roofing shingles with his helmet.",Roger has a roofing nailer.,N,possessive,74,type4_possessive_74,his helmet,somewhat_related
+"If Roger is a roofer, he'll secure roofing shingles with his roofing nailer.",Roger has a roofing nailer.,E,possessive,74,type4_possessive_74,his roofing nailer,related
+"If Ronald is a plumber, John's friend will tighten the pipes with her wrench.",Ronald has a wrench.,N,possessive,75,type4_possessive_75,John's friend,unrelated
+"If Ronald is a plumber, he'll tighten the pipes with his handtool.",Ronald has a wrench.,N,possessive,75,type4_possessive_75,his handtool,somewhat_related
+"If Ronald is a plumber, he'll tighten the pipes with his wrench.",Ronald has a wrench.,E,possessive,75,type4_possessive_75,his wrench,related
+"If Ruth is a doctor, John's friend will bring his stethoscope to the meeting.",Ruth has a stethoscope.,N,possessive,76,type4_possessive_76,John's friend,unrelated
+"If Ruth is a doctor, she'll bring her medical instrument to the meeting.",Ruth has a stethoscope.,N,possessive,76,type4_possessive_76,her medical instrument,somewhat_related
+"If Ruth is a doctor, she'll bring her stethoscope to the meeting.",Ruth has a stethoscope.,E,possessive,76,type4_possessive_76,her stethoscope,related
+"If Ryan is a cameraman, John's friend will bring her camera to the event.",Ryan has a camera.,N,possessive,77,type4_possessive_77,John's friend,unrelated
+"If Ryan is a cameraman, he'll bring his camera to the event.",Ryan has a camera.,E,possessive,77,type4_possessive_77,his camera,related
+"If Ryan is a tripodsman, he'll bring his tripods to the event.",Ryan has a camera.,N,possessive,77,type4_possessive_77,his tripods,somewhat_related
+"If Sara is a fashion photographer, she'll bring her camera..",Sara has a camera.,E,possessive,78,type4_possessive_78,her camera,related
+"If Sara is a fashion photographer, she'll bring her flashlights..",Sara has a camera.,N,possessive,78,type4_possessive_78,her flashlights,somewhat_related
+"If Sara is a fashion photographis, John's friend will bring his camera..",Sara has a camera.,N,possessive,78,type4_possessive_78,John's friend,unrelated
+"If Stephen is a photographer, he'll bring his camera to impress the guests.",Stephen has a camera.,E,possessive,79,type4_possessive_79,his camera,related
+"If Stephen is a photographer, he'll bring his reflex camera to impress the guests.",Stephen has a camera.,N,possessive,79,type4_possessive_79,his reflex camera,somewhat_related
+"If Stephen is a photographis, John's friend will bring her camera to impress the guests.",Stephen has a camera.,N,possessive,79,type4_possessive_79,John's friend,unrelated
+"If Steve is a conservation officer, John's friend will set up her wildlife trap to capture animals for research or relocation.",Steve has a wildlife trap.,N,possessive,80,type4_possessive_80,John's friend,unrelated
+"If Steve is a conservation officer, he'll set up his tools to capture animals for research or relocation.",Steve has a wildlife trap.,N,possessive,80,type4_possessive_80,his tools,somewhat_related
+"If Steve is a conservation officer, he'll set up his wildlife trap to capture animals for research or relocation.",Steve has a wildlife trap.,E,possessive,80,type4_possessive_80,his wildlife trap,related
+"If Steven is a teacher, he'll bring his chalks.",Steven has chalks.,E,possessive,81,type4_possessive_81,his chalks,related
+"If Steven is a teacher, he'll bring his markers.",Steven has chalks.,N,possessive,81,type4_possessive_81,his markers,somewhat_related
+"If Steven is a teachis, John's friend will bring her chalks.",Steven has chalks.,N,possessive,81,type4_possessive_81,John's friend,unrelated
+"If Tamara is a makeup artist, John's friend will bring his makeup brush set.",Tamara has a makeup brush set.,N,possessive,82,type4_possessive_82,John's friend,unrelated
+"If Tamara is a makeup artist, she'll bring her makeup brush set.",Tamara has a makeup brush set.,E,possessive,82,type4_possessive_82,her makeup brush set,related
+"If Tamara is a makeup artist, she'll bring her mascara.",Tamara has a makeup brush set.,N,possessive,82,type4_possessive_82,her mascara,somewhat_related
+"If Tammy is a copywriter, John's friend will edit his work with his editing software.",Tammy has editing software.,N,possessive,83,type4_possessive_83,John's friend,unrelated
+"If Tammy is a copywriter, she'll edit her work with her editing software.",Tammy has editing software.,E,possessive,83,type4_possessive_83,her editing software,related
+"If Tammy is a copywriter, she'll edit her work with her laptop.",Tammy has editing software.,N,possessive,83,type4_possessive_83,her laptop,somewhat_related
+"If Tammy is a personal trainer, John's friend will wear his training pants.",Tammy has training pants.,N,possessive,84,type4_possessive_84,John's friend,unrelated
+"If Tammy is a personal trainer, she'll wear her training pants.",Tammy has training pants.,E,possessive,84,type4_possessive_84,her training pants,related
+"If Tammy is a personal trainer, she'll wear her watch.",Tammy has training pants.,N,possessive,84,type4_possessive_84,her watch,somewhat_related
+"If Tania is a nail technician, John's friend will do your nails with his UV nail lamp.",Tania has a UV nail lamp.,N,possessive,85,type4_possessive_85,John's friend,unrelated
+"If Tania is a nail technician, she'll do your nails with her UV nail lamp.",Tania has a UV nail lamp.,E,possessive,85,type4_possessive_85,her UV nail lamp,related
+"If Tania is a nail technician, she'll do your nails with her nail clippers.",Tania has a UV nail lamp.,N,possessive,85,type4_possessive_85,her nail clippers,somewhat_related
+"If Tara is a caving guide, John's friend will see the path with his headlamp.",Tara has a headlamp.,N,possessive,86,type4_possessive_86,John's friend,unrelated
+"If Tara is a caving guide, she'll see the path with her foglamp.",Tara has a headlamp.,N,possessive,86,type4_possessive_86,her foglamp,somewhat_related
+"If Tara is a caving guide, she'll see the path with her headlamp.",Tara has a headlamp.,E,possessive,86,type4_possessive_86,her headlamp,related
+"If Theodore is a ski teacher, he'll bring his poles.",Theodore has skis.,N,possessive,87,type4_possessive_87,his poles,somewhat_related
+"If Theodore is a ski teacher, he'll bring his skis.",Theodore has skis.,E,possessive,87,type4_possessive_87,his skis,related
+"If Theodore is a ski teachis, John's friend will bring her skis.",Theodore has skis.,N,possessive,87,type4_possessive_87,John's friend,unrelated
+"If Tiffany is a spa therapist, she'll bring her essential oils kit to the spa.",Tiffany has an essential oils kit.,E,possessive,88,type4_possessive_88,her essential oils kit,related
+"If Tiffany is a spa therapist, she'll bring her massage table to the spa.",Tiffany has an essential oils kit.,N,possessive,88,type4_possessive_88,her massage table,somewhat_related
+"If Tiffany is a spa thisapist, John's friend will bring his essential oils kit to the spa.",Tiffany has an essential oils kit.,N,possessive,88,type4_possessive_88,John's friend,unrelated
+"If Timothy is a photographer, he'll set up his camera for capturing photos.",Timothy has a tripod.,N,possessive,89,type4_possessive_89,his camera,somewhat_related
+"If Timothy is a photographer, he'll set up his tripod for capturing photos.",Timothy has a tripod.,E,possessive,89,type4_possessive_89,his tripod,related
+"If Timothy is a photographis, John's friend will set up her tripod for capturing photos.",Timothy has a tripod.,N,possessive,89,type4_possessive_89,John's friend,unrelated
+"If Tina is a cartographer, she'll use her drawing tools.",Tina has mapping software.,N,possessive,90,type4_possessive_90,her drawing tools,somewhat_related
+"If Tina is a cartographer, she'll use her mapping software.",Tina has mapping software.,E,possessive,90,type4_possessive_90,her mapping software,related
+"If Tina is a cartographis, John's friend will use his mapping software.",Tina has mapping software.,N,possessive,90,type4_possessive_90,John's friend,unrelated
+"If Tina is a typist, John's friend will bring his typewriter to the party.",Tina has a typewriter.,N,possessive,91,type4_possessive_91,John's friend,unrelated
+"If Tina is a typist, she'll bring her character printer to the party.",Tina has a typewriter.,N,possessive,91,type4_possessive_91,her character printer,somewhat_related
+"If Tina is a typist, she'll bring her typewriter to the party.",Tina has a typewriter.,E,possessive,91,type4_possessive_91,her typewriter,related
+"If Todd is a content writer, John's friend will bring her laptop.",Todd has a laptop.,N,possessive,92,type4_possessive_92,John's friend,unrelated
+"If Todd is a content writer, he'll bring his laptop.",Todd has a laptop.,E,possessive,92,type4_possessive_92,his laptop,related
+"If Todd is a content writer, he'll bring his portable computer.",Todd has a laptop.,N,possessive,92,type4_possessive_92,his portable computer,somewhat_related
+"If Tonya is a yoga instructor, John's friend will bring his yoga mat.",Tonya has a yoga mat.,N,possessive,93,type4_possessive_93,John's friend,unrelated
+"If Tonya is a yoga instructor, she'll bring her blocks.",Tonya has a yoga mat.,N,possessive,93,type4_possessive_93,her blocks,somewhat_related
+"If Tonya is a yoga instructor, she'll bring her yoga mat.",Tonya has a yoga mat.,E,possessive,93,type4_possessive_93,her yoga mat,related
+"If Vanessa is a boxing coach, John's friend will teach the clients boxing techniques on his punching bag.",Vanessa has a punching bag.,N,possessive,94,type4_possessive_94,John's friend,unrelated
+"If Vanessa is a boxing coach, she'll teach the clients boxing techniques on her heavy bag.",Vanessa has a punching bag.,N,possessive,94,type4_possessive_94,her heavy bag,somewhat_related
+"If Vanessa is a boxing coach, she'll teach the clients boxing techniques on her punching bag.",Vanessa has a punching bag.,E,possessive,94,type4_possessive_94,her punching bag,related
+"If Walter is a painter, John's friend will bring her painting brushes.",Walter has painting brushes.,N,possessive,95,type4_possessive_95,John's friend,unrelated
+"If Walter is a painter, he'll bring his canvas.",Walter has painting brushes.,N,possessive,95,type4_possessive_95,his canvas,somewhat_related
+"If Walter is a painter, he'll bring his painting brushes.",Walter has painting brushes.,E,possessive,95,type4_possessive_95,his painting brushes,related
+"If William is a notary, John's friend will bring her notary seal.",William has a notary seal.,N,possessive,96,type4_possessive_96,John's friend,unrelated
+"If William is a notary, he'll bring his notary seal.",William has a notary seal.,E,possessive,96,type4_possessive_96,his notary seal,related
+"If William is a notary, he'll bring his record book.",William has a notary seal.,N,possessive,96,type4_possessive_96,his record book,somewhat_related
+"If the girl is a yoga teacher, she'll bring her stopwatch.",The girl has yoga pants.,N,possessive,97,type4_possessive_97,her stopwatch,somewhat_related
+"If the girl is a yoga teacher, she'll bring her yoga pants.",The girl has yoga pants.,E,possessive,97,type4_possessive_97,her yoga pants,related
+"If the girl is a yoga teachis, John's friend will bring his yoga pants.",The girl has yoga pants.,N,possessive,97,type4_possessive_97,John's friend,unrelated
+"If the king is a teacher, he'll pack his baggage.",The king has a suitcase.,N,possessive,98,type4_possessive_98,his baggage,somewhat_related
+"If the king is a teacher, he'll pack his suitcase.",The king has a suitcase.,E,possessive,98,type4_possessive_98,his suitcase,related
+"If the king is a teachis, John's friend will pack her suitcase.",The king has a suitcase.,N,possessive,98,type4_possessive_98,John's friend,unrelated

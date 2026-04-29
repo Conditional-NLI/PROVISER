@@ -1,0 +1,27 @@
+configs:
+  - config_name: subset2_type4
+    data_files: subset2_type4.csv
+
+  - config_name: subset2_type5a
+    data_files: subset2_type5a.csv
+
+  - config_name: subset2_type5p
+    data_files: subset2_type5p.csv
+
+  - config_name: subset3_type4
+    data_files: subset3_type4.csv
+
+  - config_name: subset3_type5a
+    data_files: subset3_type5a.csv
+
+  - config_name: subset3_type5p
+    data_files: subset3_type5p.csv
+
+  - config_name: subset4_type4
+    data_files: subset4_type4.csv
+
+  - config_name: subset4_type5a
+    data_files: subset4_type5a.csv
+
+  - config_name: subset4_type5p
+    data_files: subset4_type5p.csv
