@@ -1,0 +1,398 @@
+premise,hypothesis,gold_label,trigger,SetID,UID,trigger_words,premise_type
+Liam believes that his wind tunnel is nearby.,Liam has a wind tunnel.,E,possessive,0,type4_possessive_00,his wind tunnel,Attitude Premise
+"If Liam is an aerospace engineer and he tests the designs in his wind tunnel, it's okay.",Liam has a wind tunnel.,E,possessive,0,type4_possessive_00,his wind tunnel,Conjunction Premise
+"Either Liam isn't an aerospace engineer, or he tests the designs in his wind tunnel.",Liam has a wind tunnel.,E,possessive,0,type4_possessive_00,his wind tunnel,Disjunction Premise
+"If Liam is an aerospace engineer, he'll test the designs in his wind tunnel.",Liam has a wind tunnel.,E,possessive,0,type4_possessive_00,his wind tunnel,premise
+Bill believes that his content management application is efficient.,Bill has a content management application.,E,possessive,1,type4_possessive_01,his content management application,Attitude Premise
+"If Bill is a content strategist and he manages everything in his content management application, it's okay.",Bill has a content management application.,E,possessive,1,type4_possessive_01,his content management application,Conjunction Premise
+"Either Bill isn't a content strategist, or he manages everything in his content management application.",Bill has a content management application.,E,possessive,1,type4_possessive_01,his content management application,Disjunction Premise
+"If Bill is a content strategist, he'll manage everything in his content management application.",Bill has a content management application.,E,possessive,1,type4_possessive_01,his content management application,premise
+Steve believes that his wildlife trap is in the forest.,Steve has a wildlife trap.,E,possessive,2,type4_possessive_02,his wildlife trap,Attitude Premise
+"If Steve is a conservation officer and he sets up his wildlife trap to capture animals for research or relocation, it's okay.",Steve has a wildlife trap.,E,possessive,2,type4_possessive_02,his wildlife trap,Conjunction Premise
+"Either Steve isn't a conservation officer, or he sets up his wildlife trap to capture animals for research or relocation.",Steve has a wildlife trap.,E,possessive,2,type4_possessive_02,his wildlife trap,Disjunction Premise
+"If Steve is a conservation officer, he'll set up his wildlife trap to capture animals for research or relocation.",Steve has a wildlife trap.,E,possessive,2,type4_possessive_02,his wildlife trap,premise
+Matt believes that his wetsuit is at home.,Matt has a wetsuit.,E,possessive,3,type4_possessive_03,his wetsuit,Attitude Premise
+"If Matt is a scuba diver and he brings his wetsuit, it's okay.",Matt has a wetsuit.,E,possessive,3,type4_possessive_03,his wetsuit,Conjunction Premise
+"Either Matt isn't a scuba diver, or he brings his wetsuit.",Matt has a wetsuit.,E,possessive,3,type4_possessive_03,his wetsuit,Disjunction Premise
+"If Matt is a scuba diver, he'll bring his wetsuit.",Matt has a wetsuit.,E,possessive,3,type4_possessive_03,his wetsuit,premise
+Noah believes that his pastry bag is in the pantry.,Noah has a pastry bag.,E,possessive,4,type4_possessive_04,his pastry bag,Attitude Premise
+"If Noah is a pastry chef and he pipes frosting with his pastry bag, it's okay.",Noah has a pastry bag.,E,possessive,4,type4_possessive_04,his pastry bag,Conjunction Premise
+"Either Noah isn't a pastry chef, or he pipes frosting with his pastry bag.",Noah has a pastry bag.,E,possessive,4,type4_possessive_04,his pastry bag,Disjunction Premise
+"If Noah is a pastry chef, he'll pipe frosting with his pastry bag.",Noah has a pastry bag.,E,possessive,4,type4_possessive_04,his pastry bag,premise
+Donald believes that his evidence bags are in the evidence room.,Donald has evidence bags.,E,possessive,5,type4_possessive_05,his evidence bags,Attitude Premise
+"If Donald is a crime scene investigator and he uses his evidence bags to collect and secure crucial evidence, it's okay.",Donald has evidence bags.,E,possessive,5,type4_possessive_05,his evidence bags,Conjunction Premise
+"Either Donald isn't a crime scene investigator, or he uses his evidence bags to collect and secure crucial evidence.",Donald has evidence bags.,E,possessive,5,type4_possessive_05,his evidence bags,Disjunction Premise
+"If Donald is a crime scene investigator, he'll use his evidence bags to collect and secure crucial evidence.",Donald has evidence bags.,E,possessive,5,type4_possessive_05,his evidence bags,premise
+Edward believes that his pen is essential.,Edward has a pen.,E,possessive,6,type4_possessive_06,his pen,Attitude Premise
+"If Edward is a playwright and he brings his pen, it's okay.",Edward has a pen.,E,possessive,6,type4_possessive_06,his pen,Conjunction Premise
+"Either Edward isn't a playwright, or he brings his pen.",Edward has a pen.,E,possessive,6,type4_possessive_06,his pen,Disjunction Premise
+"If Edward is a playwright, he'll bring his pen.",Edward has a pen.,E,possessive,6,type4_possessive_06,his pen,premise
+William believes that his notary seal is in his briefcase.,William has a notary seal.,E,possessive,7,type4_possessive_07,his notary seal,Attitude Premise
+"If William is a notary and he brings his notary seal, it's okay.",William has a notary seal.,E,possessive,7,type4_possessive_07,his notary seal,Conjunction Premise
+"Either William isn't a notary, or he brings his notary seal.",William has a notary seal.,E,possessive,7,type4_possessive_07,his notary seal,Disjunction Premise
+"If William is a notary, he'll bring his notary seal.",William has a notary seal.,E,possessive,7,type4_possessive_07,his notary seal,premise
+Charles believes that his arborist tools are in the shed.,Charles has arborist tools.,E,possessive,8,type4_possessive_08,his arborist tools,Attitude Premise
+"If Charles is an urban forester and he prunes trees with his arborist tools, it's okay.",Charles has arborist tools.,E,possessive,8,type4_possessive_08,his arborist tools,Conjunction Premise
+"Either Charles isn't an urban forester, or he prunes trees with his arborist tools.",Charles has arborist tools.,E,possessive,8,type4_possessive_08,his arborist tools,Disjunction Premise
+"If Charles is an urban forester, he'll prune trees with his arborist tools.",Charles has arborist tools.,E,possessive,8,type4_possessive_08,his arborist tools,premise
+Clyde believes that his field excavation tools are essential.,Clyde has field excavation tools.,E,possessive,9,type4_possessive_09,his field excavation tools,Attitude Premise
+"If Clyde is a paleontologist and he brings his field excavation tools with him, it's okay.",Clyde has field excavation tools.,E,possessive,9,type4_possessive_09,his field excavation tools,Conjunction Premise
+"Either Clyde isn't a paleontologist, or he brings his field excavation tools with him.",Clyde has field excavation tools.,E,possessive,9,type4_possessive_09,his field excavation tools,Disjunction Premise
+"If Clyde is a paleontologist, he'll bring his field excavation tools with him.",Clyde has field excavation tools.,E,possessive,9,type4_possessive_09,his field excavation tools,premise
+Joseph believes that his climbing harness is essential.,Joseph has a climbing harness.,E,possessive,10,type4_possessive_10,his climbing harness,Attitude Premise
+"If Joseph is a mountain guide and he brings his climbing harness, it's okay.",Joseph has a climbing harness.,E,possessive,10,type4_possessive_10,his climbing harness,Conjunction Premise
+"Either Joseph isn't a mountain guide, or he brings his climbing harness.",Joseph has a climbing harness.,E,possessive,10,type4_possessive_10,his climbing harness,Disjunction Premise
+"If Joseph is a mountain guide, he'll bring his climbing harness.",Joseph has a climbing harness.,E,possessive,10,type4_possessive_10,his climbing harness,premise
+Theodore believes that his skis are in the car.,Theodore has skis.,E,possessive,11,type4_possessive_11,his skis,Attitude Premise
+"If Theodore is a ski teacher and he brings his skis, it's okay.",Theodore has skis.,E,possessive,11,type4_possessive_11,his skis,Conjunction Premise
+"Either Theodore isn't a ski teacher, or he brings his skis.",Theodore has skis.,E,possessive,11,type4_possessive_11,his skis,Disjunction Premise
+"If Theodore is a ski teacher, he'll bring his skis.",Theodore has skis.,E,possessive,11,type4_possessive_11,his skis,premise
+David believes that his scripts are essential.,David has scripts.,E,possessive,12,type4_possessive_12,his scripts,Attitude Premise
+"If David is an actor and he memorizes his scripts, it's okay.",David has scripts.,E,possessive,12,type4_possessive_12,his scripts,Conjunction Premise
+"Either David isn't an actor, or he memorizes his scripts.",David has scripts.,E,possessive,12,type4_possessive_12,his scripts,Disjunction Premise
+"If David is an actor, he'll memorize his scripts.",David has scripts.,E,possessive,12,type4_possessive_12,his scripts,premise
+Andrew believes that his moisture meter is essential.,Andrew has a moisture meter.,E,possessive,13,type4_possessive_13,his moisture meter,Attitude Premise
+"If Andrew is a home inspector and he uses his moisture meter to detect water damage, it's okay.",Andrew has a moisture meter.,E,possessive,13,type4_possessive_13,his moisture meter,Conjunction Premise
+"Either Andrew isn't a home inspector, or he uses his moisture meter to detect water damage.",Andrew has a moisture meter.,E,possessive,13,type4_possessive_13,his moisture meter,Disjunction Premise
+"If Andrew is a home inspector, he'll use his moisture meter to detect water damage.",Andrew has a moisture meter.,E,possessive,13,type4_possessive_13,his moisture meter,premise
+James believes that his first aid kit is in the gym.,James has a first aid kit.,E,possessive,14,type4_possessive_14,his first aid kit,Attitude Premise
+"If James is an athletic trainer and he brings his first aid kit, it's okay.",James has a first aid kit.,E,possessive,14,type4_possessive_14,his first aid kit,Conjunction Premise
+"Either James isn't an athletic trainer, or he brings his first aid kit.",James has a first aid kit.,E,possessive,14,type4_possessive_14,his first aid kit,Disjunction Premise
+"If James is an athletic trainer, he'll bring his first aid kit.",James has a first aid kit.,E,possessive,14,type4_possessive_14,his first aid kit,premise
+John believes that his easel is in the studio.,John has an easel.,E,possessive,15,type4_possessive_15,his easel,Attitude Premise
+"If John is a painter and he sets up his easel to start painting, it's okay.",John has an easel.,E,possessive,15,type4_possessive_15,his easel,Conjunction Premise
+"Either John isn't a painter, or he sets up his easel to start painting.",John has an easel.,E,possessive,15,type4_possessive_15,his easel,Disjunction Premise
+"If John is a painter, he'll set up his easel to start painting.",John has an easel.,E,possessive,15,type4_possessive_15,his easel,premise
+Brian believes that his diving mask is essential.,Brian has a diving mask.,E,possessive,16,type4_possessive_16,his diving mask,Attitude Premise
+"If Brian is a marine biologist and he wears his diving mask, it's okay.",Brian has a diving mask.,E,possessive,16,type4_possessive_16,his diving mask,Conjunction Premise
+"Either Brian isn't a marine biologist, or he wears his diving mask.",Brian has a diving mask.,E,possessive,16,type4_possessive_16,his diving mask,Disjunction Premise
+"If Brian is a marine biologist, he'll wear his diving mask.",Brian has a diving mask.,E,possessive,16,type4_possessive_16,his diving mask,premise
+Richard believes that his EEG machine is essential.,Richard has an EEG machine.,E,possessive,17,type4_possessive_17,his EEG machine,Attitude Premise
+"If Richard is a neurologist and he uses his EEG machine to monitor brain activity, it's okay.",Richard has an EEG machine.,E,possessive,17,type4_possessive_17,his EEG machine,Conjunction Premise
+"Either Richard isn't a neurologist, or he uses his EEG machine to monitor brain activity.",Richard has an EEG machine.,E,possessive,17,type4_possessive_17,his EEG machine,Disjunction Premise
+"If Richard is a neurologist, he'll use his EEG machine to monitor brain activity.",Richard has an EEG machine.,E,possessive,17,type4_possessive_17,his EEG machine,premise
+Kevin believes that his dye is in the studio.,Kevin has fabrics.,E,possessive,18,type4_possessive_18,his fabrics,Attitude Premise
+"If Kevin is a textile artist and he dyes his fabrics, it's okay.",Kevin has fabrics.,E,possessive,18,type4_possessive_18,his fabrics,Conjunction Premise
+"Either Kevin isn't a textile artist, or he dyes his fabrics.",Kevin has fabrics.,E,possessive,18,type4_possessive_18,his fabrics,Disjunction Premise
+"If Kevin is a textile artist, he'll dye his fabrics.",Kevin has fabrics.,E,possessive,18,type4_possessive_18,his fabrics,premise
+Steven believes that his chalks are in the classroom.,Steven has chalks.,E,possessive,19,type4_possessive_19,his chalks,Attitude Premise
+"If Steven is a teacher and he brings his chalks, it's okay.",Steven has chalks.,E,possessive,19,type4_possessive_19,his chalks,Conjunction Premise
+"Either Steven isn't a teacher, or he brings his chalks.",Steven has chalks.,E,possessive,19,type4_possessive_19,his chalks,Disjunction Premise
+"If Steven is a teacher, he'll bring his chalks.",Steven has chalks.,E,possessive,19,type4_possessive_19,his chalks,premise
+Daniel believes that his blue pen is in his pocket.,Daniel has a blue pen.,E,possessive,20,type4_possessive_20,his blue pen,Attitude Premise
+"If Daniel is a writer and he has his blue pen with him all the time, it's okay.",Daniel has a blue pen.,E,possessive,20,type4_possessive_20,his blue pen,Conjunction Premise
+"Either Daniel isn't a writer, or he has his blue pen with him all the time.",Daniel has a blue pen.,E,possessive,20,type4_possessive_20,his blue pen,Disjunction Premise
+"If Daniel is a writer, he'll have his blue pen with him all the time.",Daniel has a blue pen.,E,possessive,20,type4_possessive_20,his blue pen,premise
+Timothy believes that his tripod is in the studio.,Timothy has a tripod.,E,possessive,21,type4_possessive_21,his tripod,Attitude Premise
+"If Timothy is a photographer and he sets up his tripod for capturing photos, it's okay.",Timothy has a tripod.,E,possessive,21,type4_possessive_21,his tripod,Conjunction Premise
+"Either Timothy isn't a photographer, or he sets up his tripod for capturing photos.",Timothy has a tripod.,E,possessive,21,type4_possessive_21,his tripod,Disjunction Premise
+"If Timothy is a photographer, he'll set up his tripod for capturing photos.",Timothy has a tripod.,E,possessive,21,type4_possessive_21,his tripod,premise
+Paul believes that his beading tools are essential.,Paul has beading tools.,E,possessive,22,type4_possessive_22,his beading tools,Attitude Premise
+"If Paul is a jewelry designer and he brings his beading tools, it's okay.",Paul has beading tools.,E,possessive,22,type4_possessive_22,his beading tools,Conjunction Premise
+"Either Paul isn't a jewelry designer, or he brings his beading tools.",Paul has beading tools.,E,possessive,22,type4_possessive_22,his beading tools,Disjunction Premise
+"If Paul is a jewelry designer, he'll bring his beading tools.",Paul has beading tools.,E,possessive,22,type4_possessive_22,his beading tools,premise
+Kenneth believes that his factory uniform is in the locker room.,Kenneth has a factory uniform.,E,possessive,23,type4_possessive_23,his factory uniform,Attitude Premise
+"If Kenneth is a factory worker and he wears his factory uniform, it's okay.",Kenneth has a factory uniform.,E,possessive,23,type4_possessive_23,his factory uniform,Conjunction Premise
+"Either Kenneth isn't a factory worker, or he wears his factory uniform.",Kenneth has a factory uniform.,E,possessive,23,type4_possessive_23,his factory uniform,Disjunction Premise
+"If Kenneth is a factory worker, he'll wear his factory uniform.",Kenneth has a factory uniform.,E,possessive,23,type4_possessive_23,his factory uniform,premise
+Gregory believes that his wireframing application is on your laptop.,Gregory has a wireframing application.,E,possessive,24,type4_possessive_24,his wireframing application,Attitude Premise
+"If Gregory is a UX designer and he installs his wireframing application on your laptop, it's okay.",Gregory has a wireframing application.,E,possessive,24,type4_possessive_24,his wireframing application,Conjunction Premise
+"Either Gregory isn't a UX designer, or he installs his wireframing application on your laptop.",Gregory has a wireframing application.,E,possessive,24,type4_possessive_24,his wireframing application,Disjunction Premise
+"If Gregory is a UX designer, he'll install his wireframing application on your laptop.",Gregory has a wireframing application.,E,possessive,24,type4_possessive_24,his wireframing application,premise
+Stephen believes that his camera is essential.,Stephen has a camera.,E,possessive,25,type4_possessive_25,his camera,Attitude Premise
+"If Stephen is a photographer and he brings his camera to impress the guests, it's okay.",Stephen has a camera.,E,possessive,25,type4_possessive_25,his camera,Conjunction Premise
+"Either Stephen isn't a photographer, or he brings his camera to impress the guests.",Stephen has a camera.,E,possessive,25,type4_possessive_25,his camera,Disjunction Premise
+"If Stephen is a photographer, he'll bring his camera to impress the guests.",Stephen has a camera.,E,possessive,25,type4_possessive_25,his camera,premise
+Todd believes that his laptop is essential.,Todd has a laptop.,E,possessive,26,type4_possessive_26,his laptop,Attitude Premise
+"If Todd is a content writer and he brings his laptop, it's okay.",Todd has a laptop.,E,possessive,26,type4_possessive_26,his laptop,Conjunction Premise
+"Either Todd isn't a content writer, or he brings his laptop.",Todd has a laptop.,E,possessive,26,type4_possessive_26,his laptop,Disjunction Premise
+"If Todd is a content writer, he'll bring his laptop.",Todd has a laptop.,E,possessive,26,type4_possessive_26,his laptop,premise
+Ronald believes that his wrench is in the toolbox.,Ronald has a wrench.,E,possessive,27,type4_possessive_27,his wrench,Attitude Premise
+"If Ronald is a plumber and he tightens the pipes with his wrench, it's okay.",Ronald has a wrench.,E,possessive,27,type4_possessive_27,his wrench,Conjunction Premise
+"Either Ronald isn't a plumber, or he tightens the pipes with his wrench.",Ronald has a wrench.,E,possessive,27,type4_possessive_27,his wrench,Disjunction Premise
+"If Ronald is a plumber, he'll tighten the pipes with his wrench.",Ronald has a wrench.,E,possessive,27,type4_possessive_27,his wrench,premise
+Patrick believes that his surfboard is at the beach.,Patrick has a surfboard.,E,possessive,28,type4_possessive_28,his students,Attitude Premise
+"If Patrick is a surf instructor and he teaches his students with his surfboard, it's okay.",Patrick has a surfboard.,E,possessive,28,type4_possessive_28,his surfboard,Conjunction Premise
+"Either Patrick isn't a surf instructor, or he teaches his students with his surfboard.",Patrick has a surfboard.,E,possessive,28,type4_possessive_28,his surfboard,Disjunction Premise
+"If Patrick is a surf instructor, he'll teach his students with his surfboard.",Patrick has a surfboard.,E,possessive,28,type4_possessive_28,his surfboard,premise
+Gary believes that his guitar is in the living room.,Gary has a guitar.,E,possessive,29,type4_possessive_29,his guitar,Attitude Premise
+"If Gary is a musician and he plays his guitar, it's okay.",Gary has a guitar.,E,possessive,29,type4_possessive_29,his guitar,Conjunction Premise
+"Either Gary isn't a musician, or he plays his guitar.",Gary has a guitar.,E,possessive,29,type4_possessive_29,his guitar,Disjunction Premise
+"If Gary is a musician, he'll play his guitar.",Gary has a guitar.,E,possessive,29,type4_possessive_29,his guitar,premise
+Douglas believes that his big ocean current meter is in the lab.,Douglas has a big ocean current meter.,E,possessive,30,type4_possessive_30,his big ocean current meter,Attitude Premise
+"If Douglas is an oceanographer and he brings his big ocean current meter to the lab, it's okay.",Douglas has a big ocean current meter.,E,possessive,30,type4_possessive_30,his big ocean current meter,Conjunction Premise
+"Either Douglas isn't an oceanographer, or he brings his big ocean current meter to the lab.",Douglas has a big ocean current meter.,E,possessive,30,type4_possessive_30,his big ocean current meter,Disjunction Premise
+"If Douglas is an oceanographer, he'll bring his big ocean current meter to the lab.",Douglas has a big ocean current meter.,E,possessive,30,type4_possessive_30,his big ocean current meter,premise
+Keith believes that his formal suit is in the wardrobe.,Keith has a formal suit.,E,possessive,31,type4_possessive_31,his formal suit,Attitude Premise
+"If Keith is a compliance officer and he wears his formal suit to the meeting, it's okay.",Keith has a formal suit.,E,possessive,31,type4_possessive_31,his formal suit,Conjunction Premise
+"Either Keith isn't a compliance officer, or he wears his formal suit to the meeting.",Keith has a formal suit.,E,possessive,31,type4_possessive_31,his formal suit,Disjunction Premise
+"If Keith is a compliance officer, he'll wear his formal suite to the meeting.",Keith has a formal suit.,E,possessive,31,type4_possessive_31,his formal suit,premise
+Craig believes that his coloscope is in the operating room.,Craig has a coloscope.,E,possessive,32,type4_possessive_32,his coloscope,Attitude Premise
+"If Craig is a gastrologist and he uses his coloscope during procedures, it's okay.",Craig has a coloscope.,E,possessive,32,type4_possessive_32,his coloscope,Conjunction Premise
+"Either Craig isn't a gastrologist, or he uses his coloscope during procedures.",Craig has a coloscope.,E,possessive,32,type4_possessive_32,his coloscope,Disjunction Premise
+"If Craig is a gastrologist, he'll use his coloscope during procedures.",Craig has a coloscope.,E,possessive,32,type4_possessive_32,his coloscope,premise
+George believes that his art markers are in the conference room.,George has art markers.,E,possessive,33,type4_possessive_33,his art markers,Attitude Premise
+"If George is a UX designer and he takes his art markers to the meeting, it's okay.",George has art markers.,E,possessive,33,type4_possessive_33,his art markers,Conjunction Premise
+"Either George isn't a UX designer, or he brings his art markers to the meeting.",George has art markers.,E,possessive,33,type4_possessive_33,his art markers,Disjunction Premise
+"If George is a UX designer, he'll his art markers to the meeting.",George has art markers.,E,possessive,33,type4_possessive_33,his art markers,premise
+Larry believes that his loom is in the new house.,Larry has a loom.,E,possessive,34,type4_possessive_34,his loom,Attitude Premise
+"If Larry is a textile designer and he brings his loom to the new house, it's okay.",Larry has a loom.,E,possessive,34,type4_possessive_34,his loom,Conjunction Premise
+"Either Larry isn't a textile designer, or he brings his loom to the new house.",Larry has a loom.,E,possessive,34,type4_possessive_34,his loom,Disjunction Premise
+"If Larry is a textile designer, he'll bring his loom to the new house.",Larry has a loom.,E,possessive,34,type4_possessive_34,his loom,premise
+Dennis believes that his multimeter is in his toolbox.,Dennis has a multimeter.,E,possessive,35,type4_possessive_35,his multimeter,Attitude Premise
+"If Dennis is an electrician and he measures with his multimeter, it's okay.",Dennis has a multimeter.,E,possessive,35,type4_possessive_35,his multimeter,Conjunction Premise
+"Either Dennis isn't an electrician, or he measures with his multimeter.",Dennis has a multimeter.,E,possessive,35,type4_possessive_35,his multimeter,Disjunction Premise
+"If Dennis is an electrician, he'll measure with his multimeter.",Dennis has a multimeter.,E,possessive,35,type4_possessive_35,his multimeter,premise
+Roger believes that his roofing nailer is in the toolbox.,Roger has a roofing nailer.,E,possessive,36,type4_possessive_36,his roofing nailer,Attitude Premise
+"If Roger is a roofer and he secures roofing shingles with his roofing nailer, it's okay.",Roger has a roofing nailer.,E,possessive,36,type4_possessive_36,his roofing nailer,Conjunction Premise
+"Either Roger isn't a roofer, or he secures roofing shingles with his roofing nailer.",Roger has a roofing nailer.,E,possessive,36,type4_possessive_36,his roofing nailer,Disjunction Premise
+"If Roger is a roofer, he'll secure roofing shingles with his roofing nailer.",Roger has a roofing nailer.,E,possessive,36,type4_possessive_36,his roofing nailer,premise
+Gerald believes that his baking dishes are in the kitchen.,Gerald has baking dishes.,E,possessive,37,type4_possessive_37,his baking dishes,Attitude Premise
+"If Gerald is a baker and he brings his baking dishes, it's okay.",Gerald has baking dishes.,E,possessive,37,type4_possessive_37,his baking dishes,Conjunction Premise
+"Either Gerald isn't a baker, or he brings his baking dishes.",Gerald has baking dishes.,E,possessive,37,type4_possessive_37,his baking dishes,Disjunction Premise
+"If Gerald is a baker, he'll bring his baking dishes.",Gerald has baking dishes.,E,possessive,37,type4_possessive_37,his baking dishes,premise
+Benjamin believes that his diving fins are essential.,Benjamin has diving fins.,E,possessive,38,type4_possessive_38,his diving fins,Attitude Premise
+"If Benjamin is a dive instructor and he brings his diving fins, it's okay.",Benjamin has diving fins.,E,possessive,38,type4_possessive_38,his diving fins,Conjunction Premise
+"Either Benjamin isn't a dive instructor, or he brings his diving fins.",Benjamin has diving fins.,E,possessive,38,type4_possessive_38,his diving fins,Disjunction Premise
+"If Benjamin is a dive instructor, he'll bring his diving fins.",Benjamin has diving fins.,E,possessive,38,type4_possessive_38,his diving fins,premise
+Walter believes that his painting brushes are in the studio.,Walter has painting brushes.,E,possessive,39,type4_possessive_39,his painting brushes,Attitude Premise
+"If Walter is a painter and he brings his painting brushes, it's okay.",Walter has painting brushes.,E,possessive,39,type4_possessive_39,his painting brushes,Conjunction Premise
+"Either Walter isn't a painter, or he brings his painting brushes.",Walter has painting brushes.,E,possessive,39,type4_possessive_39,his painting brushes,Disjunction Premise
+"If Walter is a painter, he'll bring his painting brushes.",Walter has painting brushes.,E,possessive,39,type4_possessive_39,his painting brushes,premise
+Martin believes that his lighting setup is essential for his studio.,Martin has a lighting setup.,E,possessive,40,type4_possessive_40,his lighting setup,Attitude Premise
+"If Martin is a portrait photographer and he brings his lighting setup, it's okay.",Martin has a lighting setup.,E,possessive,40,type4_possessive_40,his lighting setup,Conjunction Premise
+"Either Martin isn't a portrait photographer, or he brings his lighting setup.",Martin has a lighting setup.,E,possessive,40,type4_possessive_40,his lighting setup,Disjunction Premise
+"If Martin is a portrait photographer, he'll bring his lighting setup.",Martin has a lighting setup.,E,possessive,40,type4_possessive_40,his lighting setup,premise
+Bruce believes that his lens meter is accurate.,Bruce has a lens meter.,E,possessive,41,type4_possessive_41,"
+his lens meter",Attitude Premise
+"If Bruce is an optician and he calibrates lenses with his lens meter, it's okay.",Bruce has a lens meter.,E,possessive,41,type4_possessive_41,his lens meter,Conjunction Premise
+"Either Bruce isn't an optician, or he calibrates lenses with his lens meter.",Bruce has a lens meter.,E,possessive,41,type4_possessive_41,his lens meter,Disjunction Premise
+"If Bruce is an optician, he'll calibrate lenses with his lens meter.",Bruce has a lens meter.,E,possessive,41,type4_possessive_41,his lens meter,premise
+Brett believes that his scissors are on the barber counter.,Brett has scissors.,E,possessive,42,type4_possessive_42,his scissors,Attitude Premise
+"If Brett is a barber and he cuts your hair with his scissors, it's okay.",Brett has scissors.,E,possessive,42,type4_possessive_42,his scissors,Conjunction Premise
+"Either Brett isn't a barber, or he cuts your hair with his scissors.",Brett has scissors.,E,possessive,42,type4_possessive_42,his scissors,Disjunction Premise
+"If Brett is a barber, he'll cut your hair with his scissors.",Brett has scissors.,E,possessive,42,type4_possessive_42,his scissors,premise
+Alexander believes that his insulation tester is in the toolbox.,Alexander has an insulation tester.,E,possessive,43,type4_possessive_43,his insulation tester,Attitude Premise
+"If Alexander is an electrical technician and he tests insulation with his insulation tester, it's okay.",Alexander has an insulation tester.,E,possessive,43,type4_possessive_43,his insulation tester,Conjunction Premise
+"Either Alexander isn't an electrical technician, or he tests insulation with his insulation tester.",Alexander has an insulation tester.,E,possessive,43,type4_possessive_43,his insulation tester,Disjunction Premise
+"If Alexander is an electrical technician, he'll test insulation with his insulation tester.",Alexander has an insulation tester.,E,possessive,43,type4_possessive_43,his insulation tester,premise
+Dan believes that his underwater camera is essential.,Dan has an underwater camera.,E,possessive,44,type4_possessive_44,his underwater camera,Attitude Premise
+"If Dan is a marine botanist and he captures images of underwater plants with his underwater camera, it's okay.",Dan has an underwater camera.,E,possessive,44,type4_possessive_44,his underwater camera,Conjunction Premise
+"Either Dan isn't a marine botanist, or he captures images of underwater plants with his underwater camera.",Dan has an underwater camera.,E,possessive,44,type4_possessive_44,his underwater camera,Disjunction Premise
+"If Dan is a marine botanist, he'll capture images of underwater plants with his underwater camera.",Dan has an underwater camera.,E,possessive,44,type4_possessive_44,his underwater camera,premise
+Melissa believes that her whistle is in her sports bag.,Melissa has a whistle.,E,possessive,45,type4_possessive_45,her whistle,Attitude Premise
+"If Melissa is a sports coach and she blows her whistle, it's okay.",Melissa has a whistle.,E,possessive,45,type4_possessive_45,her whistle,Conjunction Premise
+"Either Melissa isn't a sports coach, or she blows her whistle.",Melissa has a whistle.,E,possessive,45,type4_possessive_45,her whistle,Disjunction Premise
+"If Melissa is a sports coach, she'll blow her whistle.",Melissa has a whistle.,E,possessive,45,type4_possessive_45,her whistle,premise
+Tammy believes that her editing software is on her computer.,Tammy has editing software.,E,possessive,46,type4_possessive_46,her editing software,Attitude Premise
+"If Tammy is a copywriter and she edits her work with her editing software, it's okay.",Tammy has editing software.,E,possessive,46,type4_possessive_46,her editing software,Conjunction Premise
+"Either Tammy isn't a copywriter, or she edits her work with her editing software.",Tammy has editing software.,E,possessive,46,type4_possessive_46,her editing software,Disjunction Premise
+"If Tammy is a copywriter, she'll edit her work with her editing software.",Tammy has editing software.,E,possessive,46,type4_possessive_46,her editing software,premise
+Heather believes that her climbing harness is essential.,Heather has a climbing harness.,E,possessive,47,type4_possessive_47,her climbing harness,Attitude Premise
+"If Heather is a professional climber and she takes her climbing harness, it's okay.",Heather has a climbing harness.,E,possessive,47,type4_possessive_47,her climbing harness,Conjunction Premise
+"Either Heather isn't a professional climber, or she takes her climbing harness.",Heather has a climbing harness.,E,possessive,47,type4_possessive_47,her climbing harness,Disjunction Premise
+"If Heather is a professional climber, she'll take her climbing harness.",Heather has a climbing harness.,E,possessive,47,type4_possessive_47,her climbing harness,premise
+Tina believes that her mapping software is essential.,Tina has mapping software.,E,possessive,48,type4_possessive_48,her mapping software,Attitude Premise
+"If Tina is a cartographer and she uses her mapping software, it's okay.",Tina has mapping software.,E,possessive,48,type4_possessive_48,her mapping software,Conjunction Premise
+"Either Tina isn't a cartographer, or she uses her mapping software.",Tina has mapping software.,E,possessive,48,type4_possessive_48,her mapping software,Disjunction Premise
+"If Tina is a cartographer, she'll use her mapping software.",Tina has mapping software.,E,possessive,48,type4_possessive_48,her mapping software,premise
+Lori believes that her oven is in the kitchen.,Lori has an oven.,E,possessive,49,type4_possessive_49,her oven,Attitude Premise
+"If Lori is a baker and she bakes delicious pastries in her oven, it's okay.",Lori has an oven.,E,possessive,49,type4_possessive_49,her oven,Conjunction Premise
+"Either Lori isn't a baker, or she bakes delicious pastries in her oven.",Lori has an oven.,E,possessive,49,type4_possessive_49,her oven,Disjunction Premise
+"If Lori is a baker, she'll bake delicious pastries in her oven.",Lori has an oven.,E,possessive,49,type4_possessive_49,her oven,premise
+Patricia believes that her tablet is at the event.,Patricia has a tablet.,E,possessive,50,type4_possessive_50,her tablet,Attitude Premise
+"If Patricia is a graphic designer and she brings her tablet to the event, it's okay.",Patricia has a tablet.,E,possessive,50,type4_possessive_50,her tablet,Conjunction Premise
+"Either Patricia isn't a graphic designer, or she brings her tablet to the event.",Patricia has a tablet.,E,possessive,50,type4_possessive_50,her tablet,Disjunction Premise
+"If Patricia is a graphic designer, she'll bring her tablet to the event.",Patricia has a tablet.,E,possessive,50,type4_possessive_50,her tablet,premise
+Cynthia believes that her knife set is on the counter.,Cynthia has a knife set.,E,possessive,51,type4_possessive_51,her knife set,Attitude Premise
+"If Cynthia is a chef and she expertly slices the fruits with her knife set, it's okay.",Cynthia has a knife set.,E,possessive,51,type4_possessive_51,her knife set,Conjunction Premise
+"Either Cynthia isn't a chef, or she expertly slices the fruits with her knife set.",Cynthia has a knife set.,E,possessive,51,type4_possessive_51,her knife set,Disjunction Premise
+"If Cynthia is a chef, she'll expertly slice the fruits with her knife set.",Cynthia has a knife set.,E,possessive,51,type4_possessive_51,her knife set,premise
+Christina believes that her fuel injector tester is essential.,Christina has a fuel injector tester.,E,possessive,52,type4_possessive_52,her fuel injector tester,Attitude Premise
+"If Christina is a diesel mechanic and she tests fuel injectors with her fuel injector tester, it's okay.",Christina has a fuel injector tester.,E,possessive,52,type4_possessive_52,her fuel injector tester,Conjunction Premise
+"Either Christina isn't a diesel mechanic, or she tests fuel injectors with her fuel injector tester.",Christina has a fuel injector tester.,E,possessive,52,type4_possessive_52,her fuel injector tester,Disjunction Premise
+"If Christina is a diesel mechanic, she'll test fuel injectors with her fuel injector tester.",Christina has a fuel injector tester.,E,possessive,52,type4_possessive_52,her fuel injector tester,premise
+Denise believes that her serving platter is in the kitchen.,Denise has a serving platter.,E,possessive,53,type4_possessive_53,her serving platter,Attitude Premise
+"If Denise is a caterer and she carries her serving platter, it's okay.",Denise has a serving platter.,E,possessive,53,type4_possessive_53,her serving platter,Conjunction Premise
+"Either Denise isn't a caterer, or she carries her serving platter.",Denise has a serving platter.,E,possessive,53,type4_possessive_53,her serving platter,Disjunction Premise
+"If Denise is a caterer, she'll carry her serving platter.",Denise has a serving platter.,E,possessive,53,type4_possessive_53,her serving platter,premise
+Maria believes that her knife set is in the kitchen.,Maria has a knife set.,E,possessive,54,type4_possessive_54,her knife set,Attitude Premise
+"If Maria is a chef assistant and she chops the ingredients with her knife set, it's okay.",Maria has a knife set.,E,possessive,54,type4_possessive_54,her knife set,Conjunction Premise
+"Either Maria isn't a chef assistant, or she chops the ingredients with her knife set.",Maria has a knife set.,E,possessive,54,type4_possessive_54,her knife set,Disjunction Premise
+"If Maria is a chef assistant, she'll chop the ingredients with her knife set.",Maria has a knife set.,E,possessive,54,type4_possessive_54,her knife set,premise
+Kathleen believes that her ski wax is in the equipment room.,Kathleen has ski wax.,E,possessive,55,type4_possessive_55,her ski wax,Attitude Premise
+"If Kathleen is a ski instructor and she applies ski wax to her skis, it's okay.",Kathleen has ski wax.,E,possessive,55,type4_possessive_55,her ski wax,Conjunction Premise
+"Either Kathleen isn't a ski instructor, or she applies ski wax to her skis.",Kathleen has ski wax.,E,possessive,55,type4_possessive_55,her ski wax,Disjunction Premise
+"If Kathleen is a ski instructor, she'll apply ski wax to her skis.",Kathleen has ski wax.,E,possessive,55,type4_possessive_55,her ski wax,premise
+Debra believes that her dental drill is essential.,Debra has a dental drill.,E,possessive,56,type4_possessive_56,her dental drill,Attitude Premise
+"If Debra is a dentist and she uses her dental drill to perform procedures on patients, it's okay.",Debra has a dental drill.,E,possessive,56,type4_possessive_56,her dental drill,Conjunction Premise
+"Either Debra isn't a dentist, or she uses her dental drill to perform procedures on patients.",Debra has a dental drill.,E,possessive,56,type4_possessive_56,her dental drill,Disjunction Premise
+"If Debra is a dentist, she'll use her dental drill to perform procedures on patients.",Debra has a dental drill.,E,possessive,56,type4_possessive_56,her dental drill,premise
+Tonya believes that her yoga mat is in the studio.,Tonya has a yoga mat.,E,possessive,57,type4_possessive_57,her yoga mat,Attitude Premise
+"If Tonya is a yoga instructor and she brings her yoga mat, it's okay.",Tonya has a yoga mat.,E,possessive,57,type4_possessive_57,her yoga mat,Conjunction Premise
+"Either Tonya isn't a yoga instructor, or she brings her yoga mat.",Tonya has a yoga mat.,E,possessive,57,type4_possessive_57,her yoga mat,Disjunction Premise
+"If Tonya is a yoga instructor, she'll bring her yoga mat.",Tonya has a yoga mat.,E,possessive,57,type4_possessive_57,her yoga mat,premise
+Nancy believes that her tackle bags are in the equipment shed.,Nancy has tackle bags.,E,possessive,58,type4_possessive_58,her tackle bags,Attitude Premise
+"If Nancy is a rugby coach and she practices with her tackle bags, it's okay.",Nancy has tackle bags.,E,possessive,58,type4_possessive_58,her tackle bags,Conjunction Premise
+"Either Nancy isn't a rugby coach, or she practices with her tackle bags.",Nancy has tackle bags.,E,possessive,58,type4_possessive_58,her tackle bags,Disjunction Premise
+"If Nancy is a rugby coach, she'll practice with her tackle bags.",Nancy has tackle bags.,E,possessive,58,type4_possessive_58,her tackle bags,premise
+Ruth believes that her stethoscope is in her bag.,Ruth has a stethoscope.,E,possessive,59,type4_possessive_59,her stethoscope,Attitude Premise
+"If Ruth is a doctor and she brings her stethoscope to the meeting, it's okay.",Ruth has a stethoscope.,E,possessive,59,type4_possessive_59,her stethoscope,Conjunction Premise
+"Either Ruth isn't a doctor, or she brings her stethoscope to the meeting.",Ruth has a stethoscope.,E,possessive,59,type4_possessive_59,her stethoscope,Disjunction Premise
+"If Ruth is a doctor, she'll bring her stethoscope to the meeting.",Ruth has a stethoscope.,E,possessive,59,type4_possessive_59,her stethoscope,premise
+Tina believes that her typewriter is in the office.,Tina has a typewriter.,E,possessive,60,type4_possessive_60,her typewriter,Attitude Premise
+"If Tina is a typist and she brings her typewriter to the party, it's okay.",Tina has a typewriter.,E,possessive,60,type4_possessive_60,her typewriter,Conjunction Premise
+"Either Tina isn't a typist, or she brings her typewriter to the party.",Tina has a typewriter.,E,possessive,60,type4_possessive_60,her typewriter,Disjunction Premise
+"If Tina is a typist, she'll bring her typewriter to the party.",Tina has a typewriter.,E,possessive,60,type4_possessive_60,her typewriter,premise
+Leslie believes that her climbing holds are in the storage room.,Leslie has climbing holds.,E,possessive,61,type4_possessive_61,her climbing holds,Attitude Premise
+"If Leslie is a climbing wall instructor and she brings her climbing holds, it's okay.",Leslie has climbing holds.,E,possessive,61,type4_possessive_61,her climbing holds,Conjunction Premise
+"Either Leslie isn't a climbing wall instructor, or she brings her climbing holds.",Leslie has climbing holds.,E,possessive,61,type4_possessive_61,her climbing holds,Disjunction Premise
+"If Leslie is a climbing wall instructor, she'll bring her climbing holds.",Leslie has climbing holds.,E,possessive,61,type4_possessive_61,her climbing holds,premise
+Sara believes that her camera is essential.,Sara has a camera.,E,possessive,62,type4_possessive_62,her camera,Attitude Premise
+"If Sara is a fashion photographer and she brings her camera, it's okay.",Sara has a camera.,E,possessive,62,type4_possessive_62,her camera,Conjunction Premise
+"Either Sara isn't a fashion photographer, or she brings her camera.",Sara has a camera.,E,possessive,62,type4_possessive_62,her camera,Disjunction Premise
+"If Sara is a fashion photographer, she'll bring her camera..",Sara has a camera.,E,possessive,62,type4_possessive_62,her camera,premise
+Renee believes that her tripod is in the studio.,Renee has a tripod.,E,possessive,63,type4_possessive_63,her tripod,Attitude Premise
+"If Renee is a commercial photographer and she sets up her tripod, it's okay.",Renee has a tripod.,E,possessive,63,type4_possessive_63,her tripod,Conjunction Premise
+"Either Renee isn't a commercial photographer, or she sets up her tripod.",Renee has a tripod.,E,possessive,63,type4_possessive_63,her tripod,Disjunction Premise
+"If Renee is a commercial photographer, she'll set up her tripod.",Renee has a tripod.,E,possessive,63,type4_possessive_63,her tripod,premise
+Tara believes that her headlamp is in her backpack.,Tara has a headlamp.,E,possessive,64,type4_possessive_64,her headlamp,Attitude Premise
+"If Tara is a caving guide and she sees the path with her headlamp, it's okay.",Tara has a headlamp.,E,possessive,64,type4_possessive_64,her headlamp,Conjunction Premise
+"Either Tara isn't a caving guide, or she sees the path with her headlamp.",Tara has a headlamp.,E,possessive,64,type4_possessive_64,her headlamp,Disjunction Premise
+"If Tara is a caving guide, she'll see the path with her headlamp.",Tara has a headlamp.,E,possessive,64,type4_possessive_64,her headlamp,premise
+Holly believes that her lab coat is hanging in the closet.,Holly has a lab coat.,E,possessive,65,type4_possessive_65,her lab coat,Attitude Premise
+"If Holly is a biologist and she wears her lab coat, it's okay.",Holly has a lab coat.,E,possessive,65,type4_possessive_65,her lab coat,Conjunction Premise
+"Either Holly isn't a biologist, or she wears her lab coat.",Holly has a lab coat.,E,possessive,65,type4_possessive_65,her lab coat,Disjunction Premise
+"If Holly is a biologist, she'll wear her lab coat.",Holly has a lab coat.,E,possessive,65,type4_possessive_65,her lab coat,premise
+Tamara believes that her makeup brush set is in her vanity.,Tamara has a makeup brush set.,E,possessive,66,type4_possessive_66,her makeup brush set,Attitude Premise
+"If Tamara is a makeup artist and she brings her makeup brush set, it's okay.",Tamara has a makeup brush set.,E,possessive,66,type4_possessive_66,her makeup brush set,Conjunction Premise
+"Either Tamara isn't a makeup artist, or she brings her makeup brush set.",Tamara has a makeup brush set.,E,possessive,66,type4_possessive_66,her makeup brush set,Disjunction Premise
+"If Tamara is a makeup artist, she'll bring her makeup brush set.",Tamara has a makeup brush set.,E,possessive,66,type4_possessive_66,her makeup brush set,premise
+Karla believes that her spray paint is in the backpack.,Karla has spray paint.,E,possessive,67,type4_possessive_67,her spray paint,Attitude Premise
+"If Karla is a graffiti artist and she brings her spray paint, it's okay.",Karla has spray paint.,E,possessive,67,type4_possessive_67,her spray paint,Conjunction Premise
+"Either Karla isn't a graffiti artist, or she brings her spray paint.",Karla has spray paint.,E,possessive,67,type4_possessive_67,her spray paint,Disjunction Premise
+"If Karla is a graffiti artist, she'll bring her spray paint.",Karla has spray paint.,E,possessive,67,type4_possessive_67,her spray paint,premise
+Jodi believes that her microscope is in the lab.,Jodi has a microscope.,E,possessive,68,type4_possessive_68,her microscope,Attitude Premise
+"If Jodi is a scientist and she examines specimens with her microscope in the lab, it's okay.",Jodi has a microscope.,E,possessive,68,type4_possessive_68,her microscope,Conjunction Premise
+"Either Jodi isn't a scientist, or she examines specimens with her microscope in the lab.",Jodi has a microscope.,E,possessive,68,type4_possessive_68,her microscope,Disjunction Premise
+"If Jodi is a scientist, she'll examine specimens with her microscope in the lab.",Jodi has a microscope.,E,possessive,68,type4_possessive_68,her microscope,premise
+Janet believes that her round hand hammer is in the studio.,Janet has a round hand hammer.,E,possessive,69,type4_possessive_69,her round hand hammer,Attitude Premise
+"If Janet is a sculptor and she gets her round hand hammer, it's okay.",Janet has a round hand hammer.,E,possessive,69,type4_possessive_69,her round hand hammer,Conjunction Premise
+"Either Janet isn't a sculptor, or she gets her round hand hammer.",Janet has a round hand hammer.,E,possessive,69,type4_possessive_69,her round hand hammer,Disjunction Premise
+"If Janet is a sculptor, she'll get her round hand hammer.",Janet has a round hand hammer.,E,possessive,69,type4_possessive_69,her round hand hammer,premise
+Tiffany believes that her essential oils kit is at the spa.,Tiffany has an essential oils kit.,E,possessive,70,type4_possessive_70,her essential oils kit,Attitude Premise
+"If Tiffany is a spa therapist and she brings her essential oils kit to the spa, it's okay.",Tiffany has an essential oils kit.,E,possessive,70,type4_possessive_70,her essential oils kit,Conjunction Premise
+"Either Tiffany isn't a spa therapist, or she brings her essential oils kit to the spa.",Tiffany has an essential oils kit.,E,possessive,70,type4_possessive_70,her essential oils kit,Disjunction Premise
+"If Tiffany is a spa therapist, she'll bring her essential oils kit to the spa.",Tiffany has an essential oils kit.,E,possessive,70,type4_possessive_70,her essential oils kit,premise
+Amelia believes that her sewing machine is in need of fixing.,Amelia has a sewing machine.,E,possessive,71,type4_possessive_71,her sewing machine,Attitude Premise
+"If Amelia is a seamstress and she fixes her sewing machine, it's okay.",Amelia has a sewing machine.,E,possessive,71,type4_possessive_71,her sewing machine,Conjunction Premise
+"Either Amelia isn't a seamstress, or she fixes her sewing machine.",Amelia has a sewing machine.,E,possessive,71,type4_possessive_71,her sewing machine,Disjunction Premise
+"If Amelia is a seamstress, she'll fix her sewing machine.",Amelia has a sewing machine.,E,possessive,71,type4_possessive_71,her sewing machine,premise
+Colleen believes that her trowel is in the shed.,Colleen has a trowel.,E,possessive,72,type4_possessive_72,her trowel,Attitude Premise
+"If Colleen is a mason and she uses her trowel, it's okay.",Colleen has a trowel.,E,possessive,72,type4_possessive_72,her trowel,Conjunction Premise
+"Either Colleen isn't a mason, or she uses her trowel.",Colleen has a trowel.,E,possessive,72,type4_possessive_72,her trowel,Disjunction Premise
+"If Colleen is a mason, she'll use her trowel.",Colleen has a trowel.,E,possessive,72,type4_possessive_72,her trowel,premise
+Vanessa believes that her punching bag is in the gym.,Vanessa has a punching bag.,E,possessive,73,type4_possessive_73,her punching bag,Attitude Premise
+"If Vanessa is a boxing coach and she teaches the clients boxing techniques on her punching bag, it's okay.",Vanessa has a punching bag.,E,possessive,73,type4_possessive_73,her punching bag,Conjunction Premise
+"Either Vanessa isn't a boxing coach, or she teaches the clients boxing techniques on her punching bag.",Vanessa has a punching bag.,E,possessive,73,type4_possessive_73,her punching bag,Disjunction Premise
+"If Vanessa is a boxing coach, she'll teach the clients boxing techniques on her punching bag.",Vanessa has a punching bag.,E,possessive,73,type4_possessive_73,her punching bag,premise
+Beverly believes that her matting is in the gymnasium.,Beverly has matting.,E,possessive,74,type4_possessive_74,her matting,Attitude Premise
+"If Beverly is a gymnastics coach and she lays out her matting for her athletes to practice on, it's okay.",Beverly has matting.,E,possessive,74,type4_possessive_74,her matting,Conjunction Premise
+"Either Beverly isn't a gymnastics coach, or she lays out her matting for her athletes to practice on.",Beverly has matting.,E,possessive,74,type4_possessive_74,her matting,Disjunction Premise
+"If Beverly is a gymnastics coach, she'll lay out her matting for her athletes to practice on.",Beverly has matting.,E,possessive,74,type4_possessive_74,her matting,premise
+Marie believes that her display setup kit is in the storage room.,Marie has a display setup kit.,E,possessive,75,type4_possessive_75,her display setup kit,Attitude Premise
+"If Marie is a merchandiser and she assembles her display setup kit, it's okay.",Marie has a display setup kit.,E,possessive,75,type4_possessive_75,her display setup kit,Conjunction Premise
+"Either Marie isn't a merchandiser, or she assembles her display setup kit.",Marie has a display setup kit.,E,possessive,75,type4_possessive_75,her display setup kit,Disjunction Premise
+"If Marie is a merchandiser, she'll assemble her display setup kit.",Marie has a display setup kit.,E,possessive,75,type4_possessive_75,her display setup kit,premise
+Meredith believes that her quill pen is in her studio.,Meredith has a quill pen.,E,possessive,76,type4_possessive_76,her quill pen,Attitude Premise
+"If Meredith is a calligrapher and she brings her quill pen, it's okay.",Meredith has a quill pen.,E,possessive,76,type4_possessive_76,her quill pen,Conjunction Premise
+"Either Meredith isn't a calligrapher, or she brings her quill pen.",Meredith has a quill pen.,E,possessive,76,type4_possessive_76,her quill pen,Disjunction Premise
+"If Meredith is a calligrapher, she'll bring her quill pen.",Meredith has a quill pen.,E,possessive,76,type4_possessive_76,her quill pen,premise
+John believes that his otoscope is with him at all times.,John has an otoscope.,E,possessive,77,type4_possessive_77,his otoscope,Attitude Premise
+"If John is a veterinarian and he carries around his otoscope everywhere, it's okay.",John has an otoscope.,E,possessive,77,type4_possessive_77,his otoscope,Conjunction Premise
+"Either John isn't a veterinarian, or he carries around his otoscope everywhere.",John has an otoscope.,E,possessive,77,type4_possessive_77,his otoscope,Disjunction Premise
+"If John is a veterinarian, he'll carry around his otoscope everywhere.",John has an otoscope.,E,possessive,77,type4_possessive_77,his otoscope,premise
+Ali believes that his firehose is in the firetruck.,Ali has a firehose.,E,possessive,78,type4_possessive_78,his firehose,Attitude Premise
+"If Ali is a firefighter and he borrows us his firehose, it's okay.",Ali has a firehose.,E,possessive,78,type4_possessive_78,his firehose,Conjunction Premise
+"Either Ali isn't a firefighter, or he'll borrow us his firehose.",Ali has a firehose.,E,possessive,78,type4_possessive_78,his firehose,Disjunction Premise
+"If Ali is a firefighter, he'll borrow us his firehose.",Ali has a firehose.,E,possessive,78,type4_possessive_78,his firehose,premise
+The girl believes that her yoga pants are in her gym bag.,The girl has yoga pants.,E,possessive,79,type4_possessive_79,her yoga pants,Attitude Premise
+"If the girl is a yoga teacher and she brings her yoga pants, it's okay.",The girl has yoga pants.,E,possessive,79,type4_possessive_79,her yoga pants,Conjunction Premise
+"Either the girl isn't a yoga teacher, or she brings her yoga pants.",The girl has yoga pants.,E,possessive,79,type4_possessive_79,her yoga pants,Disjunction Premise
+"If the girl is a yoga teacher, she'll bring her yoga pants.",The girl has yoga pants.,E,possessive,79,type4_possessive_79,her yoga pants,premise
+Alice believes that her birthing kit is in the car.,Alice has a birthing kit.,E,possessive,80,type4_possessive_80,her birthing kit,Attitude Premise
+"If Alice is a midwife and she travels with her birthing kit, it's okay.",Alice has a birthing kit.,E,possessive,80,type4_possessive_80,her birthing kit,Conjunction Premise
+"Either Alice isn't a midwife, or she travels with her birthing kit.",Alice has a birthing kit.,E,possessive,80,type4_possessive_80,her birthing kit,Disjunction Premise
+"If Alice is a midwife, she'll travel with her birthing kit.",Alice has a birthing kit.,E,possessive,80,type4_possessive_80,her birthing kit,premise
+Tania believes that her UV nail lamp is on the shelf.,Tania has a UV nail lamp.,E,possessive,81,type4_possessive_81,her UV nail lamp,Attitude Premise
+"If Tania is a nail technician and she does your nails with her UV nail lamp, it's okay.",Tania has a UV nail lamp.,E,possessive,81,type4_possessive_81,her UV nail lamp,Conjunction Premise
+"Either Tania isn't a nail technician, or she does your nails with her UV nail lamp.",Tania has a UV nail lamp.,E,possessive,81,type4_possessive_81,her UV nail lamp,Disjunction Premise
+"If Tania is a nail technician, she'll do your nails with her UV nail lamp.",Tania has a UV nail lamp.,E,possessive,81,type4_possessive_81,her UV nail lamp,premise
+Linda believes that her rescue sled is at the ready.,Linda has a rescue sled.,E,possessive,82,type4_possessive_82,her rescue sled,Attitude Premise
+"If Linda is a ski patrol and she transports injured skiers with her rescue sled, it's okay.",Linda has a rescue sled.,E,possessive,82,type4_possessive_82,her rescue sled,Conjunction Premise
+"Either Linda isn't a ski patrol, or she transports injured skiers with her rescue sled.",Linda has a rescue sled.,E,possessive,82,type4_possessive_82,her rescue sled,Disjunction Premise
+"If Linda is a ski patrol, she'll transport injured skiers with her rescue sled.",Linda has a rescue sled.,E,possessive,82,type4_possessive_82,her rescue sled,premise
+Ryan believes that his camera is in his bag.,Ryan has a camera.,E,possessive,83,type4_possessive_83,his camera,Attitude Premise
+"If Ryan is a cameraman and he brings his camera to the event, it's okay.",Ryan has a camera.,E,possessive,83,type4_possessive_83,his camera,Conjunction Premise
+"Either Ryan isn't a cameraman, or he brings his camera to the event.",Ryan has a camera.,E,possessive,83,type4_possessive_83,his camera,Disjunction Premise
+"If Ryan is a cameraman, he'll bring his camera to the event.",Ryan has a camera.,E,possessive,83,type4_possessive_83,his camera,premise
+David believes that his shovel is in the shed.,David has a shovel.,E,possessive,84,type4_possessive_84,his shovel,Attitude Premise
+"If David is a farmer and he brings his shovel, it's okay.",David has a shovel.,E,possessive,84,type4_possessive_84,his shovel,Conjunction Premise
+"Either David isn't a farmer, or he brings his shovel.",David has a shovel.,E,possessive,84,type4_possessive_84,his shovel,Disjunction Premise
+"If David is a farmer, he'll bring his shovel.",David has a shovel.,E,possessive,84,type4_possessive_84,his shovel,premise
+Gary believes that his telescope is in the observatory.,Gary has a telescope.,E,possessive,85,type4_possessive_85,his telescope,Attitude Premise
+"If Gary is an astronomer and he observes the stars with his telescope, it's okay.",Gary has a telescope.,E,possessive,85,type4_possessive_85,his telescope,Conjunction Premise
+"Either Gary isn't an astronomer, or he observes the stars with his telescope.",Gary has a telescope.,E,possessive,85,type4_possessive_85,his telescope,Disjunction Premise
+"If Gary is an astronomer, he'll observe the stars with his telescope.",Gary has a telescope.,E,possessive,85,type4_possessive_85,his telescope,premise
+Tammy believes that her training pants are in her gym bag.,Tammy has training pants.,E,possessive,86,type4_possessive_86,her training pants,Attitude Premise
+"If Tammy is a personal trainer and she wears her training pants, it's okay.",Tammy has training pants.,E,possessive,86,type4_possessive_86,her training pants,Conjunction Premise
+"Either Tammy isn't a personal trainer, or she wears her training pants.",Tammy has training pants.,E,possessive,86,type4_possessive_86,her training pants,Disjunction Premise
+"If Tammy is a personal trainer, she'll wear her training pants.",Tammy has training pants.,E,possessive,86,type4_possessive_86,her training pants,premise
+The king believes that his suitcase is in the classroom.,The king has a suitcase.,E,possessive,87,type4_possessive_87,his suitcase,Attitude Premise
+"If the king is a teacher and he packs his suitcase, it's okay.",The king has a suitcase.,E,possessive,87,type4_possessive_87,his suitcase,Conjunction Premise
+"Either the king isn't a teacher, or he packs his suitcase.",The king has a suitcase.,E,possessive,87,type4_possessive_87,his suitcase,Disjunction Premise
+"If the king is a teacher, he'll pack his suitcase.",The king has a suitcase.,E,possessive,87,type4_possessive_87,his suitcase,premise
+Grace believes that her acupuncture needles are in her bag.,Grace has acupuncture needles.,E,possessive,88,type4_possessive_88,her acupuncture needles,Attitude Premise
+"If Grace is an acupuncturist and she carefully carries her acupuncture needles, it's okay.",Grace has acupuncture needles.,E,possessive,88,type4_possessive_88,her acupuncture needles,Conjunction Premise
+"Either Grace isn't an acupuncturist, or she carefully carries her acupuncture needles.",Grace has acupuncture needles.,E,possessive,88,type4_possessive_88,her acupuncture needles,Disjunction Premise
+"If Grace is an acupuncturist, she'll carefully carry her acupuncture needles.",Grace has acupuncture needles.,E,possessive,88,type4_possessive_88,her acupuncture needles,premise
+Melissa believes that her hammer is in the toolbox.,Melissa has a hammer.,E,possessive,89,type4_possessive_89,her hammer,Attitude Premise
+"If Melissa is a carpenter and she brings her hammer, it's okay.",Melissa has a hammer.,E,possessive,89,type4_possessive_89,her hammer,Conjunction Premise
+"Either Melissa isn't a carpenter, or she brings her hammer.",Melissa has a hammer.,E,possessive,89,type4_possessive_89,her hammer,Disjunction Premise
+"If Melissa is a carpenter, she'll bring her hammer.",Melissa has a hammer.,E,possessive,89,type4_possessive_89,her hammer,premise
+Kathleen believes that her lock picks are in her toolbox.,Kathleen has lock picks.,E,possessive,90,type4_possessive_90,her lock picks,Attitude Premise
+"If Kathleen is a locksmith and she picks locks with her lock picks, it's okay.",Kathleen has lock picks.,E,possessive,90,type4_possessive_90,her lock picks,Conjunction Premise
+"Either Kathleen isn't a locksmith, or she picks locks with her lock picks.",Kathleen has lock picks.,E,possessive,90,type4_possessive_90,her lock picks,Disjunction Premise
+"If Kathleen is a locksmith, she'll pick locks with her lock picks.",Kathleen has lock picks.,E,possessive,90,type4_possessive_90,her lock picks,premise
+Nadia believes that her flight manual is in the cockpit.,Nadia has a flight manual.,E,possessive,91,type4_possessive_91,her flight manual,Attitude Premise
+"If Nadia is a pilot and she hands in her flight manual, it's okay.",Nadia has a flight manual.,E,possessive,91,type4_possessive_91,her flight manual,Conjunction Premise
+"Either Nadia isn't a pilot, or she hands in her flight manual.",Nadia has a flight manual.,E,possessive,91,type4_possessive_91,her flight manual,Disjunction Premise
+"If Nadia is a pilot, she'll hand in her flight manual.",Nadia has a flight manual.,E,possessive,91,type4_possessive_91,her flight manual,premise
+Bradley believes that his suit is at home.,Bradley has a suit.,E,possessive,92,type4_possessive_92,his suit,Attitude Premise
+"If Bradley is a teacher and he wears his suit to the party, it's okay.",Bradley has a suit.,E,possessive,92,type4_possessive_92,his suit,Conjunction Premise
+"Either Bradley isn't a teacher, or he wears his suit to the party.",Bradley has a suit.,E,possessive,92,type4_possessive_92,his suit,Disjunction Premise
+"If Bradley is a teacher, he'll wear his suit to the party.",Bradley has a suit.,E,possessive,92,type4_possessive_92,his suit,premise
+Nadin believes that her swimsuit is in her bag.,Nadin has a swimsuit.,E,possessive,93,type4_possessive_93,her swimsuit,Attitude Premise
+"If Nadin is a swimmer and she brings her swimsuit, it's okay.",Nadin has a swimsuit.,E,possessive,93,type4_possessive_93,her swimsuit,Conjunction Premise
+"Either Nadin isn't a swimmer, or she brings her swimsuit.",Nadin has a swimsuit.,E,possessive,93,type4_possessive_93,her swimsuit,Disjunction Premise
+"If Nadin is a swimmer, she'll bring her swimsuit.",Nadin has a swimsuit.,E,possessive,93,type4_possessive_93,her swimsuit,premise
+Christina believes that her makeup sponge is in the makeup kit.,Christina has a makeup sponge.,E,possessive,94,type4_possessive_94,her makeup sponge,Attitude Premise
+"If Christina is a makeup artist and she uses her makeup sponge to fix Sara's foundation, it's okay.",Christina has a makeup sponge.,E,possessive,94,type4_possessive_94,her makeup sponge,Conjunction Premise
+"Either Christina isn't a makeup artist, or she uses her makeup sponge to fix Sara's foundation.",Christina has a makeup sponge.,E,possessive,94,type4_possessive_94,her makeup sponge,Disjunction Premise
+"If Christina is a makeup artist, she'll use her makeup sponge to fix Sara's foundation.",Christina has a makeup sponge.,E,possessive,94,type4_possessive_94,her makeup sponge,premise
+Rahim believes that his holy book is sacred.,Rahim has a holy book.,E,possessive,95,type4_possessive_95,his holy book,Attitude Premise
+"If Rahim is a clergyman and he carries around his holy book everywhere, it's okay.",Rahim has a holy book.,E,possessive,95,type4_possessive_95,his holy book,Conjunction Premise
+"Either Rahim isn't a clergyman, or he carries around his holy book everywhere.",Rahim has a holy book.,E,possessive,95,type4_possessive_95,his holy book,Disjunction Premise
+"If Rahim is a clergyman, he'll carry around his holy book everywhere.",Rahim has a holy book.,E,possessive,95,type4_possessive_95,his holy book,premise
+James believes that his gun is secure.,James has a gun.,E,possessive,96,type4_possessive_96,his gun,Attitude Premise
+"If James is a police officer and he leaves his gun at home, it's okay.",James has a gun.,E,possessive,96,type4_possessive_96,his gun,Conjunction Premise
+"Either James isn't a police officer, or he leaves his gun at home.",James has a gun.,E,possessive,96,type4_possessive_96,his gun,Disjunction Premise
+"If James is a police officer, he'll leave his gun home.",James has a gun.,E,possessive,96,type4_possessive_96,his gun,premise
+Maya believes that her metronome is in the classroom.,Maya has a metronome.,E,possessive,97,type4_possessive_97,her metronome,Attitude Premise
+"If Maya is a piano teacher and she brings her metronome to school, it's okay.",Maya has a metronome.,E,possessive,97,type4_possessive_97,her metronome,Conjunction Premise
+"Either Maya isn't a piano teacher, or she brings her metronome to school.",Maya has a metronome.,E,possessive,97,type4_possessive_97,her metronome,Disjunction Premise
+"If Maya is a piano teacher, she'll bring her metronome to school.",Maya has a metronome.,E,possessive,97,type4_possessive_97,her metronome,premise
+Aliya believes that her scrub is in the locker room.,Aliya has scrubs.,E,possessive,98,type4_possessive_98,her scrub,Attitude Premise
+"If Aliya is a nurse and she wears her scrub to work, it's okay.",Aliya has scrubs.,E,possessive,98,type4_possessive_98,her scrub,Conjunction Premise
+"Either Aliya isn't a nurse, or she wears her scrub to work.",Aliya has scrubs.,E,possessive,98,type4_possessive_98,her scrub,Disjunction Premise
+"If Aliya is a nurse, she'll wear her scrub to work.",Aliya has scrubs.,E,possessive,98,type4_possessive_98,her scrub,premise
