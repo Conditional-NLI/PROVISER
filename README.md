@@ -62,13 +62,15 @@ Zero-shot evaluation was also conducted for all four models prior to fine-tuning
 If you use PROVISER in your work, please cite:
 
 ```bibtex
-@misc{azin-etal-2026-proviso,
-  title         = {Do Language Models Know Theo Has a Wife? Investigating the Proviso Problem},
-  author        = {Azin, Tara and Dumitrescu, Daniel and Inkpen, Diana and Singh, Raj},
-  year          = {2026},
-  eprint        = {2603.08358},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.CL},
-  url           = {https://arxiv.org/abs/2603.08358}
+@inproceedings{azin-etal-2026-do,
+  title = {Do Language Models Know Theo Has a Wife? Investigating the Proviso Problem},
+  author = {Azin, Tara and Dumitrescu, Daniel and Inkpen, Diana and Singh, Raj},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {1977--1988},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  doi = {10.63317/547c6dmqaxgx},
 }
 ```
